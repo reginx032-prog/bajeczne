@@ -43,7 +43,7 @@ button, a, summary { touch-action: manipulation; }
 .nav-phone .ico { width: 19px; height: 19px; }
 .nav-sub-panel a .ico { opacity: .65; transform: none; }
 .gallery-filter { min-height: 44px; }
-.article-table-wrap { max-width: 100%; overscroll-behavior-inline: contain; }
+.article-table-wrap { max-width: 100%; }
 .article-layout > *, .article-hero-grid > *, .subpage-hero-grid > *,
 .contact-grid > *, .about-grid > *, .kb-hub-hero-grid > * { min-width: 0; }
 .btn { max-width: 100%; }

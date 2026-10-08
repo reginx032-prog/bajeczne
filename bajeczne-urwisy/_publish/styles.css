@@ -1005,8 +1005,8 @@ ul { margin: 0; padding: 0; list-style: none; }
   /* hidden, nie visible: przy overflow-x: auto „visible” liczy się jako auto
      i karuzela przechwytywała pionowe przesuwanie palcem na telefonie */
   overflow-y: hidden;
-  overscroll-behavior-inline: contain;
-  touch-action: pan-x pan-y;
+  /* bez overscroll-behavior: Safari na iOS blokuje wtedy pionowe przewijanie
+     strony, gdy palec zaczyna ruch na karuzeli */
   scroll-snap-type: x mandatory;
   scroll-padding-inline: 2px;
   padding: .25rem .25rem .45rem;
@@ -1782,7 +1782,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 }
 .reviews-strip {
   overflow-x: auto;
-  overscroll-behavior-x: contain;
+  overflow-y: hidden;
   scrollbar-width: none;
   cursor: grab;
 }
