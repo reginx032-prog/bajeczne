@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="PPK — Polskie Porozumienie Kynologiczne">
+  <defs>
+    <style>.txt{font-family:Georgia,'Times New Roman',serif}</style>
+    <path id="ppk-top" d="M110 110 m-80,0 a80,80 0 0 1 160,0"/>
+    <path id="ppk-bot" d="M110 110 m-72,0 a72,72 0 0 0 144,0"/>
+  </defs>
+  <circle cx="110" cy="110" r="104" fill="none" stroke="#b23a32" stroke-width="4"/>
+  <circle cx="110" cy="110" r="90" fill="#b23a32"/>
+  <circle cx="110" cy="110" r="62" fill="#FFFFFF"/>
+  <!-- dog silhouette -->
+  <path d="M88 132 q-4 -20 2 -30 q-6 -2 -8 -10 q6 2 10 6 q4 -8 14 -10 q18 -4 30 6 q8 6 8 18 q0 16 -8 26 q2 6 0 10 l-6 0 q-2 -6 0 -10 q-10 4 -22 2 q1 5 -1 8 l-6 0 q-2 -5 -1 -10 q-8 -1 -12 -6 Z" fill="#b23a32"/>
+  <text class="txt" x="110" y="120" text-anchor="middle" fill="#FBF7F1" font-size="34" font-weight="700" letter-spacing="1">PPK</text>
+  <text class="txt" fill="#b23a32" font-size="10.5" letter-spacing="2" font-weight="700">
+    <textPath href="#ppk-top" startOffset="50%" text-anchor="middle">POLSKIE POROZUMIENIE</textPath>
+  </text>
+  <text class="txt" fill="#b23a32" font-size="10.5" letter-spacing="3" font-weight="700">
+    <textPath href="#ppk-bot" startOffset="50%" text-anchor="middle">KYNOLOGICZNE</textPath>
+  </text>
+</svg>

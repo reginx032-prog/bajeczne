@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Responsible breeding guide</title>
+  <desc id="desc">Warm illustration of a home, puppy, certificate and heart.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <circle cx="650" cy="110" r="120" fill="#efe6d9"/>
+  <circle cx="170" cy="420" r="132" fill="#f4eee5"/>
+  <path d="M190 300h210v130H190z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M160 300l135-115 135 115" fill="none" stroke="#2b2a25" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M265 430v-80h65v80" fill="#e7d8c6" stroke="#2b2a25" stroke-width="9" stroke-linejoin="round"/>
+  <rect x="490" y="170" width="150" height="200" rx="22" fill="#fff" stroke="#2b2a25" stroke-width="9"/>
+  <path d="M520 225h90M520 268h72M520 311h92" stroke="#8c8174" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="610" cy="360" r="34" fill="#d6b890"/>
+  <path d="M595 360l11 12 24-27" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M255 246c18-46 76-46 93 0 40 3 63 34 55 73-8 43-48 67-103 67s-95-24-103-67c-8-39 15-70 58-73z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="278" cy="294" r="8" fill="#2b2a25"/>
+  <circle cx="333" cy="294" r="8" fill="#2b2a25"/>
+  <path d="M305 310c12 12 24 12 36 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M240 250c-36-28-70 11-38 43" fill="none" stroke="#2b2a25" stroke-width="9" stroke-linecap="round"/>
+  <path d="M368 250c35-28 70 11 38 43" fill="none" stroke="#2b2a25" stroke-width="9" stroke-linecap="round"/>
+</svg>

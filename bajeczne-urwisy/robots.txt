@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /_preview/
+Disallow: /_publish/
+Disallow: /tools/
+Disallow: /data/
+Disallow: /facebook-posts/
+
+Sitemap: https://bajeczneurwisy.pl/sitemap.xml

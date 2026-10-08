@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrition guide</title>
+  <desc id="desc">Food bowl, schedule and calm puppy routine.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <ellipse cx="390" cy="352" rx="210" ry="70" fill="#d6c8b7"/>
+  <path d="M205 280h370l-62 138H267z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M260 300c40 32 92 34 132 0 40 32 92 34 132 0" fill="none" stroke="#d6b890" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="310" cy="350" r="14" fill="#8c8174"/>
+  <circle cx="390" cy="362" r="14" fill="#8c8174"/>
+  <circle cx="468" cy="345" r="14" fill="#8c8174"/>
+  <rect x="568" y="132" width="92" height="134" rx="20" fill="#f3ece2" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M590 172h48M590 208h48M590 244h30" stroke="#8c8174" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="204" cy="142" r="50" fill="#e7d8c6"/>
+  <path d="M183 142c22-34 66 0 22 34-44-34 0-68 22-34" fill="#fff"/>
+</svg>

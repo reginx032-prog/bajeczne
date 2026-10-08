@@ -1,0 +1,309 @@
+[
+  {
+    "label": "ELF 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.39.24.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "30d65363d668f0e9a6593d45bcecdf78f4facca6c0cfe43634880397f74d0236",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-elf-czarny.jpg"
+      }
+    ]
+  },
+  {
+    "label": "ELF 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.40.08.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "b4fa13b69f40a0139c31ace33e74f1a907ecaea4da7ed7eb8e839bfabfbd4e5c",
+    "existing": [
+      {
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-09.jpg",
+        "id": 130,
+        "omitted": false
+      }
+    ]
+  },
+  {
+    "label": "ELF 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.40.32.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "6c5ec1ebd0de95a93b9a181e78e93c55cf4a5448131000eb8094314db225248f",
+    "existing": []
+  },
+  {
+    "label": "ELF 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.41.05.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "de27dd7fad00b805c881937a9ce0bff0eb50a9c405f6076ed641830cd1705cd4",
+    "existing": [
+      {
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg",
+        "id": 133,
+        "omitted": true
+      }
+    ]
+  },
+  {
+    "label": "ELF 05",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.41.14.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "fa1cedf028b04f96f938733d1b225b65fbbc98a85fea708c7c0d3e56a9f67b67",
+    "existing": []
+  },
+  {
+    "label": "ELF 06",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.41.25.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "36c926144f07fd432b2bba8f1e4cd2526f9b1253d6497bad217244e2983e520f",
+    "existing": [
+      {
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-13.jpg",
+        "id": 134,
+        "omitted": false
+      },
+      {
+        "src": "assets/photos/puppy-20260712-piesek-czarny.jpg"
+      }
+    ]
+  },
+  {
+    "label": "ELF 07",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.41.36.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "73c9f375ba945617713e9c3bc7527553cbabe7723361ad703d5a20b9211ee90b",
+    "existing": [
+      {
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-14.jpg",
+        "id": 135,
+        "omitted": false
+      }
+    ]
+  },
+  {
+    "label": "FIBI 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\34a8339c-d31d-4b7e-9af5-3199fb97caa1.jpg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "cf88f31c97ed8cbc6f1a00f02f6ecc8f2eecc463429b105db8c09c07cca4da43",
+    "existing": []
+  },
+  {
+    "label": "FIBI 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.21.12 (1).jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "14d930ad3eef4256078f319a6953bdd1fa985d308b5ef0be4b616bec31be2b34",
+    "existing": []
+  },
+  {
+    "label": "FIBI 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.21.12.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "14d930ad3eef4256078f319a6953bdd1fa985d308b5ef0be4b616bec31be2b34",
+    "existing": []
+  },
+  {
+    "label": "FIBI 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.21.47.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "ad1901d2faf40175ce2020e49a940d6b3b9faaca0cc6f10cc8c1355bbe6dbd4b",
+    "existing": []
+  },
+  {
+    "label": "FIBI 05",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.21.59.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "601f556135768bd2b27b1e03b385d17c1068ea6c2efdcc77684873b8e01cb4c4",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-fibi-niebieska.jpg"
+      }
+    ]
+  },
+  {
+    "label": "FIBI 06",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.22.10.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "971746d677200cd8a2b7419a070832be7af4b3689ee98071186c835c886c13e4",
+    "existing": []
+  },
+  {
+    "label": "FIBI 07",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.22.22.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "29291c7bd251fa7b1328e0cbebb34b3278e06f6a7927986e89a4f7a4408afd97",
+    "existing": []
+  },
+  {
+    "label": "FIFI 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fifi\\WhatsApp Image 2026-10-04 at 21.15.41.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "e95a2d4dabc5f7d437753b0befa2ba01b334439055ea849c13a17766c12e486a",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-fifi-niebieska.jpg"
+      }
+    ]
+  },
+  {
+    "label": "FIFI 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fifi\\WhatsApp Image 2026-10-04 at 21.16.14.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "b2a30aa179af4a781c41908adfa1a0000300e49db178d99f054406f0d6d35488",
+    "existing": []
+  },
+  {
+    "label": "FIFI 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fifi\\WhatsApp Image 2026-10-04 at 21.16.34.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "8181255d0b76ce1d28be69070201872821273ea370a24983932eb784b77af01f",
+    "existing": []
+  },
+  {
+    "label": "FIFI 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fifi\\WhatsApp Image 2026-10-04 at 21.16.48.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "a21ea6c41cf276e1354b674d4ea8ad1e0800b01127941f1dd286e15ccbf4b895",
+    "existing": []
+  },
+  {
+    "label": "FIONA 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.10.31.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "b56be6a9d53c951ea176292c9977a41b21e55e20cd1dda354d1f6962605c8cfc",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-fionka-bezowa.jpg"
+      }
+    ]
+  },
+  {
+    "label": "FIONA 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.10.52.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "2f57004ebdbe0771cfc1f8bb1dba2fba50b55011bed8e7bc85487b66b9ab62b8",
+    "existing": []
+  },
+  {
+    "label": "FIONA 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.11.02.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "39baa811026cbb14e464176ebf68b3b95353d63af7ca303e3a441daf822ebfbd",
+    "existing": []
+  },
+  {
+    "label": "FIONA 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.11.15.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "52aa3a262d2e4943a5977dfa1219898b95c1f7f70af8d1c7b628ea44aeaec286",
+    "existing": []
+  },
+  {
+    "label": "GABI 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.28.56.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "15550dd81b8b8bcba03816f3fdd3912a06f60f85ea6372803eb37eff85ea29c8",
+    "existing": []
+  },
+  {
+    "label": "GABI 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.29.12.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "dfc2aa2686e1736f7663bb4f094b2c5bc112104840c82051e9db062923de6b9f",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-gabi-czekoladowa.jpg"
+      }
+    ]
+  },
+  {
+    "label": "GABI 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.29.24.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "5e8f7c51e350a46963b8a5ed35b3bd3eb69bfb7d9f83743a2990ec5e23ef1c9b",
+    "existing": []
+  },
+  {
+    "label": "GABI 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.29.34.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "f59bea9db869657b73f73827b3d5ab2366b3bb50098747dad4357777a90d999f",
+    "existing": []
+  },
+  {
+    "label": "GACEK 01",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.25.37.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "f85f3bca48bb51bc6e7df5d0ab43f539b1cc4ffec2e6ed1a5e99c2d964de44e9",
+    "existing": [
+      {
+        "src": "assets/photos/puppy-gacek-czekoladowy-podpalany.jpg"
+      }
+    ]
+  },
+  {
+    "label": "GACEK 02",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.25.49.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "22d6bdc60f6c96779317840c03e9b180f078c37c994f3d03f6f2b3f895aa9dc8",
+    "existing": []
+  },
+  {
+    "label": "GACEK 03",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.26.11.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "4acd2636bf5439feee13b9404a81069b68368214188f71ad82e618a4bdb467eb",
+    "existing": []
+  },
+  {
+    "label": "GACEK 04",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.26.30.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "aba155f39c9272daa29d8c2ae918ffa6b4463c170ce1e28eda72527ae4b7efcb",
+    "existing": []
+  },
+  {
+    "label": "GACEK 05",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.27.14.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "27b85a11f292ade6d2195f57e9b8dc775ad8d638014825af0d591527542b3ce0",
+    "existing": []
+  },
+  {
+    "label": "GACEK 06",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.27.31.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "pixelHash": "8eb0ee165c024cef0279b91b8266480f4af47e834494c5407f2e41e62f59167a",
+    "existing": []
+  }
+]

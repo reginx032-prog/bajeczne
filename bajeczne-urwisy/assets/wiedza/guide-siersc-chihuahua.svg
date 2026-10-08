@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Chihuahua coat guide</title>
+  <desc id="desc">Short coat and long coat Chihuahua silhouettes.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M150 338c18-78 104-108 162-58 46-20 103 4 124 52 44 0 78 32 78 70H120c0-35 11-56 30-64z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M250 276c-62-78-124-18-78 66 28-34 56-55 78-66z" fill="#e7d8c6" stroke="#2b2a25" stroke-width="8"/>
+  <circle cx="280" cy="326" r="8" fill="#2b2a25"/>
+  <path d="M360 326c8 8 17 8 25 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M560 152c30 38 50 82 50 130 0 74-46 132-132 166" fill="none" stroke="#d6b890" stroke-width="15" stroke-linecap="round"/>
+  <path d="M520 164c22 30 36 66 36 110 0 54-27 101-82 137" fill="none" stroke="#8c8174" stroke-width="9" stroke-linecap="round"/>
+  <path d="M621 156c-20 50-17 95 11 135" fill="none" stroke="#2b2a25" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="638" cy="360" r="42" fill="#efe6d9"/>
+  <path d="M620 360h36" stroke="#8c8174" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Puppy layette guide</title>
+  <desc id="desc">Prepared puppy basket with bowl, toy and documents.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <rect x="168" y="214" width="464" height="198" rx="42" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M235 214c0-86 330-86 330 0" fill="none" stroke="#2b2a25" stroke-width="11" stroke-linecap="round"/>
+  <path d="M230 274h340" stroke="#d6c8b7" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="296" cy="346" r="44" fill="#d6b890"/>
+  <path d="M272 346h48" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="392" y="284" width="96" height="100" rx="18" fill="#f3ece2" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M412 320h56M412 350h42" stroke="#8c8174" stroke-width="8" stroke-linecap="round"/>
+  <path d="M535 300c35-35 82 12 48 48l-48 48-48-48c-34-36 13-83 48-48z" fill="#e7d8c6" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="158" cy="152" r="44" fill="#efe6d9"/>
+  <circle cx="646" cy="148" r="56" fill="#efe6d9"/>
+</svg>

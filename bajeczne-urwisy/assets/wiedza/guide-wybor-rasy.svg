@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Breed choice guide</title>
+  <desc id="desc">Two small dogs and balanced choice symbols.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M400 132v260M272 180h256M312 180l-88 144h176zM488 180l-88 144h176z" fill="none" stroke="#2b2a25" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M192 392h416" stroke="#d6c8b7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M196 268c10-44 57-60 93-36 33-19 77 1 89 39" fill="#fff" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="254" cy="270" r="7" fill="#2b2a25"/>
+  <circle cx="312" cy="270" r="7" fill="#2b2a25"/>
+  <path d="M484 270c13-60 80-82 132-45 44 31 45 104-5 137-38 25-106 24-142-3" fill="#fff" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="540" cy="280" r="7" fill="#2b2a25"/>
+  <circle cx="595" cy="280" r="7" fill="#2b2a25"/>
+  <circle cx="400" cy="132" r="46" fill="#d6b890"/>
+  <path d="M380 132l14 14 28-33" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

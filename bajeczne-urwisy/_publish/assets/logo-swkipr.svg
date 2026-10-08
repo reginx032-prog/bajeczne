@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="SWKiPR">
+  <defs>
+    <style>
+      .ring{fill:none;stroke:#322E29;stroke-width:3}
+      .line{fill:none;stroke:#322E29;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .txt{font-family:Georgia,'Times New Roman',serif;fill:#322E29}
+    </style>
+  </defs>
+  <circle class="ring" cx="110" cy="110" r="104"/>
+  <circle class="ring" cx="110" cy="110" r="96" stroke-width="1.5"/>
+  <!-- dog head (line art) -->
+  <path class="line" d="M70 70 q-8 -22 4 -26 q8 -2 9 12 q10 -7 22 -7 q12 0 22 7 q1 -14 9 -12 q12 4 4 26 q9 12 6 27 q-3 16 -20 22 q-21 6 -42 0 q-17 -6 -20 -22 q-3 -15 6 -27 Z"/>
+  <circle cx="96" cy="96" r="3.4" fill="#322E29"/>
+  <circle cx="124" cy="96" r="3.4" fill="#322E29"/>
+  <path class="line" d="M105 108 q5 6 10 0"/>
+  <!-- cat ear hint behind (small) -->
+  <path class="line" d="M150 78 q12 -10 16 2 q3 9 -8 14" opacity=".55"/>
+  <text class="txt" x="110" y="170" text-anchor="middle" font-size="30" font-weight="700" letter-spacing="1">SWKiPR</text>
+  <text class="txt" x="110" y="190" text-anchor="middle" font-size="10.5" letter-spacing="1.5" opacity=".7">KYNOLOGIA</text>
+</svg>

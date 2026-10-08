@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Pickup and travel guide</title>
+  <desc id="desc">Car trip with small puppy carrier and calm route.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M158 330l52-110c12-26 36-40 66-40h210c30 0 54 14 66 40l52 110" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="122" y="318" width="556" height="92" rx="34" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <circle cx="238" cy="416" r="46" fill="#2b2a25"/>
+  <circle cx="238" cy="416" r="20" fill="#fbf7f0"/>
+  <circle cx="562" cy="416" r="46" fill="#2b2a25"/>
+  <circle cx="562" cy="416" r="20" fill="#fbf7f0"/>
+  <path d="M286 210h192l36 84H250z" fill="#f3ece2" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="356" y="112" width="120" height="116" rx="24" fill="#e7d8c6" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M386 112c0-38 60-38 60 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M391 186c8-24 42-24 50 0 20 1 32 15 28 33-4 22-24 34-53 34s-49-12-53-34c-4-18 8-32 28-33z" fill="#fff" stroke="#2b2a25" stroke-width="6"/>
+  <path d="M112 132c64-34 126-34 190 0M518 132c64-34 126-34 190 0" fill="none" stroke="#d6b890" stroke-width="10" stroke-linecap="round"/>
+</svg>

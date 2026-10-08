@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bajeczne-urwisy",
+      "runtimeExecutable": "powershell.exe",
+      "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", ".claude/preview-server.ps1"],
+      "port": 4321
+    },
+    {
+      "name": "bajeczne-urwisy-node",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/preview-server.js"],
+      "port": 4321
+    }
+  ]
+}

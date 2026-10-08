@@ -1,0 +1,1472 @@
+[
+  {
+    "id": 1,
+    "source": "v1.jpeg",
+    "file": "chihuahua-2026-01.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      52,
+      46,
+      62
+    ],
+    "rect": [
+      252,
+      240,
+      744,
+      992
+    ],
+    "positionX": 55.263,
+    "positionY": 39.474,
+    "scale": 1.6129
+  },
+  {
+    "id": 2,
+    "source": "v2.jpeg",
+    "file": "chihuahua-2026-02.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      50,
+      47,
+      72
+    ],
+    "rect": [
+      168,
+      176,
+      864,
+      1152
+    ],
+    "positionX": 50,
+    "positionY": 39.286,
+    "scale": 1.38889
+  },
+  {
+    "id": 3,
+    "source": "v3.jpeg",
+    "file": "chihuahua-2026-03.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      50,
+      48,
+      72
+    ],
+    "rect": [
+      168,
+      192,
+      864,
+      1152
+    ],
+    "positionX": 50,
+    "positionY": 42.857,
+    "scale": 1.38889
+  },
+  {
+    "id": 4,
+    "source": "v4.jpeg",
+    "file": "chihuahua-2026-04.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      40,
+      57
+    ],
+    "rect": [
+      306,
+      184,
+      684,
+      912
+    ],
+    "positionX": 59.302,
+    "positionY": 26.744,
+    "scale": 1.75439
+  },
+  {
+    "id": 5,
+    "source": "v5.jpeg",
+    "file": "chihuahua-2026-05.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      53,
+      44,
+      66
+    ],
+    "rect": [
+      240,
+      176,
+      792,
+      1056
+    ],
+    "positionX": 58.824,
+    "positionY": 32.353,
+    "scale": 1.51515
+  },
+  {
+    "id": 6,
+    "source": "v6.jpeg",
+    "file": "chihuahua-2026-06.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      60,
+      43,
+      65
+    ],
+    "rect": [
+      330,
+      168,
+      780,
+      1040
+    ],
+    "positionX": 78.571,
+    "positionY": 30,
+    "scale": 1.53846
+  },
+  {
+    "id": 7,
+    "source": "v7.jpeg",
+    "file": "chihuahua-2026-07.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      46,
+      46,
+      68
+    ],
+    "rect": [
+      144,
+      192,
+      816,
+      1088
+    ],
+    "positionX": 37.5,
+    "positionY": 37.5,
+    "scale": 1.47059
+  },
+  {
+    "id": 8,
+    "source": "v8.jpeg",
+    "file": "chihuahua-2026-08.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      62,
+      45,
+      68
+    ],
+    "rect": [
+      336,
+      176,
+      816,
+      1088
+    ],
+    "positionX": 87.5,
+    "positionY": 34.375,
+    "scale": 1.47059
+  },
+  {
+    "id": 9,
+    "source": "WhatsApp Image 2026-08-23 at 16.15.15.jpeg",
+    "file": "chihuahua-2026-09.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      52,
+      78
+    ],
+    "rect": [
+      60,
+      208,
+      936,
+      1248
+    ],
+    "positionX": 22.727,
+    "positionY": 59.091,
+    "scale": 1.28205
+  },
+  {
+    "id": 10,
+    "source": "WhatsApp Image 2026-08-23 at 16.15.30.jpeg",
+    "file": "chihuahua-2026-10.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      55,
+      50,
+      76
+    ],
+    "rect": [
+      204,
+      192,
+      912,
+      1216
+    ],
+    "positionX": 70.833,
+    "positionY": 50,
+    "scale": 1.31579
+  },
+  {
+    "id": 11,
+    "source": "WhatsApp Image 2026-08-23 at 16.15.47.jpeg",
+    "file": "chihuahua-2026-11.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      52,
+      76
+    ],
+    "rect": [
+      192,
+      224,
+      912,
+      1216
+    ],
+    "positionX": 66.667,
+    "positionY": 58.333,
+    "scale": 1.31579
+  },
+  {
+    "id": 12,
+    "source": "WhatsApp Image 2026-08-23 at 16.16.02.jpeg",
+    "file": "chihuahua-2026-12.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      47,
+      48,
+      60
+    ],
+    "rect": [
+      204,
+      288,
+      720,
+      960
+    ],
+    "positionX": 42.5,
+    "positionY": 45,
+    "scale": 1.66667
+  },
+  {
+    "id": 13,
+    "source": "WhatsApp Image 2026-08-23 at 16.16.15.jpeg",
+    "file": "chihuahua-2026-13.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      51,
+      46,
+      66
+    ],
+    "rect": [
+      216,
+      208,
+      792,
+      1056
+    ],
+    "positionX": 52.941,
+    "positionY": 38.235,
+    "scale": 1.51515
+  },
+  {
+    "id": 14,
+    "source": "WhatsApp Image 2026-08-23 at 16.16.27.jpeg",
+    "file": "chihuahua-2026-14.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      50,
+      48,
+      66
+    ],
+    "rect": [
+      204,
+      240,
+      792,
+      1056
+    ],
+    "positionX": 50,
+    "positionY": 44.118,
+    "scale": 1.51515
+  },
+  {
+    "id": 15,
+    "source": "x1.jpeg",
+    "file": "chihuahua-2026-15.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      55,
+      41,
+      60
+    ],
+    "rect": [
+      300,
+      176,
+      720,
+      960
+    ],
+    "positionX": 62.5,
+    "positionY": 27.5,
+    "scale": 1.66667
+  },
+  {
+    "id": 16,
+    "source": "x2.jpeg",
+    "file": "chihuahua-2026-16.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      49,
+      41,
+      60
+    ],
+    "rect": [
+      228,
+      176,
+      720,
+      960
+    ],
+    "positionX": 47.5,
+    "positionY": 27.5,
+    "scale": 1.66667
+  },
+  {
+    "id": 17,
+    "source": "x3.jpeg",
+    "file": "chihuahua-2026-17.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      44,
+      62
+    ],
+    "rect": [
+      156,
+      208,
+      744,
+      992
+    ],
+    "positionX": 34.211,
+    "positionY": 34.211,
+    "scale": 1.6129
+  },
+  {
+    "id": 18,
+    "source": "x4.jpeg",
+    "file": "chihuahua-2026-18.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      47,
+      43,
+      62
+    ],
+    "rect": [
+      192,
+      192,
+      744,
+      992
+    ],
+    "positionX": 42.105,
+    "positionY": 31.579,
+    "scale": 1.6129
+  },
+  {
+    "id": 19,
+    "source": "x5.jpeg",
+    "file": "chihuahua-2026-19.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      44,
+      62
+    ],
+    "rect": [
+      156,
+      208,
+      744,
+      992
+    ],
+    "positionX": 34.211,
+    "positionY": 34.211,
+    "scale": 1.6129
+  },
+  {
+    "id": 20,
+    "source": "x6.jpeg",
+    "file": "chihuahua-2026-20.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      48,
+      49,
+      76
+    ],
+    "rect": [
+      120,
+      176,
+      912,
+      1216
+    ],
+    "positionX": 41.667,
+    "positionY": 45.833,
+    "scale": 1.31579
+  },
+  {
+    "id": 21,
+    "source": "x7.jpeg",
+    "file": "chihuahua-2026-21.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      45,
+      64
+    ],
+    "rect": [
+      144,
+      208,
+      768,
+      1024
+    ],
+    "positionX": 33.333,
+    "positionY": 36.111,
+    "scale": 1.5625
+  },
+  {
+    "id": 22,
+    "source": "x8.jpeg",
+    "file": "chihuahua-2026-22.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      56,
+      53,
+      78
+    ],
+    "rect": [
+      204,
+      224,
+      936,
+      1248
+    ],
+    "positionX": 77.273,
+    "positionY": 63.636,
+    "scale": 1.28205
+  },
+  {
+    "id": 23,
+    "source": "x9.jpeg",
+    "file": "chihuahua-2026-23.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      48,
+      47,
+      78
+    ],
+    "rect": [
+      108,
+      128,
+      936,
+      1248
+    ],
+    "positionX": 40.909,
+    "positionY": 36.364,
+    "scale": 1.28205
+  },
+  {
+    "id": 24,
+    "source": "z.jpeg",
+    "file": "chihuahua-2026-24.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      59,
+      58,
+      76
+    ],
+    "rect": [
+      252,
+      320,
+      912,
+      1216
+    ],
+    "positionX": 87.5,
+    "positionY": 83.333,
+    "scale": 1.31579
+  },
+  {
+    "id": 25,
+    "source": "z2.jpeg",
+    "file": "chihuahua-2026-25.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      40,
+      62,
+      58
+    ],
+    "rect": [
+      132,
+      528,
+      696,
+      928
+    ],
+    "positionX": 26.19,
+    "positionY": 78.571,
+    "scale": 1.72414
+  },
+  {
+    "id": 26,
+    "source": "z3.jpeg",
+    "file": "chihuahua-2026-26.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      40,
+      61,
+      65
+    ],
+    "rect": [
+      90,
+      456,
+      780,
+      1040
+    ],
+    "positionX": 21.429,
+    "positionY": 81.429,
+    "scale": 1.53846
+  },
+  {
+    "id": 27,
+    "source": "z4.jpeg",
+    "file": "chihuahua-2026-27.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      38,
+      60,
+      69
+    ],
+    "rect": [
+      42,
+      408,
+      828,
+      1104
+    ],
+    "positionX": 11.29,
+    "positionY": 82.258,
+    "scale": 1.44928
+  },
+  {
+    "id": 28,
+    "source": "z5.jpeg",
+    "file": "chihuahua-2026-28.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      39,
+      51,
+      70
+    ],
+    "rect": [
+      48,
+      256,
+      840,
+      1120
+    ],
+    "positionX": 13.333,
+    "positionY": 53.333,
+    "scale": 1.42857
+  },
+  {
+    "id": 29,
+    "source": "z6.jpeg",
+    "file": "chihuahua-2026-29.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      37,
+      51,
+      70
+    ],
+    "rect": [
+      24,
+      256,
+      840,
+      1120
+    ],
+    "positionX": 6.667,
+    "positionY": 53.333,
+    "scale": 1.42857
+  },
+  {
+    "id": 30,
+    "source": "z7.jpeg",
+    "file": "chihuahua-2026-30.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      46,
+      51,
+      66
+    ],
+    "rect": [
+      156,
+      288,
+      792,
+      1056
+    ],
+    "positionX": 38.235,
+    "positionY": 52.941,
+    "scale": 1.51515
+  },
+  {
+    "id": 31,
+    "source": "z8.jpeg",
+    "file": "chihuahua-2026-31.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      46,
+      58
+    ],
+    "rect": [
+      180,
+      272,
+      696,
+      928
+    ],
+    "positionX": 35.714,
+    "positionY": 40.476,
+    "scale": 1.72414
+  },
+  {
+    "id": 32,
+    "source": "c1.jpeg",
+    "file": "chihuahua-2026-32.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      49,
+      52,
+      72
+    ],
+    "rect": [
+      156,
+      256,
+      864,
+      1152
+    ],
+    "positionX": 46.429,
+    "positionY": 57.143,
+    "scale": 1.38889
+  },
+  {
+    "id": 33,
+    "source": "c2.jpeg",
+    "file": "chihuahua-2026-33.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      52,
+      47,
+      94
+    ],
+    "rect": [
+      60,
+      0,
+      1128,
+      1504
+    ],
+    "positionX": 83.333,
+    "positionY": 0,
+    "scale": 1.06383
+  },
+  {
+    "id": 34,
+    "source": "c3.jpeg",
+    "file": "chihuahua-2026-34.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      41,
+      59,
+      71
+    ],
+    "rect": [
+      66,
+      376,
+      852,
+      1136
+    ],
+    "positionX": 18.966,
+    "positionY": 81.034,
+    "scale": 1.40845
+  },
+  {
+    "id": 35,
+    "source": "c4.jpeg",
+    "file": "chihuahua-2026-35.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      58,
+      76
+    ],
+    "rect": [
+      72,
+      320,
+      912,
+      1216
+    ],
+    "positionX": 25,
+    "positionY": 83.333,
+    "scale": 1.31579
+  },
+  {
+    "id": 36,
+    "source": "c5.jpeg",
+    "file": "chihuahua-2026-36.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      58,
+      42,
+      83
+    ],
+    "rect": [
+      198,
+      8,
+      996,
+      1328
+    ],
+    "positionX": 97.059,
+    "positionY": 2.941,
+    "scale": 1.20482
+  },
+  {
+    "id": 37,
+    "source": "c6.jpeg",
+    "file": "chihuahua-2026-37.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      59,
+      39,
+      66
+    ],
+    "rect": [
+      312,
+      96,
+      792,
+      1056
+    ],
+    "positionX": 76.471,
+    "positionY": 17.647,
+    "scale": 1.51515
+  },
+  {
+    "id": 38,
+    "source": "c7.jpeg",
+    "file": "chihuahua-2026-38.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      56,
+      37,
+      70
+    ],
+    "rect": [
+      252,
+      32,
+      840,
+      1120
+    ],
+    "positionX": 70,
+    "positionY": 6.667,
+    "scale": 1.42857
+  },
+  {
+    "id": 39,
+    "source": "c8.jpeg",
+    "file": "chihuahua-2026-39.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      65,
+      39,
+      70
+    ],
+    "rect": [
+      360,
+      64,
+      840,
+      1120
+    ],
+    "positionX": 100,
+    "positionY": 13.333,
+    "scale": 1.42857
+  },
+  {
+    "id": 40,
+    "source": "c9.jpeg",
+    "file": "chihuahua-2026-40.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      43,
+      62
+    ],
+    "rect": [
+      276,
+      192,
+      744,
+      992
+    ],
+    "positionX": 60.526,
+    "positionY": 31.579,
+    "scale": 1.6129
+  },
+  {
+    "id": 41,
+    "source": "WhatsApp Image 2026-08-10 at 21.53.55 (1).jpeg",
+    "file": "chihuahua-2026-41.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      53,
+      70
+    ],
+    "rect": [
+      108,
+      288,
+      840,
+      1120
+    ],
+    "positionX": 30,
+    "positionY": 60,
+    "scale": 1.42857
+  },
+  {
+    "id": 42,
+    "source": "WhatsApp Image 2026-08-10 at 21.53.55 (2).jpeg",
+    "file": "chihuahua-2026-42.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      51,
+      48,
+      70
+    ],
+    "rect": [
+      192,
+      208,
+      840,
+      1120
+    ],
+    "positionX": 53.333,
+    "positionY": 43.333,
+    "scale": 1.42857
+  },
+  {
+    "id": 43,
+    "source": "WhatsApp Image 2026-08-10 at 21.53.55 (3).jpeg",
+    "file": "chihuahua-2026-43.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      55,
+      53,
+      64
+    ],
+    "rect": [
+      276,
+      336,
+      768,
+      1024
+    ],
+    "positionX": 63.889,
+    "positionY": 58.333,
+    "scale": 1.5625
+  },
+  {
+    "id": 44,
+    "source": "WhatsApp Image 2026-08-10 at 21.53.55 (4).jpeg",
+    "file": "chihuahua-2026-44.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      49,
+      52,
+      57
+    ],
+    "rect": [
+      246,
+      376,
+      684,
+      912
+    ],
+    "positionX": 47.674,
+    "positionY": 54.651,
+    "scale": 1.75439
+  },
+  {
+    "id": 45,
+    "source": "WhatsApp Image 2026-08-10 at 21.53.55.jpeg",
+    "file": "chihuahua-2026-45.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      53,
+      64
+    ],
+    "rect": [
+      144,
+      336,
+      768,
+      1024
+    ],
+    "positionX": 33.333,
+    "positionY": 58.333,
+    "scale": 1.5625
+  },
+  {
+    "id": 46,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.08 (1).jpeg",
+    "file": "chihuahua-2026-46.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      53,
+      53,
+      76
+    ],
+    "rect": [
+      180,
+      240,
+      912,
+      1216
+    ],
+    "positionX": 62.5,
+    "positionY": 62.5,
+    "scale": 1.31579
+  },
+  {
+    "id": 47,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.08.jpeg",
+    "file": "chihuahua-2026-47.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      58,
+      47,
+      76
+    ],
+    "rect": [
+      240,
+      144,
+      912,
+      1216
+    ],
+    "positionX": 83.333,
+    "positionY": 37.5,
+    "scale": 1.31579
+  },
+  {
+    "id": 48,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.09 (1).jpeg",
+    "file": "chihuahua-2026-48.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      55,
+      53,
+      63
+    ],
+    "rect": [
+      282,
+      344,
+      756,
+      1008
+    ],
+    "positionX": 63.514,
+    "positionY": 58.108,
+    "scale": 1.5873
+  },
+  {
+    "id": 49,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.09 (2).jpeg",
+    "file": "chihuahua-2026-49.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      49,
+      54,
+      66
+    ],
+    "rect": [
+      192,
+      336,
+      792,
+      1056
+    ],
+    "positionX": 47.059,
+    "positionY": 61.765,
+    "scale": 1.51515
+  },
+  {
+    "id": 50,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.09 (3).jpeg",
+    "file": "chihuahua-2026-50.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      52,
+      52,
+      65
+    ],
+    "rect": [
+      234,
+      312,
+      780,
+      1040
+    ],
+    "positionX": 55.714,
+    "positionY": 55.714,
+    "scale": 1.53846
+  },
+  {
+    "id": 51,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.09 (4).jpeg",
+    "file": "chihuahua-2026-51.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      50,
+      50,
+      100
+    ],
+    "rect": [
+      0,
+      0,
+      1200,
+      1600
+    ],
+    "positionX": 50,
+    "positionY": 50,
+    "scale": 1
+  },
+  {
+    "id": 52,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.09.jpeg",
+    "file": "chihuahua-2026-52.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      38,
+      51,
+      63
+    ],
+    "rect": [
+      78,
+      312,
+      756,
+      1008
+    ],
+    "positionX": 17.568,
+    "positionY": 52.703,
+    "scale": 1.5873
+  },
+  {
+    "id": 53,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.50 (1).jpeg",
+    "file": "chihuahua-2026-53.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      58,
+      55,
+      62
+    ],
+    "rect": [
+      324,
+      384,
+      744,
+      992
+    ],
+    "positionX": 71.053,
+    "positionY": 63.158,
+    "scale": 1.6129
+  },
+  {
+    "id": 54,
+    "source": "WhatsApp Image 2026-08-10 at 21.56.50.jpeg",
+    "file": "chihuahua-2026-54.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      58,
+      48,
+      64
+    ],
+    "rect": [
+      312,
+      256,
+      768,
+      1024
+    ],
+    "positionX": 72.222,
+    "positionY": 44.444,
+    "scale": 1.5625
+  },
+  {
+    "id": 55,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.55 (1).jpeg",
+    "file": "chihuahua-2026-55.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      55,
+      48,
+      76
+    ],
+    "rect": [
+      204,
+      160,
+      912,
+      1216
+    ],
+    "positionX": 70.833,
+    "positionY": 41.667,
+    "scale": 1.31579
+  },
+  {
+    "id": 56,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.55 (2).jpeg",
+    "file": "chihuahua-2026-56.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      47,
+      68
+    ],
+    "rect": [
+      240,
+      208,
+      816,
+      1088
+    ],
+    "positionX": 62.5,
+    "positionY": 40.625,
+    "scale": 1.47059
+  },
+  {
+    "id": 57,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.55.jpeg",
+    "file": "chihuahua-2026-57.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      50,
+      66
+    ],
+    "rect": [
+      252,
+      272,
+      792,
+      1056
+    ],
+    "positionX": 61.765,
+    "positionY": 50,
+    "scale": 1.51515
+  },
+  {
+    "id": 58,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.56 (1).jpeg",
+    "file": "chihuahua-2026-58.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      51,
+      43,
+      78
+    ],
+    "rect": [
+      144,
+      64,
+      936,
+      1248
+    ],
+    "positionX": 54.545,
+    "positionY": 18.182,
+    "scale": 1.28205
+  },
+  {
+    "id": 59,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.56 (2).jpeg",
+    "file": "chihuahua-2026-59.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      54,
+      52,
+      88
+    ],
+    "rect": [
+      120,
+      128,
+      1056,
+      1408
+    ],
+    "positionX": 83.333,
+    "positionY": 66.667,
+    "scale": 1.13636
+  },
+  {
+    "id": 60,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.56 (3).jpeg",
+    "file": "chihuahua-2026-60.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      52,
+      50,
+      91
+    ],
+    "rect": [
+      78,
+      72,
+      1092,
+      1456
+    ],
+    "positionX": 72.222,
+    "positionY": 50,
+    "scale": 1.0989
+  },
+  {
+    "id": 61,
+    "source": "WhatsApp Image 2026-08-10 at 21.59.56.jpeg",
+    "file": "chihuahua-2026-61.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      46,
+      42,
+      76
+    ],
+    "rect": [
+      96,
+      64,
+      912,
+      1216
+    ],
+    "positionX": 33.333,
+    "positionY": 16.667,
+    "scale": 1.31579
+  },
+  {
+    "id": 62,
+    "source": "WhatsApp Image 2026-08-10 at 22.02.06 (1).jpeg",
+    "file": "chihuahua-2026-62.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      44,
+      48,
+      72
+    ],
+    "rect": [
+      96,
+      192,
+      864,
+      1152
+    ],
+    "positionX": 28.571,
+    "positionY": 42.857,
+    "scale": 1.38889
+  },
+  {
+    "id": 63,
+    "source": "WhatsApp Image 2026-08-10 at 22.02.06 (2).jpeg",
+    "file": "chihuahua-2026-63.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      45,
+      45,
+      58
+    ],
+    "rect": [
+      192,
+      256,
+      696,
+      928
+    ],
+    "positionX": 38.095,
+    "positionY": 38.095,
+    "scale": 1.72414
+  },
+  {
+    "id": 64,
+    "source": "WhatsApp Image 2026-08-10 at 22.02.06 (3).jpeg",
+    "file": "chihuahua-2026-64.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      42,
+      49,
+      56
+    ],
+    "rect": [
+      168,
+      336,
+      672,
+      896
+    ],
+    "positionX": 31.818,
+    "positionY": 47.727,
+    "scale": 1.78571
+  },
+  {
+    "id": 65,
+    "source": "WhatsApp Image 2026-08-10 at 22.02.06.jpeg",
+    "file": "chihuahua-2026-65.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      52,
+      43,
+      68
+    ],
+    "rect": [
+      216,
+      144,
+      816,
+      1088
+    ],
+    "positionX": 56.25,
+    "positionY": 28.125,
+    "scale": 1.47059
+  },
+  {
+    "id": 66,
+    "source": "WhatsApp Image 2026-08-10 at 22.02.07.jpeg",
+    "file": "chihuahua-2026-66.jpg",
+    "width": 1200,
+    "height": 1600,
+    "crop": [
+      42,
+      56,
+      72
+    ],
+    "rect": [
+      72,
+      320,
+      864,
+      1152
+    ],
+    "positionX": 21.429,
+    "positionY": 71.429,
+    "scale": 1.38889
+  },
+  {
+    "id": 67,
+    "source": "WhatsApp Image 2026-08-23 at 18.01.11.jpeg",
+    "file": "chihuahua-2026-67.jpg",
+    "width": 901,
+    "height": 1600,
+    "crop": [
+      50,
+      54,
+      100
+    ],
+    "rect": [
+      0,
+      263.33333333333337,
+      901,
+      1201.3333333333333
+    ],
+    "positionX": 50,
+    "positionY": 66.054,
+    "scale": 1
+  },
+  {
+    "id": 68,
+    "source": "WhatsApp Image 2026-08-23 at 18.02.11.jpeg",
+    "file": "chihuahua-2026-68.jpg",
+    "width": 900,
+    "height": 1600,
+    "crop": [
+      50,
+      55,
+      90
+    ],
+    "rect": [
+      45,
+      340,
+      810,
+      1080
+    ],
+    "positionX": 50,
+    "positionY": 65.385,
+    "scale": 1.11111
+  },
+  {
+    "id": 69,
+    "source": "WhatsApp Image 2026-08-23 at 18.02.50.jpeg",
+    "file": "chihuahua-2026-69.jpg",
+    "width": 900,
+    "height": 1600,
+    "crop": [
+      50,
+      42,
+      100
+    ],
+    "rect": [
+      0,
+      72,
+      900,
+      1200
+    ],
+    "positionX": 50,
+    "positionY": 18,
+    "scale": 1
+  },
+  {
+    "id": 70,
+    "source": "WhatsApp Image 2026-08-23 at 18.03.38.jpeg",
+    "file": "chihuahua-2026-70.jpg",
+    "width": 900,
+    "height": 1600,
+    "crop": [
+      50,
+      54,
+      100
+    ],
+    "rect": [
+      0,
+      264,
+      900,
+      1200
+    ],
+    "positionX": 50,
+    "positionY": 66,
+    "scale": 1
+  }
+]

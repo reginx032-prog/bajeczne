@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgB)"/>
+
+  <path d="M400,52 C548,46 652,140 646,262 C640,380 542,452 398,454 C264,456 160,372 164,250 C168,134 262,58 400,52 Z" fill="#EBE0CC" opacity=".55"/>
+  <ellipse cx="400" cy="458" rx="190" ry="19" fill="#2A2823" opacity=".07"/>
+
+  <!-- akcenty -->
+  <path d="M188,342 Q150,262 192,184" fill="none" stroke="#C7A57A" stroke-width="5" stroke-linecap="round" stroke-dasharray="0.1 17" opacity=".75"/>
+  <g fill="#C7A57A">
+    <path d="M214,128 C216,138 218,140 228,142 C218,144 216,146 214,156 C212,146 210,144 200,142 C210,140 212,138 214,128 Z"/>
+    <path d="M612,326 C613.5,333 615,334.5 622,336 C615,337.5 613.5,339 612,346 C610.5,339 609,337.5 602,336 C609,334.5 610.5,333 612,326 Z" opacity=".85"/>
+  </g>
+  <path d="M572,142 C572,134 558,130 558,138 C558,144 566,148 572,154 C578,148 586,144 586,138 C586,130 572,134 572,142 Z" fill="#A6714A" opacity=".9"/>
+
+  <!-- uszy (za głową) -->
+  <ellipse cx="303" cy="232" rx="40" ry="88" fill="#F1E7D2" stroke="#E4D6BE" stroke-width="5" transform="rotate(14 303 232)"/>
+  <ellipse cx="497" cy="232" rx="40" ry="88" fill="#F1E7D2" stroke="#E4D6BE" stroke-width="5" transform="rotate(-14 497 232)"/>
+
+  <!-- tułów -->
+  <path d="M270,400 Q255,338 320,330 Q345,300 400,308 Q455,300 480,330 Q545,338 530,400 Q542,450 470,449 Q432,462 400,456 Q368,462 330,449 Q258,450 270,400 Z" fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5"/>
+
+  <!-- kucyk + kokardka -->
+  <g fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5">
+    <circle cx="376" cy="112" r="21"/>
+    <circle cx="424" cy="112" r="21"/>
+    <circle cx="400" cy="102" r="23"/>
+  </g>
+  <path d="M400,92 L362,72 L366,110 Z" fill="#C7A57A"/>
+  <path d="M400,92 L438,72 L434,110 Z" fill="#C7A57A"/>
+  <circle cx="400" cy="92" r="9" fill="#A6714A"/>
+
+  <!-- głowa (falbanka) -->
+  <path d="M492,215 Q509,251 474,269 Q468,308 428,302 Q400,330 372,302 Q332,308 326,269 Q291,251 308,215 Q291,179 326,161 Q332,122 372,128 Q400,100 428,128 Q468,122 474,161 Q509,179 492,215 Z" fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5"/>
+
+  <!-- fakturka sierści -->
+  <path d="M348,172 Q360,164 372,172 M428,172 Q440,164 452,172 M388,148 Q400,140 412,148" fill="none" stroke="#E4D6BE" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- pyszczek -->
+  <circle cx="368" cy="210" r="11" fill="#2A2823"/>
+  <circle cx="432" cy="210" r="11" fill="#2A2823"/>
+  <circle cx="364.5" cy="206" r="3.5" fill="#fff"/>
+  <circle cx="428.5" cy="206" r="3.5" fill="#fff"/>
+  <ellipse cx="336" cy="240" rx="14" ry="8" fill="#E8C0A0" opacity=".45"/>
+  <ellipse cx="464" cy="240" rx="14" ry="8" fill="#E8C0A0" opacity=".45"/>
+  <path d="M388,244 Q400,236 412,244 Q412,256 400,260 Q388,256 388,244 Z" fill="#2A2823"/>
+  <path d="M400,260 L400,270 M382,274 Q391,284 400,272 M400,272 Q409,284 418,274" fill="none" stroke="#2A2823" stroke-width="5.5" stroke-linecap="round"/>
+
+  <!-- łapki -->
+  <path d="M352,456 Q366,440 380,456 M420,456 Q434,440 448,456" fill="none" stroke="#E4D6BE" stroke-width="5" stroke-linecap="round"/>
+</svg>

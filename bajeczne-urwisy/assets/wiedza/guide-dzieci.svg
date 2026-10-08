@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Children and puppy guide</title>
+  <desc id="desc">A child hand and a small puppy meeting gently.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <circle cx="214" cy="184" r="64" fill="#e7d8c6" stroke="#2b2a25" stroke-width="9"/>
+  <path d="M136 444c8-94 56-152 130-152s122 58 130 152" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M184 280c18 28 48 42 82 42s64-14 82-42" fill="none" stroke="#d6b890" stroke-width="10" stroke-linecap="round"/>
+  <path d="M450 328c14-58 85-70 118-22 43 0 75 33 67 76-8 44-49 66-106 66s-97-22-106-66c-5-28 4-47 27-54z" fill="#fff" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M486 304c-42-50-88-6-54 45 15-20 34-36 54-45zM590 304c42-50 88-6 54 45-15-20-34-36-54-45z" fill="#d6b890" stroke="#2b2a25" stroke-width="7"/>
+  <circle cx="505" cy="360" r="7" fill="#2b2a25"/>
+  <circle cx="560" cy="360" r="7" fill="#2b2a25"/>
+  <path d="M532 380c9 8 19 8 28 0" fill="none" stroke="#2b2a25" stroke-width="7" stroke-linecap="round"/>
+  <path d="M360 292c38-34 76-34 114 0" fill="none" stroke="#d6b890" stroke-width="12" stroke-linecap="round"/>
+</svg>

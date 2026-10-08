@@ -1,0 +1,526 @@
+{
+  "topics": [
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "title": "Jak wybrać dobrą hodowlę",
+      "photos": [
+        {
+          "id": "M04",
+          "src": "assets/photos/g3.jpg",
+          "width": 2048,
+          "height": 1843,
+          "x": 53,
+          "y": 51,
+          "scale": 1,
+          "alt": "Trzy szczenięta Maltańczyka z hodowli Bajeczne Urwisy na miękkim posłaniu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "title": "Chihuahua, mały pies z dużym charakterem",
+      "photos": [
+        {
+          "id": "C36",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 53,
+          "y": 7,
+          "scale": 1,
+          "alt": "Krótkowłosy Chihuahua z dużymi, stojącymi uszami na jasnym kocu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "title": "Maltańczyk w rodzinie",
+      "photos": [
+        {
+          "id": "M01",
+          "src": "assets/photos/g1.jpg",
+          "width": 1156,
+          "height": 1156,
+          "x": 51,
+          "y": 25,
+          "scale": 1,
+          "alt": "Biały szczeniak Maltańczyka odpoczywający na podłodze w domu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "title": "Chihuahua czy Maltańczyk",
+      "photos": [
+        {
+          "id": "C06",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 60,
+          "y": 44,
+          "scale": 1.4,
+          "alt": "Czarny, krótkowłosy szczeniak Chihuahua",
+          "label": "Chihuahua"
+        },
+        {
+          "id": "M01",
+          "src": "assets/photos/g1.jpg",
+          "width": 1156,
+          "height": 1156,
+          "x": 52,
+          "y": 46,
+          "scale": 1,
+          "alt": "Biały szczeniak Maltańczyka z puszystą szatą",
+          "label": "Maltańczyk"
+        }
+      ]
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "title": "Wyprawka dla szczeniaka",
+      "photos": [
+        {
+          "id": "C69",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg",
+          "width": 900,
+          "height": 1600,
+          "x": 55,
+          "y": 28,
+          "scale": 1,
+          "alt": "Chihuahua na miękkim kocu z materiałową zabawką w kształcie gwiazdy",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "title": "Pierwsze dni w nowym domu",
+      "photos": [
+        {
+          "id": "C68",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg",
+          "width": 900,
+          "height": 1600,
+          "x": 56,
+          "y": 52,
+          "scale": 1,
+          "alt": "Chihuahua siedzący na dzianinowym kocu w domowym otoczeniu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "title": "Żywienie psa miniaturowego",
+      "photos": [
+        {
+          "id": "C55",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 56,
+          "y": 52,
+          "scale": 1.08,
+          "alt": "Szczeniak Chihuahua z jasnymi łapkami stojący na puszystym kocu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "title": "Pielęgnacja bez stresu",
+      "photos": [
+        {
+          "id": "M10",
+          "src": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "x": 51,
+          "y": 25,
+          "scale": 1.02,
+          "alt": "Maltańczyk podtrzymywany dłonią opiekuna, widoczna puszysta szata i łapki",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "title": "Zdrowie i kontrola rozwoju",
+      "photos": [
+        {
+          "id": "C42",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 53,
+          "y": 49,
+          "scale": 1,
+          "alt": "Mały szczeniak Chihuahua bezpiecznie podtrzymywany dłonią opiekuna",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "title": "Socjalizacja małego psa",
+      "photos": [
+        {
+          "id": "M09",
+          "src": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg",
+          "width": 1536,
+          "height": 1536,
+          "x": 50,
+          "y": 73,
+          "scale": 1,
+          "alt": "Dwa szczenięta Maltańczyka z pomarańczową piłeczką w domu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "title": "Kolory Chihuahua i zmiany umaszczenia",
+      "photos": [
+        {
+          "id": "C45",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 42,
+          "y": 80,
+          "scale": 1.4,
+          "alt": "Szczeniak Chihuahua o jasnobrązowym umaszczeniu na białym posłaniu",
+          "label": null
+        },
+        {
+          "id": "C56",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 70,
+          "y": 43,
+          "scale": 1.4,
+          "alt": "Szczeniak Chihuahua o szarej sierści z jaśniejszym pyszczkiem i łapkami",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "title": "Chihuahua krótkowłosa i długowłosa",
+      "photos": [
+        {
+          "id": "C27",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 20,
+          "y": 82,
+          "scale": 1.35,
+          "alt": "Chihuahua z krótką, gładką sierścią w czerwonych szelkach",
+          "label": "Krótka szata"
+        },
+        {
+          "id": "C67",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg",
+          "width": 901,
+          "height": 1600,
+          "x": 52,
+          "y": 43,
+          "scale": 1,
+          "alt": "Chihuahua z dłuższą sierścią na uszach i klatce piersiowej",
+          "label": "Długa szata"
+        }
+      ]
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "title": "Dzieci i pies miniaturowy",
+      "photos": [
+        {
+          "id": "C58",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 52,
+          "y": 35,
+          "scale": 1,
+          "alt": "Maleńki Chihuahua spokojnie podtrzymywany dłonią opiekuna",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "title": "Bezpieczny dom dla miniaturki",
+      "photos": [
+        {
+          "id": "M11",
+          "src": "assets/photos/g6.jpg",
+          "width": 1500,
+          "height": 2000,
+          "x": 48,
+          "y": 37,
+          "scale": 1.5,
+          "alt": "Szczeniak Maltańczyka leżący na podłodze obok wiklinowego fotela",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "title": "Podróż i odbiór maluszka",
+      "photos": [
+        {
+          "id": "C70",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg",
+          "width": 900,
+          "height": 1600,
+          "x": 50,
+          "y": 25,
+          "scale": 1,
+          "alt": "Długowłosy Chihuahua w czerwonych szelkach we wnętrzu samochodu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "title": "Plan dnia szczeniaka",
+      "photos": [
+        {
+          "id": "M07",
+          "src": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg",
+          "width": 1125,
+          "height": 1500,
+          "x": 51,
+          "y": 30,
+          "scale": 1.08,
+          "alt": "Biały szczeniak Maltańczyka wśród ogrodowej zieleni",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "title": "Nauka czystości bez nerwów",
+      "photos": [
+        {
+          "id": "M02",
+          "src": "assets/photos/g2.jpg",
+          "width": 1500,
+          "height": 2000,
+          "x": 37,
+          "y": 70,
+          "scale": 1.3,
+          "alt": "Maltańczyk na podłodze w domowym otoczeniu",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "title": "Szelki, obroża i bezpieczne wyjścia",
+      "photos": [
+        {
+          "id": "C38",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 62,
+          "y": 25,
+          "scale": 1.15,
+          "alt": "Czekoladowy Chihuahua w czerwonych szelkach z przypiętą smyczą",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "title": "Oczy i pyszczek Maltańczyka",
+      "photos": [
+        {
+          "id": "M10",
+          "src": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "x": 52,
+          "y": 22,
+          "scale": 1.27,
+          "alt": "Zbliżenie oczu i pyszczka białego szczeniaka Maltańczyka",
+          "label": null
+        }
+      ]
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "title": "Jak czytać sygnały szczeniaka",
+      "photos": [
+        {
+          "id": "C66",
+          "src": "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg",
+          "width": 1200,
+          "height": 1600,
+          "x": 48,
+          "y": 60,
+          "scale": 1.13,
+          "alt": "Czekoladowy szczeniak Chihuahua leżący na jasnym, puszystym posłaniu",
+          "label": null
+        }
+      ]
+    }
+  ],
+  "hub": {
+    "title": "Baza wiedzy: zdjęcie główne",
+    "photos": [
+      {
+        "id": "M09",
+        "src": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg",
+        "width": 1536,
+        "height": 1536,
+        "x": 50,
+        "y": 73,
+        "scale": 1,
+        "alt": "Dwa Maltańczyki z hodowli Bajeczne Urwisy obok swojej piłeczki",
+        "label": null
+      }
+    ]
+  },
+  "body": {
+    "wiedza-chihuahua.html": [
+      {
+        "id": "C67",
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg",
+        "width": 901,
+        "height": 1600,
+        "x": 51,
+        "y": 29,
+        "scale": 1,
+        "alt": "Długowłosy Chihuahua stojący na podłodze w domu",
+        "label": null
+      }
+    ],
+    "wiedza-maltanczyk.html": [
+      {
+        "id": "M07",
+        "src": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg",
+        "width": 1125,
+        "height": 1500,
+        "x": 51,
+        "y": 29,
+        "scale": 1.08,
+        "alt": "Maltańczyk z naszej hodowli w ogrodzie",
+        "label": null
+      }
+    ],
+    "wiedza-pielegnacja.html": [
+      {
+        "id": "M01",
+        "src": "assets/photos/g1.jpg",
+        "width": 1156,
+        "height": 1156,
+        "x": 51,
+        "y": 12,
+        "scale": 1,
+        "alt": "Maltańczyk z miękką, białą szatą",
+        "label": null
+      }
+    ],
+    "wiedza-pierwsze-dni.html": [
+      {
+        "id": "C69",
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg",
+        "width": 900,
+        "height": 1600,
+        "x": 55,
+        "y": 25,
+        "scale": 1,
+        "alt": "Chihuahua odpoczywający przy miękkiej zabawce na kocu",
+        "label": null
+      }
+    ],
+    "wiedza-socjalizacja.html": [
+      {
+        "id": "M04",
+        "src": "assets/photos/g3.jpg",
+        "width": 2048,
+        "height": 1843,
+        "x": 53,
+        "y": 51,
+        "scale": 1,
+        "alt": "Szczenięta Maltańczyka przebywające razem na posłaniu",
+        "label": null
+      }
+    ],
+    "wiedza-wyprawka.html": [
+      {
+        "id": "C68",
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg",
+        "width": 900,
+        "height": 1600,
+        "x": 56,
+        "y": 45,
+        "scale": 1,
+        "alt": "Chihuahua na miękkim dzianinowym kocu",
+        "label": null
+      }
+    ],
+    "wiedza-zdrowie.html": [
+      {
+        "id": "C56",
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg",
+        "width": 1200,
+        "height": 1600,
+        "x": 56,
+        "y": 32,
+        "scale": 1.15,
+        "alt": "Szczeniak Chihuahua z hodowli Bajeczne Urwisy",
+        "label": null
+      }
+    ],
+    "wiedza-zywienie.html": [
+      {
+        "id": "M01",
+        "src": "assets/photos/g1.jpg",
+        "width": 1156,
+        "height": 1156,
+        "x": 51,
+        "y": 12,
+        "scale": 1,
+        "alt": "Szczeniak Maltańczyka z hodowli Bajeczne Urwisy",
+        "label": null
+      }
+    ]
+  },
+  "sourceHashes": {
+    "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg": "d0c7b4899727224da72fe9b3fefbaf0b0adfb21d1f808d3d597e85eff3ee1425",
+    "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg": "ee539db08290c53dce1ac2270e0075f0cc8b186716b7e64459e077f22c202019",
+    "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg": "7e5d5d9a31f23e2b477f037143860c5c633a905ab3ce2b0103844f088288ef84",
+    "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg": "ddc323312a0ba6f60eee088a01addb24dbe86d0eb8df560d8741a8cfe70f71c2",
+    "assets/photos/chihuahua-2026/chihuahua-2026-08.jpg": "c39f5463a9d887375e7d96fee16ff6dd786dceb889087ab4226ee3c113849fc6",
+    "assets/photos/chihuahua-2026/chihuahua-2026-19.jpg": "83e2dad7434838901e421d9f9fcdd37cfbcdf33ea0803c23cd7e4f972504c21a",
+    "assets/photos/chihuahua-2026/chihuahua-2026-34.jpg": "01c4f80dad79687371bd4432a84fa7515bc312c69a5411478c309f62c5a6d7bc",
+    "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg": "1659243778324c6eed8382b3b434532c074fac9d1133c34f6d33378b1b58ddd2",
+    "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg": "65424931b7d6f174950c00e582eb304d9def09be49d48c3dffc49342a10d1a67",
+    "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg": "ec0c9902f8d10abbc72c1836305879982641605681662528ed86f1b9fe9c01e9",
+    "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg": "da03e7f609cc1ef63fafa26d91ec88abcc8019c808f769d1d772158f55ef121b",
+    "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg": "3dfe07885b1760581a2d578df3f9fe2e7182e86a73b212f4eea331106242b341",
+    "assets/photos/chihuahua-2026/chihuahua-2026-65.jpg": "db106e875c86e7931f07cff835a59cfcddf85dddb5e3b40b6998fce4e451a460",
+    "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg": "fefe2261370868a49e25093353f7ce4f19b75bcaa988bc3c777a2685411dbd9a",
+    "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg": "27da06c8e071fda352a253558f626fe8439c1d6de349954d4957c36df37e8dc8",
+    "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg": "3cbb6e72776f7e5317ee847bf60823a936f8e7d7bc1e05b4336bd63e6dafb06d",
+    "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg": "b6b2d495cf87f98d901648d257b2e8f3661884a8a2a6ebb7e97ce901bb42750a",
+    "assets/photos/g1.jpg": "6868906c0a4cd7fd716881dafd17d2619608686a39e1003d2de381d107843051",
+    "assets/photos/g2.jpg": "5fdc5019f4fb86c0a6ef692fb56b3afbf794e28e63e04ead5a91f61f63c7e1ad",
+    "assets/photos/g3.jpg": "6c986f68685277383a1c73aa7d7155cc9bf9e7d2373fa59fb7c50c1ddb2048b2",
+    "assets/photos/g6.jpg": "64e2bac3aec8fd5a058780935984bc2edc2c6413601b0885b608ed7fdccc49b5",
+    "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg": "d0b5498d8b7afefe72db26d9c42e9a530216c988503aa1b615e9b1a7c40e3822",
+    "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg": "72d49f78e45cf77ed444022856b5114cf0f719dc9cbb6b178c75a91d91f0a18f",
+    "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg": "fc763d641543a1bdf302642cd8b903a48592fd10c118fce9102c7293894e9eeb",
+    "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg": "dcb1908ae87f97812601528716ecc824253ea9aa63cdaf631d5e3e0546466ec0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pages": 21,
+  "photoPlacements": 88,
+  "curatedTopicAndRelatedCards": 50,
+  "distinctGalleryPhotos": 21,
+  "checks": [
+    "all images from original galleries",
+    "all image files and local links exist",
+    "all photo frames have custom focal point and scale",
+    "all article covers match destination topics",
+    "existing headings, paragraphs and navigation preserved",
+    "source image hashes unchanged",
+    "CSS delimiter and responsive grid checks passed"
+  ],
+  "browserReview": "Unavailable due to local URL access policy. Individual crops reviewed offline."
+}

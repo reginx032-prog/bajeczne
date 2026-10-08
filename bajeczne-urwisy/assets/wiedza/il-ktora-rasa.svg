@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgC)"/>
+
+  <path d="M400,66 C556,58 660,150 654,264 C648,376 548,442 400,444 C260,446 152,368 156,254 C160,142 258,72 400,66 Z" fill="#EBE0CC" opacity=".5"/>
+  <ellipse cx="400" cy="452" rx="230" ry="18" fill="#2A2823" opacity=".07"/>
+
+  <!-- akcenty -->
+  <g fill="#C7A57A">
+    <path d="M118,150 C120,160 122,162 132,164 C122,166 120,168 118,178 C116,168 114,166 104,164 C114,162 116,160 118,150 Z"/>
+    <path d="M684,196 C685.5,203 687,204.5 694,206 C687,207.5 685.5,209 684,216 C682.5,209 681,207.5 674,206 C681,204.5 682.5,203 684,196 Z" opacity=".85"/>
+  </g>
+
+  <!-- waga: podstawa i słupek -->
+  <rect x="330" y="418" width="140" height="18" rx="9" fill="#C7A57A"/>
+  <path d="M388,420 L412,420 L407,318 L393,318 Z" fill="#DFC29E"/>
+
+  <!-- belka -->
+  <rect x="180" y="310" width="440" height="14" rx="7" fill="#2A2823" transform="rotate(-5 400 317)"/>
+  <circle cx="400" cy="317" r="12" fill="#A6714A"/>
+  <path d="M400,296 C400,288 386,284 386,292 C386,298 394,302 400,308 C406,302 414,298 414,292 C414,284 400,288 400,296 Z" fill="#A6714A"/>
+
+  <!-- lewa szalka (niżej) -->
+  <path d="M191,336 L146,416 M191,336 L236,416 M191,336 L191,412" stroke="#B08D63" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M141,416 Q191,458 241,416 Z" fill="#C7A57A"/>
+
+  <!-- chihuahua (sylwetka) -->
+  <g fill="#A6714A">
+    <path d="M160,330 L196,360 L166,382 Z"/>
+    <path d="M222,330 L186,360 L216,382 Z"/>
+    <circle cx="191" cy="376" r="25"/>
+    <ellipse cx="191" cy="408" rx="21" ry="13"/>
+  </g>
+  <circle cx="183" cy="372" r="3.4" fill="#FDFBF6"/>
+  <circle cx="199" cy="372" r="3.4" fill="#FDFBF6"/>
+  <path d="M191,304 C191,297 179,294 179,301 C179,306 186,309 191,314 C196,309 203,306 203,301 C203,294 191,297 191,304 Z" fill="#C7A57A"/>
+
+  <!-- prawa szalka (wyżej) -->
+  <path d="M609,300 L564,380 M609,300 L654,380 M609,300 L609,376" stroke="#B08D63" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M559,380 Q609,422 659,380 Z" fill="#C7A57A"/>
+
+  <!-- maltańczyk (sylwetka) -->
+  <g fill="#FFFFFF" stroke="#E0D2B8" stroke-width="5">
+    <circle cx="583" cy="354" r="21"/>
+    <circle cx="635" cy="354" r="21"/>
+    <circle cx="609" cy="336" r="24"/>
+    <ellipse cx="609" cy="366" rx="34" ry="18"/>
+  </g>
+  <circle cx="601" cy="334" r="3.4" fill="#2A2823"/>
+  <circle cx="617" cy="334" r="3.4" fill="#2A2823"/>
+  <path d="M609,268 C609,261 597,258 597,265 C597,270 604,273 609,278 C614,273 621,270 621,265 C621,258 609,261 609,268 Z" fill="#C7A57A"/>
+</svg>

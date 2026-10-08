@@ -1,0 +1,643 @@
+{
+  "photos": [
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29 (1).jpeg",
+      "dog": "Hana",
+      "pixels": "dce051da277655a33b424ca8246bb6f4d0b776b081050a75d1dc24cb6ca9b1cf",
+      "sha": "e393632731b0795098f8c55830ee8a8eba20f1bd0e470b6b07fc7e515a9eb56e",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        220,
+        260,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29 (2).jpeg",
+      "dog": "Hana",
+      "pixels": "adecdcc1dccd5acc041e16c7acd9a784dc3dc2da2df3a3a0d6df7da7e90f0398",
+      "sha": "06d6f52f70bdadd35a1500b97e4de9daa04ca540bd2e6dfb318baea3d8661422",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        230,
+        240,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29 (3).jpeg",
+      "dog": "Hana",
+      "pixels": "da692de400cdcd36bff1aebc43fa3d481403d4f840f211943ea6736ca54027be",
+      "sha": "91d9555e186833ac05d43f611b597b56b548d2030897db5b4a318149aeb2475c",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        190,
+        240,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29.jpeg",
+      "dog": "Hana",
+      "pixels": "06c8ac47c1fc530404638f99ae6e46f5e5c2db02ba3912523fc1425d1ae21ae1",
+      "sha": "0e545ff8e3056540233e722fdf18bff6050d9d076b8bfa107ccb5a7a8819977e",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        210,
+        220,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.35.32.jpeg",
+      "dog": "Hana",
+      "pixels": "41469b90af399be9f7bdea9ddb0acf67d25f3ee4867ff345d5da093d4a21cba8",
+      "sha": "7453e45fff3cfe25d9b5b345752d1ed9f2622219abf1ee80e21a53d6baddf619",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        160,
+        100,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.38.38 (1).jpeg",
+      "dog": "Hela",
+      "pixels": "33efde846e76c0157b04930985bd94b710fd50532c4f7ce19ae15ebd97680190",
+      "sha": "9f742afd079a7a2e1a1ad1bb4c4cafef114a4983ef8e6f2a9fdaedc91ae51f1d",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        160,
+        350,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.38.38 (2).jpeg",
+      "dog": "Hela",
+      "pixels": "00a4b39288015fe155ad6331260cf9054db4db309bf5c9bcb1592eb40957bbdc",
+      "sha": "83c41b3a020e1abea5a15c75027befd8a114d42bc24063aad928e7d4862d1b1f",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        100,
+        420,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.38.38.jpeg",
+      "dog": "Hela",
+      "pixels": "df084bab3df9a52419aeb307bc0c5dce93051e8eb0de637f65a06b7a9613e1c0",
+      "sha": "d8fe9a24dfe36cf4126ec3aeeba19c9a1e1468f5041920ac518533a39a7c0c4c",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        200,
+        320,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.38.53.jpeg",
+      "dog": "Hela",
+      "pixels": "7004a67c1b956f1a0c96877d18948483d1f31ebdf75b6f49465b115562644f7d",
+      "sha": "538f2312c18d0c23032a0d54fbbf3222f7fd0f42b91f2218e8294a84cb8357ce",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        220,
+        300,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.39.09.jpeg",
+      "dog": "Hela",
+      "pixels": "0125064194276817107df8fef6899f00fa175b1d9c4fdf8cf71740d65b40db55",
+      "sha": "5cdd769dd8e501906706a02d7520f549b5e498a7b542d7021ffe0e8e6845a916",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        200,
+        260,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.42.05 (1).jpeg",
+      "dog": "Heidi",
+      "pixels": "bc33bcb8575242bc800cac19bf9082c2cdd39039759323888bfa16f05583d666",
+      "sha": "636b66ab9907326d5043a7b06b4afb179a9d80aa0d1892fb4d23e513d350830e",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        250,
+        290,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.42.05.jpeg",
+      "dog": "Heidi",
+      "pixels": "4d140107e6ed4ae304379b1f0b4927f4760f9cffc5b906c0de8c12000eba280e",
+      "sha": "3b6823e891f1c17f237ed7bc7ad1d08279b406cb9c0f655e4d223cf385d5c468",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        150,
+        220,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.42.29 (1).jpeg",
+      "dog": "Heidi",
+      "pixels": "92a2513913c96bd7c40bfcad3ac77697fc187cbff961f77ebace4456bb1986b8",
+      "sha": "f09f5d8e5422df68fa0b326fb8321358d976552d5012e2a2644979a33de65a92",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        310,
+        400,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.42.29.jpeg",
+      "dog": "Heidi",
+      "pixels": "601ca57ed6954d8d7039ecb69ff4bf810a8c3f98f8b9dc1fc2ab25985d4feaae",
+      "sha": "d84357959aed1da38bc870b3a950514349f8bbd2aa8e3b15aeabc6ef2e50c81a",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        220,
+        180,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.43.41.jpeg",
+      "dog": "Havana",
+      "pixels": "ba67633e74c5c538ee29341599d14b4d200a25b7ea497546cc017a0fec6547e4",
+      "sha": "6e2f573190a34558e288a1f79dd1935dc450003675ef11d168dda82b0dfc0ce3",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        270,
+        350,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.43.59.jpeg",
+      "dog": "Havana",
+      "pixels": "22ea05f72ce4ca00dd9951d01f5f82eacf848c521399d515b9450ad65de1c06c",
+      "sha": "99f0781ddb108cb890d08042eb5e02fc6a3dce18f8102e4abb95508719dbcdd4",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        270,
+        340,
+        840,
+        1120
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.44.12.jpeg",
+      "dog": "Havana",
+      "pixels": "36fa79a74f2fdcc88d71fa2448e224e4f7e1a51c2896de49e169ce7587f2f8ab",
+      "sha": "947ea7fcfca6795315a9ee4063522aa71c1b41950e48a8d7e6dd07de791b1631",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        150,
+        200,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.44.22.jpeg",
+      "dog": "Havana",
+      "pixels": "3267bbb5732b77ca7921b1ef5e15a23b32d1179675d00952660ee2ff878b8f34",
+      "sha": "3ecd74869ec9b01e39605d1b6776d1f748062cefd54343d5e9f3410676742931",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        170,
+        160,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.48.58.jpeg",
+      "dog": "Coddy",
+      "pixels": "a95ff3502350319db2d6616d2aba54fa5142bb9a2f4339520b159e010ff23c97",
+      "sha": "39fc741bfcb46f608d61134a9cd78563b3a038a5a13c153398e07029d17c22c4",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        180,
+        200,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.49.10.jpeg",
+      "dog": "Coddy",
+      "pixels": "a9e4fef18049b5772ebb472fa3fd80123dec5da0747d691a12e93e2803e0b302",
+      "sha": "51be378cb0299f3aeec25ca82f9e86411de805d5b17616b2bbb7a34d77578da5",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        60,
+        120,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.49.18.jpeg",
+      "dog": "Coddy",
+      "pixels": "586080aa426f2edfbf1ac4ed303078fc8d6438befbf752651ab8e95134eb8338",
+      "sha": "c963c945be9e188cefc0aa969fd173bd8656ae47d2a4ae94dc5e7f8a5746ec22",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        90,
+        160,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.49.28.jpeg",
+      "dog": "Coddy",
+      "pixels": "96905aeb9ce81e20572adaf27447144d75488210976099d6a94706932e15b7f2",
+      "sha": "9327cc3a42550623859ffa872610ef376444c6fb20e717ce75bfb46b9ffc3635",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        160,
+        120,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.50.09.jpeg",
+      "dog": "Coddy",
+      "pixels": "f74477cf541ac0858471cf4e90016e397c1f0412f5ecd348d620cb223fcec0da",
+      "sha": "18d51b9805c61c36f125fce609c29bb78c121992e0ab8d2e24d6832871807483",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        250,
+        150,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.51.38.jpeg",
+      "dog": "Czaruś",
+      "pixels": "d2be73fceb07bf4437f242fe2ee74890d1832b56096aa1cb83712fef61ed81a8",
+      "sha": "748205bb99fa4a827be1e215a0c149e9dba6e409e2c6ec6cb0278cabf8cbccc0",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        90,
+        120,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.51.50.jpeg",
+      "dog": "Czaruś",
+      "pixels": "bebd3fa69ad39e27e33fe617578839f231d183d40199f827ab93969ceb931f1f",
+      "sha": "5c1a7c951041ac5a306f76939c3a4c158d1ce9971a255dd508e08f9db98a3b49",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        100,
+        100,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.51.59.jpeg",
+      "dog": "Czaruś",
+      "pixels": "3d92e622970e935bfb5bc98473bec84e5aa5a201286e2c798cba9d6959e8a390",
+      "sha": "a6340163b5f5c2bb63413f406c4b0c7d09c36164a24efe2c09deb09ca9b56b57",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        240,
+        80,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.52.09.jpeg",
+      "dog": "Czaruś",
+      "pixels": "3efdb530155528434a4364fd9f2c88d607cf863b2dd6b2ffb6632c8311176985",
+      "sha": "da6f86b3981fd62511b3e04c00843436a056bb9497dddf535785cc7b93a94434",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        280,
+        100,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.52.19.jpeg",
+      "dog": "Czaruś",
+      "pixels": "9743c41bca5ab4f140121f512333bed22b21143d4e689c6724b048a9603b637e",
+      "sha": "27ba374521a7e6e91cc8293d522aaf69e030e42b97842c2b9bbb1f27062a11ca",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        210,
+        120,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.52.31.jpeg",
+      "dog": "Czaruś",
+      "pixels": "b1298e66cc2773403d8d31de6793146f3d6883a497a2fb8fb8813daa7772ee02",
+      "sha": "8fb3fdfe761d1ac83a11d094ff4f450581be6c71c1b52a88578650d70cf3d1e6",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        120,
+        60,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.52.41.jpeg",
+      "dog": "Czaruś",
+      "pixels": "a9584e74e3344f94b1b333c3cea9c1771644f1815affb4db7b89b376cd53ec9c",
+      "sha": "0b8f4cad705b1341548a8669b6561a60537026f7c6eb036b073b07b04cdb0271",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        240,
+        60,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.53.07.jpeg",
+      "dog": "Czaruś",
+      "pixels": "91a41ec0ef70ee3305e9b00be093c971ee5451ea27d7e018defcb36dd5d46fac",
+      "sha": "29d4aadc276007fa2b0cbb95b62492bd287367e8c9480111b5c2618fe573f5f2",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        0,
+        240,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.57.36.jpeg",
+      "dog": "Haczi",
+      "pixels": "9881ff263b2085f774cf55731c6f3c9c5f24f0c68f6a93960fbdc596a1edd549",
+      "sha": "361825ca080648f51b0dbadd3d35f9637e2a320e2812eaf850b37e9750034118",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        130,
+        100,
+        900,
+        1200
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.57.48.jpeg",
+      "dog": "Haczi",
+      "pixels": "79d2e26a39f9d52b470389f96141beaaf29ef777e893c39bed3dd043154a433c",
+      "sha": "ba4c32bde25d3e678ba943d707228a484c5c8d6231b500ade4f7fcc1fb615892",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        0,
+        40,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.57.56.jpeg",
+      "dog": "Haczi",
+      "pixels": "aa44827ad7e9e752e4a06d1b668b8d11fcc38a2bb1d9418fab150261db4b0fe0",
+      "sha": "1dcea0144b7ecf2612434de1c03d406f983e294ee467eb640eb9bfa17d24a152",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        20,
+        60,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.58.08.jpeg",
+      "dog": "Haczi",
+      "pixels": "ac90bfa45eb58e9f02afec01c39d6fe352e858e724ee2b8b0f25bc54e3f87903",
+      "sha": "8fdfda3d6b68043429767bd1685b10a432f6e59d664ef8d1502733563ebae7f8",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        20,
+        70,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.58.19.jpeg",
+      "dog": "Haczi",
+      "pixels": "784eedffbe225f96ab8519fe4d7c61bf249a7a464a8707a1d6c61496328d3306",
+      "sha": "ab8849597332e0be8907c3475ae6b286e767326f4f85273cde20e41f065ac0b1",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        170,
+        180,
+        960,
+        1280
+      ]
+    },
+    {
+      "file": "WhatsApp Image 2026-10-07 at 20.58.35.jpeg",
+      "dog": "Haczi",
+      "pixels": "710d1ccd9b91cd438ad296c3f5306b37d4ac66b20a055dba3f6c60e154f0c555",
+      "sha": "57ff227499714398bf908620aa19a0e75891e1ffac6fbcc02c6756b2a2ca1a08",
+      "status": "new",
+      "existing": null,
+      "crop": [
+        100,
+        150,
+        960,
+        1280
+      ]
+    }
+  ],
+  "dogs": [
+    {
+      "name": "Haczi",
+      "slug": "haczi",
+      "color": "Beżowy",
+      "coat": "Krótkowłosy",
+      "sex": "Samiec",
+      "ask": "Hacziego",
+      "time": "20.58.19",
+      "crop": [
+        140,
+        180,
+        960,
+        960
+      ],
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.58.19.jpeg"
+    },
+    {
+      "name": "Czaruś",
+      "slug": "czarus",
+      "color": "Liliowy",
+      "coat": "Długowłosy",
+      "sex": "Samiec",
+      "ask": "Czarusia",
+      "time": "20.51.50",
+      "crop": [
+        90,
+        100,
+        900,
+        900
+      ],
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.51.50.jpeg"
+    },
+    {
+      "name": "Coddy",
+      "slug": "coddy",
+      "color": "Czekoladowy",
+      "coat": "Długowłosy",
+      "sex": "Samiec",
+      "ask": "Coddy’ego",
+      "time": "20.49.10",
+      "crop": [
+        80,
+        80,
+        1040,
+        1040
+      ],
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.49.10.jpeg"
+    },
+    {
+      "name": "Havana",
+      "slug": "havana",
+      "color": "Biało-beżowy",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Havanę",
+      "time": "20.44.22",
+      "crop": [
+        120,
+        200,
+        1080,
+        1080
+      ],
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.44.22.jpeg"
+    },
+    {
+      "name": "Heidi",
+      "slug": "heidi",
+      "color": "Czarny",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Heidi",
+      "time": "20.42.29",
+      "crop": [
+        170,
+        170,
+        900,
+        900
+      ],
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.42.29.jpeg"
+    },
+    {
+      "name": "Hela",
+      "slug": "hela",
+      "color": "Niebieski",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Helę",
+      "time": "20.38.38",
+      "crop": [
+        180,
+        410,
+        780,
+        780
+      ],
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.38.38.jpeg"
+    },
+    {
+      "name": "Hana",
+      "slug": "hana",
+      "color": "Niebieski",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Hanę",
+      "time": "20.34.29",
+      "crop": [
+        160,
+        240,
+        900,
+        900
+      ],
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29.jpeg"
+    }
+  ]
+}

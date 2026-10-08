@@ -1,0 +1,513 @@
+{
+  "pages": [
+    {
+      "file": "baza-wiedzy.html",
+      "title": "Baza wiedzy | Poradniki o Chihuahua i Maltańczykach | Bajeczne Urwisy",
+      "meta": [
+        "Baza wiedzy Bajecznych Urwisów: 20 praktycznych poradników o Chihuahua i Maltańczykach. Wybór rasy, wyprawka, pierwsze dni, pielęgnacja, zdrowie, kolory, socjalizacja i przygotowanie domu."
+      ],
+      "eagerImages": [
+        "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "chihuahua.html",
+      "title": "Chihuahua | Hodowla Bajeczne Urwisy",
+      "meta": [
+        "Chihuahua z hodowli Bajeczne Urwisy. Poznaj charakter rasy, umaszczenia, pielęgnację i sposób wyboru maluszka do domu."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "galeria-chihuahua.html",
+      "title": "Galeria Chihuahua | Bajeczne Urwisy | Hodowla Kowalewo Pomorskie",
+      "meta": [
+        "Galeria Chihuahua z rodzinnej hodowli Bajeczne Urwisy. Poznaj nasze Chihuahua krótko- i długowłose, szczenięta z nowych i wcześniejszych miotów. Zadzwoń pod numer 601 074 022."
+      ],
+      "eagerImages": [],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "galeria-maltanczyki.html",
+      "title": "Galeria Maltańczyków | Bajeczne Urwisy | Hodowla Kowalewo Pomorskie",
+      "meta": [
+        "Galeria maltańczyków z rodzinnej hodowli Bajeczne Urwisy. Zobacz, jak dorastały białe, czułe maluszki z naszych poprzednich miotów. Zadzwoń pod numer 601 074 022."
+      ],
+      "eagerImages": [],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "title": "Hodowla Chihuahua i Maltańczyków | Bajeczne Urwisy, Kowalewo Pomorskie",
+      "meta": [
+        "Bajeczne Urwisy to rodzinna hodowla psów rasowych Chihuahua i Maltańczyków z Kowalewa Pomorskiego. Szczenięta z rodowodem 4-pokoleniowym, wychowywane z troską i miłością. Zadzwoń pod numer 601 074 022."
+      ],
+      "eagerImages": [
+        "assets/footer-logo-ppk.png",
+        "assets/footer-logo-wku.png",
+        "assets/logo-swkipr.png",
+        "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg",
+        "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg",
+        "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg",
+        "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg",
+        "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg",
+        "assets/photos/g6.jpg",
+        "assets/logo-bajeczne-urwisy-clean.png",
+        "assets/photos/hero-10.jpg",
+        "assets/photos/hero-13.jpg",
+        "assets/photos/611255763_1511073733966139_1783780094848168773_n.jpg",
+        "assets/photos/542755058_1401273048279542_6641547856909562432_n.jpg",
+        "assets/photos/727393942_1659166642490180_252766499684281225_n.jpg",
+        "assets/photos/hero-17.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "kontakt.html",
+      "title": "Kontakt | Bajeczne Urwisy | Kowalewo Pomorskie",
+      "meta": [
+        "Kontakt z hodowlą Bajeczne Urwisy. Zadzwoń pod numer 601 074 022. Kowalewo Pomorskie, woj. kujawsko-pomorskie, 30 km od Torunia."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "maltanczyk.html",
+      "title": "Maltańczyk | Hodowla Bajeczne Urwisy",
+      "meta": [
+        "Maltańczyki z hodowli Bajeczne Urwisy. Poznaj charakter rasy, pielęgnację białej szaty i sposób przygotowania domu na maluszka."
+      ],
+      "eagerImages": [
+        "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "rasy.html",
+      "title": "Rasy | Chihuahua i Maltańczyki | Bajeczne Urwisy",
+      "meta": [
+        "Poznaj rasy w hodowli Bajeczne Urwisy. Chihuahua i Maltańczyki z rodzinnej hodowli w Kowalewie Pomorskim. Pomożemy dobrać pieska do Twojego domu."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-bezpieczny-dom.html",
+      "title": "Bezpieczny dom dla miniaturki | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak przygotowac dom na szczeniaka rasy miniaturowej. Schody, kanapa, przewody, rosliny, legowisko i spokojna przestrzen."
+      ],
+      "eagerImages": [
+        "assets/photos/g6.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-chihuahua-czy-maltanczyk.html",
+      "title": "Chihuahua czy maltańczyk? Porównanie ras | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Chihuahua czy maltańczyk, którą rasę wybrać? Uczciwe porównanie charakterów, pielęgnacji, linienia i potrzeb obu ras od hodowli, która zna je od podszewki."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg",
+        "assets/photos/g1.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-chihuahua.html",
+      "title": "Chihuahua, charakter, potrzeby i codzienne życie | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Chihuahua, najmniejszy pies świata o wielkim sercu. Charakter, umaszczenia, potrzeby, zdrowie i codzienne życie z chihuahua. Poradnik rodzinnej hodowli."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-dzieci-i-pies.html",
+      "title": "Dzieci i pies miniaturowy | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak przygotowac dziecko i dom na szczeniaka rasy miniaturowej. Bezpieczna zabawa, noszenie, odpoczynek i pierwsze zasady."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-jak-wybrac-hodowle.html",
+      "title": "Jak rozpoznać odpowiedzialną hodowlę? | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Spokojny poradnik przed wyborem szczeniaka: jak rozmawiać z hodowcą, o jakie dokumenty pytać, jak ocenić warunki i co daje rodowód."
+      ],
+      "eagerImages": [
+        "assets/photos/g3.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-jezyk-ciala-szczeniaka.html",
+      "title": "Jak czytać sygnały szczeniaka | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak rozpoznać stres, zmęczenie, ciekawość i potrzebę odpoczynku u szczeniaka. Praktyczny poradnik o języku ciała małego psa."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-kolory-chihuahua.html",
+      "title": "Kolory Chihuahua i zmiany umaszczenia | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Praktyczny przewodnik po kolorach Chihuahua: sable, czekoladowy, niebieski, liliowy, kremowy, tricolor i inne umaszczenia. Jak pytać o kolor szczeniaka."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg",
+        "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-maltanczyk.html",
+      "title": "Maltańczyk, charakter, pielęgnacja i życie z rasą | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Maltańczyk, łagodny, rodzinny pies w białej szacie. Charakter, pielęgnacja futerka, potrzeby i codzienne życie z maltańczykiem. Poradnik rodzinnej hodowli."
+      ],
+      "eagerImages": [
+        "assets/photos/g1.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-nauka-czystosci.html",
+      "title": "Nauka czystości u szczeniaka | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Nauka czystości u szczeniaka Chihuahua i Maltańczyka. Kiedy zanieść malucha na podkład, jak chwalić i jak reagować na wpadki."
+      ],
+      "eagerImages": [
+        "assets/photos/g2.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "title": "Oczy i pyszczek Maltańczyka | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak dbać o oczy i pyszczek Maltańczyka. Zacieki, codzienne przemywanie, czesanie i przyzwyczajanie szczeniaka do pielęgnacji."
+      ],
+      "eagerImages": [
+        "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-pielegnacja.html",
+      "title": "Pielęgnacja psa krok po kroku, poradnik groomera | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Pielęgnacja chihuahua i maltańczyka: szczotkowanie, kąpiel, przebarwienia łzowe, uszy, pazurki i zęby. Praktyczny poradnik z doświadczenia groomerskiego."
+      ],
+      "eagerImages": [
+        "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-pierwsze-dni.html",
+      "title": "Pierwsze dni szczeniaka w nowym domu | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Pierwsze dni szczeniaka w nowym domu: podróż, pierwsza noc, karmienie, nauka czystości i spokojna adaptacja krok po kroku. Poradnik rodzinnej hodowli."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-plan-dnia-szczeniaka.html",
+      "title": "Plan dnia szczeniaka | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Praktyczny plan dnia szczeniaka: sen, karmienie, zabawa, nauka czystości i odpoczynek. Spokojny rytm dla Chihuahua i Maltańczyka."
+      ],
+      "eagerImages": [
+        "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-podroz-i-odbior.html",
+      "title": "Podróż i odbiór maluszka | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak spokojnie zaplanowac odbior szczeniaka i pierwsza podroz do domu. Transporter, dokumenty, wyprawka i pierwsze godziny."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-siersc-chihuahua.html",
+      "title": "Chihuahua krótkowłosa i długowłosa | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Różnice między Chihuahua krótkowłosą i długowłosą. Pielęgnacja, komfort, codzienna opieka i wybór szczeniaka."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg",
+        "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-socjalizacja.html",
+      "title": "Socjalizacja i wychowanie małego psa | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Socjalizacja szczeniaka chihuahua i maltańczyka: okno socjalizacji, oswajanie ze światem, nauka samotności i jak uniknąć syndromu małego pieska."
+      ],
+      "eagerImages": [
+        "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-szelki-spacer-miniaturka.html",
+      "title": "Szelki, obroża i spacery z miniaturką | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Jak dobrać szelki, obrożę i smycz dla Chihuahua lub Maltańczyka. Bezpieczny start spacerów i oswajanie świata bez przeciążania szczeniaka."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-wyprawka.html",
+      "title": "Wyprawka dla szczeniaka, kompletna lista zakupów | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Wyprawka dla szczeniaka chihuahua lub maltańczyka: kompletna lista zakupów przed odbiorem, zabezpieczenie domu i rzeczy, które spokojnie dokupisz później."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-zdrowie.html",
+      "title": "Zdrowie ras miniaturowych, profilaktyka i sygnały ostrzegawcze | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Zdrowie chihuahua i maltańczyka: kalendarz szczepień, odrobaczanie, typowe problemy ras miniaturowych i sygnały alarmowe. Poradnik rodzinnej hodowli."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    },
+    {
+      "file": "wiedza-zywienie.html",
+      "title": "Żywienie psa miniaturowego, od szczeniaka do seniora | Baza wiedzy | Bajeczne Urwisy",
+      "meta": [
+        "Żywienie chihuahua i maltańczyka: liczba posiłków, wybór karmy, hipoglikemia szczeniąt, produkty toksyczne i zdrowa sylwetka. Kompletny poradnik hodowcy."
+      ],
+      "eagerImages": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg"
+      ],
+      "scripts": [
+        {
+          "src": "script.js?v=20260918-stable-nav"
+        }
+      ]
+    }
+  ],
+  "comments": [],
+  "largeUnresponsive": [
+    [
+      "index.html",
+      "assets/logo-swkipr.png",
+      70698
+    ],
+    [
+      "index.html",
+      "assets/logo-swkipr.png",
+      70698
+    ],
+    [
+      "index.html",
+      "assets/opinie/op-7.jpg",
+      73177
+    ],
+    [
+      "index.html",
+      "assets/opinie/op-3.jpg",
+      93059
+    ],
+    [
+      "index.html",
+      "assets/opinie/op-12.webp",
+      100054
+    ],
+    [
+      "index.html",
+      "assets/opinie/op-13.webp",
+      71964
+    ]
+  ],
+  "sizes": [
+    [
+      "breed-pages.css",
+      5563,
+      1614
+    ],
+    [
+      "contact.css",
+      10264,
+      2582
+    ],
+    [
+      "knowledge-photos.css",
+      2973,
+      867
+    ],
+    [
+      "site-audit.css",
+      8551,
+      2651
+    ],
+    [
+      "styles.css",
+      113012,
+      21820
+    ],
+    [
+      "script.js",
+      31082,
+      7478
+    ],
+    [
+      "galeria-chihuahua.html",
+      145567,
+      15287
+    ],
+    [
+      "index.html",
+      105446,
+      15749
+    ]
+  ]
+}

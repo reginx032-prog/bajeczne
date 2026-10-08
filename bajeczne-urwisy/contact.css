@@ -1,0 +1,210 @@
+/* Contact page: shared brand tokens and navigation live in styles.css. */
+.contact-page {
+  --contact-secondary: #686257;
+  --contact-section-space: clamp(64px, 7.2vw, 100px);
+  padding-bottom: 0;
+}
+
+.contact-page .contact-main { background: var(--white); }
+.contact-main section { scroll-margin-top: 108px; }
+.contact-main:focus { outline: none; }
+.contact-main .ico { flex: 0 0 auto; width: 20px; height: 20px; }
+.contact-main .btn { min-height: 48px; }
+.contact-main p { color: var(--contact-secondary); }
+
+.contact-skip {
+  position: fixed;
+  z-index: 101;
+  top: 12px;
+  left: 18px;
+  padding: 12px 20px;
+  background: var(--brown-deep);
+  color: var(--white);
+  border-radius: var(--radius-sm);
+  transform: translateY(-160%);
+}
+.contact-skip:focus { transform: none; color: var(--white); }
+
+.contact-main .contact-kicker {
+  margin: 0 0 14px;
+  font-family: var(--font-script);
+  font-size: 31px;
+  line-height: 1.2;
+  color: var(--brown);
+}
+.contact-intro { padding-block: clamp(32px, 4.5vw, 64px) clamp(56px, 6vw, 84px); }
+.contact-intro__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(36px, 5.2vw, 76px);
+}
+.contact-intro__copy { padding-bottom: 28px; }
+.contact-intro h1 {
+  margin-bottom: 22px;
+  font-size: clamp(40px, 4.15vw, 57px);
+  line-height: 1.12;
+  letter-spacing: -.035em;
+  text-wrap: initial;
+}
+.contact-intro__lead { max-width: 44ch; margin-bottom: 30px; font-size: 18px; line-height: 1.65; }
+.contact-main .contact-call__label { margin: 0 0 10px; color: var(--ink); font-size: 14px; font-weight: 700; }
+.contact-call__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  max-width: 100%;
+  color: var(--brown-deep);
+  font-size: clamp(30px, 3vw, 40px);
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -.025em;
+  white-space: nowrap;
+}
+.contact-call__icon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  color: var(--white);
+  background: var(--brown);
+  transition: background .18s ease;
+}
+.contact-call__icon .ico { width: 23px; height: 23px; }
+.contact-call__arrow { margin-left: 2px; transition: transform .18s ease; }
+.contact-call__link:hover .contact-call__icon { background: var(--brown-deep); }
+.contact-call__link:hover .contact-call__arrow { transform: translateX(4px); }
+.contact-main .contact-call__note { max-width: 42ch; margin: 13px 0 0; font-size: 14px; line-height: 1.6; }
+.contact-social { margin-top: 26px; padding-top: 20px; border-top: 1px solid var(--border); }
+.contact-social p { margin-bottom: 4px; font-size: 14px; }
+.contact-social__links { display: flex; flex-wrap: wrap; gap: 10px 26px; }
+.contact-social__links a { display: inline-flex; align-items: center; min-height: 44px; gap: 8px; font-weight: 800; font-size: 15px; }
+.contact-social__links .ico { width: 19px; height: 19px; }
+.contact-social__links a:hover { text-decoration: underline; text-underline-offset: 5px; }
+
+.contact-portrait { margin: 0; min-width: 0; }
+.contact-portrait__frame { overflow: hidden; aspect-ratio: 1; border-radius: var(--radius-xl); background: var(--cream-2); }
+.contact-portrait__frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 56% 48%;
+  transform: scale(1.32);
+  transform-origin: 56% 48%;
+}
+
+.contact-visit { padding-block: var(--contact-section-space); background: var(--cream); border-block: 1px solid var(--border-soft); }
+.contact-visit__grid { display: grid; grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr); gap: clamp(36px, 6vw, 86px); align-items: center; }
+.contact-main h2 { font-size: clamp(30px, 3vw, 40px); line-height: 1.2; letter-spacing: -.025em; margin-bottom: 20px; }
+.contact-visit__copy > p:not(.contact-kicker) { max-width: 46ch; }
+.contact-main .contact-visit__region { display: flex; gap: 8px; align-items: flex-start; margin-bottom: 23px; font-size: 14px; color: var(--ink); }
+.contact-visit__region .ico { width: 17px; height: 20px; margin-top: 2px; }
+.contact-visit__button { margin-top: 6px; }
+.contact-distances { display: flex; flex-wrap: wrap; column-gap: clamp(20px, 3vw, 42px); row-gap: 18px; margin: 32px 0 0; padding-top: 22px; border-top: 1px solid var(--border); }
+.contact-distances dt { color: var(--contact-secondary); font-size: 13px; }
+.contact-distances dd { margin: 3px 0 0; color: var(--ink); font-size: 18px; font-weight: 800; }
+.contact-map { min-width: 0; }
+.contact-map__frame { overflow: hidden; border: 1px solid var(--border); border-radius: var(--radius-lg); background: var(--cream-2); }
+.contact-map iframe { display: block; width: 100%; height: 362px; border: 0; }
+.contact-map__caption { padding-top: 15px; }
+.contact-map__caption p { max-width: 52ch; margin-bottom: 5px; font-size: 13px; line-height: 1.6; }
+.contact-text-link { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; font-size: 14px; font-weight: 800; text-decoration: underline; text-underline-offset: 5px; text-decoration-color: var(--beige-deep); }
+.contact-text-link:hover { text-decoration-color: currentColor; }
+.contact-text-link .ico { width: 17px; height: 17px; }
+
+.contact-questions { padding-block: var(--contact-section-space); }
+.contact-questions__grid { display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 1.25fr); gap: clamp(40px, 7vw, 104px); }
+.contact-questions__intro > p:not(.contact-kicker) { max-width: 36ch; margin-bottom: 13px; }
+.contact-faq { border-top: 1px solid var(--border); }
+.contact-faq details { border-bottom: 1px solid var(--border); }
+.contact-faq summary { display: flex; justify-content: space-between; align-items: center; gap: 22px; min-height: 77px; padding-block: 23px; color: var(--ink); cursor: pointer; font-size: 17px; font-weight: 800; line-height: 1.5; list-style: none; }
+.contact-faq summary::-webkit-details-marker { display: none; }
+.contact-faq summary::marker { content: ""; }
+.contact-faq summary:hover { color: var(--brown-deep); }
+.contact-faq summary:focus-visible { outline-offset: -3px; }
+.contact-faq__mark { position: relative; width: 24px; height: 24px; flex: 0 0 auto; color: var(--contact-secondary); }
+.contact-faq__mark::before, .contact-faq__mark::after { content: ""; position: absolute; top: 11px; left: 5px; width: 14px; height: 2px; background: currentColor; border-radius: 1px; }
+.contact-faq__mark::after { transform: rotate(90deg); }
+.contact-faq details[open] .contact-faq__mark::after { display: none; }
+.contact-faq__answer { padding: 0 38px 24px 0; }
+.contact-faq__answer p { margin: 0; font-size: 16px; line-height: 1.75; }
+.contact-faq__answer a { font-weight: 800; text-decoration: underline; text-underline-offset: 3px; }
+
+.contact-next { background: var(--cream-2); }
+.contact-next__inner { display: flex; align-items: center; justify-content: space-between; gap: 26px; padding-block: 38px; }
+.contact-main .contact-next__eyebrow { margin: 0 0 8px; color: var(--contact-secondary); font-size: 13px; font-weight: 700; }
+.contact-main .contact-next h2 { margin: 0; font-size: clamp(26px, 2.5vw, 33px); }
+.contact-next .btn { flex: 0 0 auto; }
+
+/* Keep the shared footer within the viewport on smaller laptops. */
+.contact-page .site-footer :focus-visible { outline-color: var(--cream); }
+.contact-page .site-footer { padding-bottom: 0; }
+.contact-page .contact-footer-heading {
+  color: #fff;
+  font-family: var(--font-body);
+  font-size: .95rem;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+@media (min-width: 981px) and (max-width: 1300px) {
+  .contact-page .footer-grid { grid-template-columns: 1fr 1.2fr; gap: 30px 56px; }
+}
+
+@media (max-width: 980px) {
+  .contact-page .nav.open .nav-links { max-height: calc(100dvh - 88px); overflow-y: auto; }
+}
+
+@media (max-width: 1000px) {
+  .contact-intro h1 { font-size: clamp(35px, 4.2vw, 43px); }
+  .contact-intro__lead { font-size: 17px; }
+  .contact-call__link { font-size: 30px; gap: 12px; }
+  .contact-call__icon { width: 50px; height: 50px; }
+  .contact-visit__grid { gap: 32px; }
+  .contact-main h2 { font-size: 32px; }
+}
+
+@media (max-width: 800px) {
+  .contact-intro__grid { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .contact-intro__copy { padding-bottom: 0; }
+  .contact-intro h1 { font-size: clamp(39px, 6.5vw, 54px); }
+  .contact-intro__lead { max-width: 48ch; }
+  .contact-call__link { font-size: clamp(30px, 5vw, 38px); }
+  .contact-social { max-width: 500px; }
+  .contact-portrait { max-width: 600px; width: 100%; }
+  .contact-visit__grid, .contact-questions__grid { grid-template-columns: minmax(0, 1fr); gap: 36px; }
+  .contact-visit__copy > p:not(.contact-kicker), .contact-questions__intro > p:not(.contact-kicker) { max-width: 56ch; }
+  .contact-map iframe { height: 340px; }
+  .contact-next__inner { flex-direction: column; align-items: flex-start; gap: 24px; }
+}
+
+@media (max-width: 480px) {
+  .contact-main .contact-kicker { font-size: 28px; margin-bottom: 12px; }
+  .contact-intro { padding-top: 28px; }
+  .contact-intro h1 { font-size: clamp(32px, 9vw, 42px); margin-bottom: 18px; }
+  .contact-intro__lead { margin-bottom: 24px; font-size: 16px; }
+  .contact-call__link { font-size: clamp(27px, 8vw, 35px); gap: 12px; }
+  .contact-call__icon { width: 46px; height: 46px; }
+  .contact-call__icon .ico { width: 21px; height: 21px; }
+  .contact-call__arrow { width: 17px !important; height: 17px !important; margin-left: 0; }
+  .contact-social { margin-top: 22px; padding-top: 16px; }
+  .contact-portrait__frame { border-radius: var(--radius-lg); }
+  .contact-main h2 { font-size: clamp(27px, 7.4vw, 34px); }
+  .contact-visit__region { max-width: 32ch !important; }
+  .contact-visit__button { font-size: 14px; padding-inline: 20px; }
+  .contact-distances { column-gap: 25px; }
+  .contact-distances dd { font-size: 17px; }
+  .contact-map iframe { height: 290px; }
+  .contact-faq summary { font-size: 16px; gap: 14px; }
+  .contact-faq__answer { padding-right: 10px; }
+  .contact-next .btn { width: 100%; white-space: normal; text-align: center; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .contact-call__icon, .contact-call__arrow { transition: none; }
+  .contact-call__link:hover .contact-call__arrow { transform: none; }
+}

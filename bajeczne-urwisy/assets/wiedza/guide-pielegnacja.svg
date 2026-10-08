@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Grooming guide</title>
+  <desc id="desc">Comb, shampoo and a small calm dog.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <rect x="118" y="120" width="132" height="300" rx="46" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M152 210h64M152 252h64M152 294h64" stroke="#d6b890" stroke-width="10" stroke-linecap="round"/>
+  <path d="M342 156l210 210" stroke="#2b2a25" stroke-width="14" stroke-linecap="round"/>
+  <path d="M500 112l150 150" stroke="#2b2a25" stroke-width="12" stroke-linecap="round"/>
+  <path d="M476 136l150 150M452 160l150 150M428 184l150 150" stroke="#d6b890" stroke-width="8" stroke-linecap="round"/>
+  <path d="M350 330c15-58 87-66 117-16 45 1 73 33 65 76-8 45-50 70-108 70s-100-25-108-70c-6-34 5-55 34-60z" fill="#fff" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="390" cy="372" r="7" fill="#2b2a25"/>
+  <circle cx="452" cy="372" r="7" fill="#2b2a25"/>
+  <path d="M420 390c10 9 20 9 30 0" fill="none" stroke="#2b2a25" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="646" cy="118" r="48" fill="#efe6d9"/>
+</svg>

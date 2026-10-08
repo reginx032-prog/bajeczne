@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgD)"/>
+
+  <path d="M380,80 C540,70 640,158 636,268 C632,376 536,442 388,444 C252,446 148,366 152,258 C156,152 246,88 380,80 Z" fill="#EBE0CC" opacity=".5"/>
+
+  <!-- księżyc i gwiazdy -->
+  <path d="M652,64 A46,46 0 1 0 652,156 A60,60 0 0 1 652,64 Z" fill="#DFC29E"/>
+  <g fill="#C7A57A">
+    <path d="M545,86 C546.5,93 548,94.5 555,96 C548,97.5 546.5,99 545,106 C543.5,99 542,97.5 535,96 C542,94.5 543.5,93 545,86 Z"/>
+    <path d="M700,190 C701.5,197 703,198.5 710,200 C703,201.5 701.5,203 700,210 C698.5,203 697,201.5 690,200 C697,198.5 698.5,197 700,190 Z" opacity=".85"/>
+    <path d="M160,132 C162,142 164,144 174,146 C164,148 162,150 160,160 C158,150 156,148 146,146 C156,144 158,142 160,132 Z"/>
+  </g>
+
+  <!-- "sen" – gwiazdki rosnące -->
+  <g fill="#C7A57A">
+    <path d="M508,246 C509,251 510,252 515,253 C510,254 509,255 508,260 C507,255 506,254 501,253 C506,252 507,251 508,246 Z"/>
+    <path d="M534,216 C535.5,222.5 537,224 543.5,225.5 C537,227 535.5,228.5 534,235 C532.5,228.5 531,227 524.5,225.5 C531,224 532.5,222.5 534,216 Z"/>
+    <path d="M562,180 C564,188 566,190 574,192 C566,194 564,196 562,204 C560,196 558,194 550,192 C558,190 560,188 562,180 Z"/>
+  </g>
+
+  <!-- dywanik i cień -->
+  <ellipse cx="400" cy="456" rx="215" ry="17" fill="#EBE0CC"/>
+  <ellipse cx="400" cy="456" rx="150" ry="11" fill="#2A2823" opacity=".05"/>
+
+  <!-- tył koszyka -->
+  <path d="M240,326 L560,326 Q576,326 574,342 L570,368 L230,368 L226,342 Q224,326 240,326 Z" fill="#A98457"/>
+
+  <!-- kocyk -->
+  <path d="M245,328 Q280,300 330,318 Q370,296 420,315 Q470,296 520,318 Q548,305 555,328 Z" fill="#F7F1E6"/>
+
+  <!-- śpiący szczeniak -->
+  <path d="M348,318 Q326,292 346,274" fill="none" stroke="#C9A87C" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="398" cy="300" r="56" fill="#E4C7A0"/>
+  <circle cx="456" cy="292" r="40" fill="#E4C7A0"/>
+  <ellipse cx="472" cy="304" rx="20" ry="14" fill="#F3E4CC"/>
+  <ellipse cx="452" cy="252" rx="14" ry="26" fill="#C9A87C" transform="rotate(28 452 252)"/>
+  <path d="M458,288 Q466,294 474,288" fill="none" stroke="#2A2823" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="488" cy="302" r="5.5" fill="#2A2823"/>
+
+  <!-- przód koszyka -->
+  <path d="M228,344 Q224,446 400,450 Q576,446 572,344 Q572,330 554,330 L246,330 Q228,330 228,344 Z" fill="#C9A87C"/>
+  <path d="M250,376 Q400,392 550,376 M242,410 Q400,426 558,410" fill="none" stroke="#A6714A" stroke-width="5" stroke-linecap="round" opacity=".35"/>
+  <rect x="234" y="316" width="332" height="26" rx="13" fill="#B08D63"/>
+</svg>

@@ -1,0 +1,5661 @@
+{
+  "assets/opinie/op-11.jpg": {
+    "originalBytes": 174296,
+    "variants": [
+      {
+        "src": "assets/optimized/op-11-473dcb00e47c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33826
+      },
+      {
+        "src": "assets/optimized/op-11-473dcb00e47c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 108016
+      },
+      {
+        "src": "assets/optimized/op-11-473dcb00e47c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 190676
+      },
+      {
+        "src": "assets/optimized/op-11-473dcb00e47c-1242.webp",
+        "width": 1242,
+        "height": 1656,
+        "bytes": 193648
+      }
+    ]
+  },
+  "assets/opinie/op-19.jpg": {
+    "originalBytes": 349937,
+    "variants": [
+      {
+        "src": "assets/optimized/op-19-9d647e331cd5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 56850
+      },
+      {
+        "src": "assets/optimized/op-19-9d647e331cd5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 169064
+      },
+      {
+        "src": "assets/optimized/op-19-9d647e331cd5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 301118
+      },
+      {
+        "src": "assets/optimized/op-19-9d647e331cd5-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 382730
+      }
+    ]
+  },
+  "assets/opinie/op-4.jpg": {
+    "originalBytes": 83669,
+    "variants": [
+      {
+        "src": "assets/optimized/op-4-3ad74678e744-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 28698
+      },
+      {
+        "src": "assets/optimized/op-4-3ad74678e744-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 79436
+      },
+      {
+        "src": "assets/optimized/op-4-3ad74678e744-912.webp",
+        "width": 912,
+        "height": 684,
+        "bytes": 91064
+      }
+    ]
+  },
+  "assets/opinie/op-5.jpg": {
+    "originalBytes": 290437,
+    "variants": [
+      {
+        "src": "assets/optimized/op-5-db54a37550f4-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 38982
+      },
+      {
+        "src": "assets/optimized/op-5-db54a37550f4-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 129270
+      },
+      {
+        "src": "assets/optimized/op-5-db54a37550f4-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 229758
+      },
+      {
+        "src": "assets/optimized/op-5-db54a37550f4-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 315666
+      }
+    ]
+  },
+  "assets/opinie/op-weronika-simba.jpeg": {
+    "originalBytes": 115691,
+    "variants": [
+      {
+        "src": "assets/optimized/op-weronika-simba-0d4a3cccb9c8-400.webp",
+        "width": 400,
+        "height": 711,
+        "bytes": 24752
+      },
+      {
+        "src": "assets/optimized/op-weronika-simba-0d4a3cccb9c8-800.webp",
+        "width": 800,
+        "height": 1422,
+        "bytes": 77588
+      },
+      {
+        "src": "assets/optimized/op-weronika-simba-0d4a3cccb9c8-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 99898
+      }
+    ]
+  },
+  "assets/photos/109177774_933765513753492_776950081133904014_n.jpg": {
+    "originalBytes": 221943,
+    "variants": [
+      {
+        "src": "assets/optimized/109177774-933765513753492-776950081133904014-n-eca0884d1c09-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 32986
+      },
+      {
+        "src": "assets/optimized/109177774-933765513753492-776950081133904014-n-eca0884d1c09-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 86298
+      },
+      {
+        "src": "assets/optimized/109177774-933765513753492-776950081133904014-n-eca0884d1c09-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 153360
+      },
+      {
+        "src": "assets/optimized/109177774-933765513753492-776950081133904014-n-eca0884d1c09-1488.webp",
+        "width": 1488,
+        "height": 1984,
+        "bytes": 214420
+      }
+    ]
+  },
+  "assets/photos/109251050_933765553753488_3216155488452036126_n.jpg": {
+    "originalBytes": 153539,
+    "variants": [
+      {
+        "src": "assets/optimized/109251050-933765553753488-3216155488452036126-n-e64bc7c2710f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21188
+      },
+      {
+        "src": "assets/optimized/109251050-933765553753488-3216155488452036126-n-e64bc7c2710f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55024
+      },
+      {
+        "src": "assets/optimized/109251050-933765553753488-3216155488452036126-n-e64bc7c2710f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 94734
+      },
+      {
+        "src": "assets/optimized/109251050-933765553753488-3216155488452036126-n-e64bc7c2710f-1488.webp",
+        "width": 1488,
+        "height": 1984,
+        "bytes": 127484
+      }
+    ]
+  },
+  "assets/photos/157334406_1104216133375095_3981433880521684210_n.jpg": {
+    "originalBytes": 65991,
+    "variants": [
+      {
+        "src": "assets/optimized/157334406-1104216133375095-3981433880521684210-n-b625766c8b3d-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33124
+      },
+      {
+        "src": "assets/optimized/157334406-1104216133375095-3981433880521684210-n-b625766c8b3d-720.webp",
+        "width": 720,
+        "height": 960,
+        "bytes": 63882
+      }
+    ]
+  },
+  "assets/photos/43049781_514831288980252_1476606341865799680_n.jpg": {
+    "originalBytes": 266046,
+    "variants": [
+      {
+        "src": "assets/optimized/43049781-514831288980252-1476606341865799680-n-08f518c08952-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 24430
+      },
+      {
+        "src": "assets/optimized/43049781-514831288980252-1476606341865799680-n-08f518c08952-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 63666
+      },
+      {
+        "src": "assets/optimized/43049781-514831288980252-1476606341865799680-n-08f518c08952-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 119060
+      },
+      {
+        "src": "assets/optimized/43049781-514831288980252-1476606341865799680-n-08f518c08952-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 187376
+      }
+    ]
+  },
+  "assets/photos/43104932_514831618980219_2641463796811431936_n.jpg": {
+    "originalBytes": 247610,
+    "variants": [
+      {
+        "src": "assets/optimized/43104932-514831618980219-2641463796811431936-n-d80ea4aaa5d1-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 20724
+      },
+      {
+        "src": "assets/optimized/43104932-514831618980219-2641463796811431936-n-d80ea4aaa5d1-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 58226
+      },
+      {
+        "src": "assets/optimized/43104932-514831618980219-2641463796811431936-n-d80ea4aaa5d1-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 111160
+      },
+      {
+        "src": "assets/optimized/43104932-514831618980219-2641463796811431936-n-d80ea4aaa5d1-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 166218
+      }
+    ]
+  },
+  "assets/photos/43141148_514831662313548_5671521120575029248_n.jpg": {
+    "originalBytes": 319444,
+    "variants": [
+      {
+        "src": "assets/optimized/43141148-514831662313548-5671521120575029248-n-afa518055c31-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 30630
+      },
+      {
+        "src": "assets/optimized/43141148-514831662313548-5671521120575029248-n-afa518055c31-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 87184
+      },
+      {
+        "src": "assets/optimized/43141148-514831662313548-5671521120575029248-n-afa518055c31-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 153450
+      },
+      {
+        "src": "assets/optimized/43141148-514831662313548-5671521120575029248-n-afa518055c31-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 233588
+      }
+    ]
+  },
+  "assets/photos/460805067_1974704232992943_336144858035212783_n.jpg": {
+    "originalBytes": 165596,
+    "variants": [
+      {
+        "src": "assets/optimized/460805067-1974704232992943-336144858035212783-n-5968704b4914-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 21492
+      },
+      {
+        "src": "assets/optimized/460805067-1974704232992943-336144858035212783-n-5968704b4914-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 63358
+      },
+      {
+        "src": "assets/optimized/460805067-1974704232992943-336144858035212783-n-5968704b4914-1200.webp",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 113882
+      },
+      {
+        "src": "assets/optimized/460805067-1974704232992943-336144858035212783-n-5968704b4914-1536.webp",
+        "width": 1536,
+        "height": 1536,
+        "bytes": 161792
+      }
+    ]
+  },
+  "assets/photos/468468374_2029317750864924_8435673145716124769_n.jpg": {
+    "originalBytes": 127778,
+    "variants": [
+      {
+        "src": "assets/optimized/468468374-2029317750864924-8435673145716124769-n-6738640e4bd7-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 43020
+      },
+      {
+        "src": "assets/optimized/468468374-2029317750864924-8435673145716124769-n-6738640e4bd7-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 112914
+      },
+      {
+        "src": "assets/optimized/468468374-2029317750864924-8435673145716124769-n-6738640e4bd7-930.webp",
+        "width": 930,
+        "height": 1240,
+        "bytes": 136136
+      }
+    ]
+  },
+  "assets/photos/475784663_1216475600092622_6571163688557743362_n.jpg": {
+    "originalBytes": 384560,
+    "variants": [
+      {
+        "src": "assets/optimized/475784663-1216475600092622-6571163688557743362-n-71389159a451-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 69532
+      },
+      {
+        "src": "assets/optimized/475784663-1216475600092622-6571163688557743362-n-71389159a451-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 187712
+      },
+      {
+        "src": "assets/optimized/475784663-1216475600092622-6571163688557743362-n-71389159a451-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 314880
+      },
+      {
+        "src": "assets/optimized/475784663-1216475600092622-6571163688557743362-n-71389159a451-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 417376
+      }
+    ]
+  },
+  "assets/photos/475797145_1216475576759291_625898511577443868_n.jpg": {
+    "originalBytes": 329345,
+    "variants": [
+      {
+        "src": "assets/optimized/475797145-1216475576759291-625898511577443868-n-43260759e609-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 80490
+      },
+      {
+        "src": "assets/optimized/475797145-1216475576759291-625898511577443868-n-43260759e609-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 257230
+      },
+      {
+        "src": "assets/optimized/475797145-1216475576759291-625898511577443868-n-43260759e609-1125.webp",
+        "width": 1125,
+        "height": 1500,
+        "bytes": 401156
+      }
+    ]
+  },
+  "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg": {
+    "originalBytes": 186815,
+    "variants": [
+      {
+        "src": "assets/optimized/475806227-1216475530092629-2020720086280144622-n-d0c7b4899727-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 48668
+      },
+      {
+        "src": "assets/optimized/475806227-1216475530092629-2020720086280144622-n-d0c7b4899727-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 128542
+      },
+      {
+        "src": "assets/optimized/475806227-1216475530092629-2020720086280144622-n-d0c7b4899727-1125.webp",
+        "width": 1125,
+        "height": 1500,
+        "bytes": 193206
+      }
+    ]
+  },
+  "assets/photos/476096102_1216475556759293_559008881203537534_n.jpg": {
+    "originalBytes": 406490,
+    "variants": [
+      {
+        "src": "assets/optimized/476096102-1216475556759293-559008881203537534-n-5a6e5cfe34c3-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 73034
+      },
+      {
+        "src": "assets/optimized/476096102-1216475556759293-559008881203537534-n-5a6e5cfe34c3-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 195034
+      },
+      {
+        "src": "assets/optimized/476096102-1216475556759293-559008881203537534-n-5a6e5cfe34c3-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 331354
+      },
+      {
+        "src": "assets/optimized/476096102-1216475556759293-559008881203537534-n-5a6e5cfe34c3-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 441836
+      }
+    ]
+  },
+  "assets/photos/476098651_1216475933425922_8131518548611047942_n.jpg": {
+    "originalBytes": 451149,
+    "variants": [
+      {
+        "src": "assets/optimized/476098651-1216475933425922-8131518548611047942-n-2d4d9bb5b44f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 77790
+      },
+      {
+        "src": "assets/optimized/476098651-1216475933425922-8131518548611047942-n-2d4d9bb5b44f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 224404
+      },
+      {
+        "src": "assets/optimized/476098651-1216475933425922-8131518548611047942-n-2d4d9bb5b44f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 403472
+      },
+      {
+        "src": "assets/optimized/476098651-1216475933425922-8131518548611047942-n-2d4d9bb5b44f-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 535354
+      }
+    ]
+  },
+  "assets/photos/480228128_1223794489360733_3367803974597628097_n.jpg": {
+    "originalBytes": 651061,
+    "variants": [
+      {
+        "src": "assets/optimized/480228128-1223794489360733-3367803974597628097-n-3c25c4793f9f-400.webp",
+        "width": 400,
+        "height": 538,
+        "bytes": 94016
+      },
+      {
+        "src": "assets/optimized/480228128-1223794489360733-3367803974597628097-n-3c25c4793f9f-800.webp",
+        "width": 800,
+        "height": 1075,
+        "bytes": 333338
+      },
+      {
+        "src": "assets/optimized/480228128-1223794489360733-3367803974597628097-n-3c25c4793f9f-1200.webp",
+        "width": 1200,
+        "height": 1613,
+        "bytes": 643884
+      },
+      {
+        "src": "assets/optimized/480228128-1223794489360733-3367803974597628097-n-3c25c4793f9f-1488.webp",
+        "width": 1488,
+        "height": 2000,
+        "bytes": 821896
+      }
+    ]
+  },
+  "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg": {
+    "originalBytes": 303076,
+    "variants": [
+      {
+        "src": "assets/optimized/482978515-1245861713820677-1475201332155458575-n-1-ee539db08290-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 41362
+      },
+      {
+        "src": "assets/optimized/482978515-1245861713820677-1475201332155458575-n-1-ee539db08290-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 126956
+      },
+      {
+        "src": "assets/optimized/482978515-1245861713820677-1475201332155458575-n-1-ee539db08290-1200.webp",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 228640
+      },
+      {
+        "src": "assets/optimized/482978515-1245861713820677-1475201332155458575-n-1-ee539db08290-1536.webp",
+        "width": 1536,
+        "height": 1536,
+        "bytes": 307170
+      }
+    ]
+  },
+  "assets/photos/483568862_1245861953820653_7734820015284714015_n.jpg": {
+    "originalBytes": 145517,
+    "variants": [
+      {
+        "src": "assets/optimized/483568862-1245861953820653-7734820015284714015-n-d83e027a66ab-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 39128
+      },
+      {
+        "src": "assets/optimized/483568862-1245861953820653-7734820015284714015-n-d83e027a66ab-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 115790
+      },
+      {
+        "src": "assets/optimized/483568862-1245861953820653-7734820015284714015-n-d83e027a66ab-1080.webp",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 169092
+      }
+    ]
+  },
+  "assets/photos/484069643_1245861723820676_3286305616491726902_n.jpg": {
+    "originalBytes": 296090,
+    "variants": [
+      {
+        "src": "assets/optimized/484069643-1245861723820676-3286305616491726902-n-858d5fbcbf2f-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 45060
+      },
+      {
+        "src": "assets/optimized/484069643-1245861723820676-3286305616491726902-n-858d5fbcbf2f-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 134602
+      },
+      {
+        "src": "assets/optimized/484069643-1245861723820676-3286305616491726902-n-858d5fbcbf2f-1200.webp",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 248290
+      },
+      {
+        "src": "assets/optimized/484069643-1245861723820676-3286305616491726902-n-858d5fbcbf2f-1536.webp",
+        "width": 1536,
+        "height": 1536,
+        "bytes": 331402
+      }
+    ]
+  },
+  "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg": {
+    "originalBytes": 145106,
+    "variants": [
+      {
+        "src": "assets/optimized/484072506-1245861933820655-17492189225218602-n-6868906c0a4c-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 32746
+      },
+      {
+        "src": "assets/optimized/484072506-1245861933820655-17492189225218602-n-6868906c0a4c-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 90452
+      },
+      {
+        "src": "assets/optimized/484072506-1245861933820655-17492189225218602-n-6868906c0a4c-1156.webp",
+        "width": 1156,
+        "height": 1156,
+        "bytes": 147450
+      }
+    ]
+  },
+  "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg": {
+    "originalBytes": 103451,
+    "variants": [
+      {
+        "src": "assets/optimized/484365662-1249451543461694-3086579204630291966-n-7e5d5d9a31f2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 17006
+      },
+      {
+        "src": "assets/optimized/484365662-1249451543461694-3086579204630291966-n-7e5d5d9a31f2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 42704
+      },
+      {
+        "src": "assets/optimized/484365662-1249451543461694-3086579204630291966-n-7e5d5d9a31f2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 72634
+      },
+      {
+        "src": "assets/optimized/484365662-1249451543461694-3086579204630291966-n-7e5d5d9a31f2-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 92684
+      }
+    ]
+  },
+  "assets/photos/484651163_1248104880263027_8563017201825524509_n.jpg": {
+    "originalBytes": 243876,
+    "variants": [
+      {
+        "src": "assets/optimized/484651163-1248104880263027-8563017201825524509-n-9d94470ce861-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 38856
+      },
+      {
+        "src": "assets/optimized/484651163-1248104880263027-8563017201825524509-n-9d94470ce861-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 101014
+      },
+      {
+        "src": "assets/optimized/484651163-1248104880263027-8563017201825524509-n-9d94470ce861-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 172368
+      },
+      {
+        "src": "assets/optimized/484651163-1248104880263027-8563017201825524509-n-9d94470ce861-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 232554
+      }
+    ]
+  },
+  "assets/photos/484790390_1248104926929689_3466688219388002954_n.jpg": {
+    "originalBytes": 228826,
+    "variants": [
+      {
+        "src": "assets/optimized/484790390-1248104926929689-3466688219388002954-n-7ea5f51d347e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 36600
+      },
+      {
+        "src": "assets/optimized/484790390-1248104926929689-3466688219388002954-n-7ea5f51d347e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 93044
+      },
+      {
+        "src": "assets/optimized/484790390-1248104926929689-3466688219388002954-n-7ea5f51d347e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 159640
+      },
+      {
+        "src": "assets/optimized/484790390-1248104926929689-3466688219388002954-n-7ea5f51d347e-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 216574
+      }
+    ]
+  },
+  "assets/photos/484852551_1248104960263019_9110853340824011690_n.jpg": {
+    "originalBytes": 100324,
+    "variants": [
+      {
+        "src": "assets/optimized/484852551-1248104960263019-9110853340824011690-n-893fe10b8c19-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22000
+      },
+      {
+        "src": "assets/optimized/484852551-1248104960263019-9110853340824011690-n-893fe10b8c19-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 57554
+      },
+      {
+        "src": "assets/optimized/484852551-1248104960263019-9110853340824011690-n-893fe10b8c19-1125.webp",
+        "width": 1125,
+        "height": 1500,
+        "bytes": 93320
+      }
+    ]
+  },
+  "assets/photos/484901626_1248104853596363_4029686190301572041_n.jpg": {
+    "originalBytes": 101969,
+    "variants": [
+      {
+        "src": "assets/optimized/484901626-1248104853596363-4029686190301572041-n-3e5419664f97-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22230
+      },
+      {
+        "src": "assets/optimized/484901626-1248104853596363-4029686190301572041-n-3e5419664f97-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 57216
+      },
+      {
+        "src": "assets/optimized/484901626-1248104853596363-4029686190301572041-n-3e5419664f97-1125.webp",
+        "width": 1125,
+        "height": 1500,
+        "bytes": 93572
+      }
+    ]
+  },
+  "assets/photos/484988801_1251898713216977_8625989847415697886_n.jpg": {
+    "originalBytes": 264555,
+    "variants": [
+      {
+        "src": "assets/optimized/484988801-1251898713216977-8625989847415697886-n-1b0ed2b0eea8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 45784
+      },
+      {
+        "src": "assets/optimized/484988801-1251898713216977-8625989847415697886-n-1b0ed2b0eea8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 113008
+      },
+      {
+        "src": "assets/optimized/484988801-1251898713216977-8625989847415697886-n-1b0ed2b0eea8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 192798
+      },
+      {
+        "src": "assets/optimized/484988801-1251898713216977-8625989847415697886-n-1b0ed2b0eea8-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 264570
+      }
+    ]
+  },
+  "assets/photos/485306216_1251898689883646_2823692272526144683_n.jpg": {
+    "originalBytes": 279004,
+    "variants": [
+      {
+        "src": "assets/optimized/485306216-1251898689883646-2823692272526144683-n-8fe796631370-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 44276
+      },
+      {
+        "src": "assets/optimized/485306216-1251898689883646-2823692272526144683-n-8fe796631370-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 117384
+      },
+      {
+        "src": "assets/optimized/485306216-1251898689883646-2823692272526144683-n-8fe796631370-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 213000
+      },
+      {
+        "src": "assets/optimized/485306216-1251898689883646-2823692272526144683-n-8fe796631370-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 279730
+      }
+    ]
+  },
+  "assets/photos/485366262_1251898489883666_3656723322342899162_n.jpg": {
+    "originalBytes": 179144,
+    "variants": [
+      {
+        "src": "assets/optimized/485366262-1251898489883666-3656723322342899162-n-cea3f44ab449-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24774
+      },
+      {
+        "src": "assets/optimized/485366262-1251898489883666-3656723322342899162-n-cea3f44ab449-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 66872
+      },
+      {
+        "src": "assets/optimized/485366262-1251898489883666-3656723322342899162-n-cea3f44ab449-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 118884
+      },
+      {
+        "src": "assets/optimized/485366262-1251898489883666-3656723322342899162-n-cea3f44ab449-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 169376
+      }
+    ]
+  },
+  "assets/photos/485399601_1251898603216988_5875436726425093319_n.jpg": {
+    "originalBytes": 168338,
+    "variants": [
+      {
+        "src": "assets/optimized/485399601-1251898603216988-5875436726425093319-n-45487b456046-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26180
+      },
+      {
+        "src": "assets/optimized/485399601-1251898603216988-5875436726425093319-n-45487b456046-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 63880
+      },
+      {
+        "src": "assets/optimized/485399601-1251898603216988-5875436726425093319-n-45487b456046-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 104468
+      },
+      {
+        "src": "assets/optimized/485399601-1251898603216988-5875436726425093319-n-45487b456046-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 140310
+      }
+    ]
+  },
+  "assets/photos/486046152_1251898606550321_4792301369703912929_n.jpg": {
+    "originalBytes": 298062,
+    "variants": [
+      {
+        "src": "assets/optimized/486046152-1251898606550321-4792301369703912929-n-388974a75818-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 48704
+      },
+      {
+        "src": "assets/optimized/486046152-1251898606550321-4792301369703912929-n-388974a75818-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 129890
+      },
+      {
+        "src": "assets/optimized/486046152-1251898606550321-4792301369703912929-n-388974a75818-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 234980
+      },
+      {
+        "src": "assets/optimized/486046152-1251898606550321-4792301369703912929-n-388974a75818-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 302472
+      }
+    ]
+  },
+  "assets/photos/487834875_1267934288280086_5791840663588787362_n.jpg": {
+    "originalBytes": 479056,
+    "variants": [
+      {
+        "src": "assets/optimized/487834875-1267934288280086-5791840663588787362-n-64e2bac3aec8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 69498
+      },
+      {
+        "src": "assets/optimized/487834875-1267934288280086-5791840663588787362-n-64e2bac3aec8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 225656
+      },
+      {
+        "src": "assets/optimized/487834875-1267934288280086-5791840663588787362-n-64e2bac3aec8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 418956
+      },
+      {
+        "src": "assets/optimized/487834875-1267934288280086-5791840663588787362-n-64e2bac3aec8-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 555302
+      }
+    ]
+  },
+  "assets/photos/488443625_1268229991583849_9037559751575340253_n.jpg": {
+    "originalBytes": 293046,
+    "variants": [
+      {
+        "src": "assets/optimized/488443625-1268229991583849-9037559751575340253-n-59618c562fbd-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 44502
+      },
+      {
+        "src": "assets/optimized/488443625-1268229991583849-9037559751575340253-n-59618c562fbd-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 122490
+      },
+      {
+        "src": "assets/optimized/488443625-1268229991583849-9037559751575340253-n-59618c562fbd-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 215464
+      },
+      {
+        "src": "assets/optimized/488443625-1268229991583849-9037559751575340253-n-59618c562fbd-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 295510
+      }
+    ]
+  },
+  "assets/photos/488494360_1267934188280096_1901540539220119308_n.jpg": {
+    "originalBytes": 260012,
+    "variants": [
+      {
+        "src": "assets/optimized/488494360-1267934188280096-1901540539220119308-n-199b0a3e0b60-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 41734
+      },
+      {
+        "src": "assets/optimized/488494360-1267934188280096-1901540539220119308-n-199b0a3e0b60-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 108876
+      },
+      {
+        "src": "assets/optimized/488494360-1267934188280096-1901540539220119308-n-199b0a3e0b60-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 185514
+      },
+      {
+        "src": "assets/optimized/488494360-1267934188280096-1901540539220119308-n-199b0a3e0b60-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 254590
+      }
+    ]
+  },
+  "assets/photos/488537149_1266511051755743_7664485313944039998_n.jpg": {
+    "originalBytes": 479396,
+    "variants": [
+      {
+        "src": "assets/optimized/488537149-1266511051755743-7664485313944039998-n-740075684004-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 72502
+      },
+      {
+        "src": "assets/optimized/488537149-1266511051755743-7664485313944039998-n-740075684004-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 300576
+      },
+      {
+        "src": "assets/optimized/488537149-1266511051755743-7664485313944039998-n-740075684004-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 574264
+      },
+      {
+        "src": "assets/optimized/488537149-1266511051755743-7664485313944039998-n-740075684004-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 712202
+      }
+    ]
+  },
+  "assets/photos/488713637_1268229688250546_7216468663853245921_n.jpg": {
+    "originalBytes": 293652,
+    "variants": [
+      {
+        "src": "assets/optimized/488713637-1268229688250546-7216468663853245921-n-881725c7e0d8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 43126
+      },
+      {
+        "src": "assets/optimized/488713637-1268229688250546-7216468663853245921-n-881725c7e0d8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 123566
+      },
+      {
+        "src": "assets/optimized/488713637-1268229688250546-7216468663853245921-n-881725c7e0d8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 217784
+      },
+      {
+        "src": "assets/optimized/488713637-1268229688250546-7216468663853245921-n-881725c7e0d8-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 294060
+      }
+    ]
+  },
+  "assets/photos/488748327_1268229801583868_155401014398620867_n.jpg": {
+    "originalBytes": 226197,
+    "variants": [
+      {
+        "src": "assets/optimized/488748327-1268229801583868-155401014398620867-n-1c33121f9bd0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33902
+      },
+      {
+        "src": "assets/optimized/488748327-1268229801583868-155401014398620867-n-1c33121f9bd0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 88310
+      },
+      {
+        "src": "assets/optimized/488748327-1268229801583868-155401014398620867-n-1c33121f9bd0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 153424
+      },
+      {
+        "src": "assets/optimized/488748327-1268229801583868-155401014398620867-n-1c33121f9bd0-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 215038
+      }
+    ]
+  },
+  "assets/photos/488795020_1267934138280101_3189858410946945820_n.jpg": {
+    "originalBytes": 370022,
+    "variants": [
+      {
+        "src": "assets/optimized/488795020-1267934138280101-3189858410946945820-n-df552cb33fe6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 66554
+      },
+      {
+        "src": "assets/optimized/488795020-1267934138280101-3189858410946945820-n-df552cb33fe6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 172932
+      },
+      {
+        "src": "assets/optimized/488795020-1267934138280101-3189858410946945820-n-df552cb33fe6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 292984
+      },
+      {
+        "src": "assets/optimized/488795020-1267934138280101-3189858410946945820-n-df552cb33fe6-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 388194
+      }
+    ]
+  },
+  "assets/photos/488885820_1268229828250532_6816131817225718469_n.jpg": {
+    "originalBytes": 116147,
+    "variants": [
+      {
+        "src": "assets/optimized/488885820-1268229828250532-6816131817225718469-n-f7be612c467b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 13752
+      },
+      {
+        "src": "assets/optimized/488885820-1268229828250532-6816131817225718469-n-f7be612c467b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 33434
+      },
+      {
+        "src": "assets/optimized/488885820-1268229828250532-6816131817225718469-n-f7be612c467b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 61466
+      },
+      {
+        "src": "assets/optimized/488885820-1268229828250532-6816131817225718469-n-f7be612c467b-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 90308
+      }
+    ]
+  },
+  "assets/photos/488904341_1268227141584134_1380843970994118221_n.jpg": {
+    "originalBytes": 206997,
+    "variants": [
+      {
+        "src": "assets/optimized/488904341-1268227141584134-1380843970994118221-n-fec6a262c1db-400.webp",
+        "width": 400,
+        "height": 780,
+        "bytes": 74702
+      },
+      {
+        "src": "assets/optimized/488904341-1268227141584134-1380843970994118221-n-fec6a262c1db-800.webp",
+        "width": 800,
+        "height": 1561,
+        "bytes": 227924
+      },
+      {
+        "src": "assets/optimized/488904341-1268227141584134-1380843970994118221-n-fec6a262c1db-984.webp",
+        "width": 984,
+        "height": 1920,
+        "bytes": 282496
+      }
+    ]
+  },
+  "assets/photos/488908612_1268229804917201_7010107746004415560_n.jpg": {
+    "originalBytes": 339049,
+    "variants": [
+      {
+        "src": "assets/optimized/488908612-1268229804917201-7010107746004415560-n-c8709be3fbb3-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 49650
+      },
+      {
+        "src": "assets/optimized/488908612-1268229804917201-7010107746004415560-n-c8709be3fbb3-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 147348
+      },
+      {
+        "src": "assets/optimized/488908612-1268229804917201-7010107746004415560-n-c8709be3fbb3-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 268384
+      },
+      {
+        "src": "assets/optimized/488908612-1268229804917201-7010107746004415560-n-c8709be3fbb3-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 346872
+      }
+    ]
+  },
+  "assets/photos/488940453_1267934134946768_7903063769810543384_n.jpg": {
+    "originalBytes": 389218,
+    "variants": [
+      {
+        "src": "assets/optimized/488940453-1267934134946768-7903063769810543384-n-5fdc5019f4fb-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 63836
+      },
+      {
+        "src": "assets/optimized/488940453-1267934134946768-7903063769810543384-n-5fdc5019f4fb-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 190014
+      },
+      {
+        "src": "assets/optimized/488940453-1267934134946768-7903063769810543384-n-5fdc5019f4fb-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 334480
+      },
+      {
+        "src": "assets/optimized/488940453-1267934134946768-7903063769810543384-n-5fdc5019f4fb-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 423198
+      }
+    ]
+  },
+  "assets/photos/489133723_1271691781237670_2183116230785506436_n.jpg": {
+    "originalBytes": 158480,
+    "variants": [
+      {
+        "src": "assets/optimized/489133723-1271691781237670-2183116230785506436-n-78c94bea6539-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 19870
+      },
+      {
+        "src": "assets/optimized/489133723-1271691781237670-2183116230785506436-n-78c94bea6539-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 52006
+      },
+      {
+        "src": "assets/optimized/489133723-1271691781237670-2183116230785506436-n-78c94bea6539-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 94034
+      },
+      {
+        "src": "assets/optimized/489133723-1271691781237670-2183116230785506436-n-78c94bea6539-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 132542
+      }
+    ]
+  },
+  "assets/photos/489310809_1271691967904318_1754451434826555088_n.jpg": {
+    "originalBytes": 234292,
+    "variants": [
+      {
+        "src": "assets/optimized/489310809-1271691967904318-1754451434826555088-n-1b313bc389c6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33434
+      },
+      {
+        "src": "assets/optimized/489310809-1271691967904318-1754451434826555088-n-1b313bc389c6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 88204
+      },
+      {
+        "src": "assets/optimized/489310809-1271691967904318-1754451434826555088-n-1b313bc389c6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 165756
+      },
+      {
+        "src": "assets/optimized/489310809-1271691967904318-1754451434826555088-n-1b313bc389c6-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 228338
+      }
+    ]
+  },
+  "assets/photos/489447719_1271691971237651_8512610079039111112_n.jpg": {
+    "originalBytes": 197798,
+    "variants": [
+      {
+        "src": "assets/optimized/489447719-1271691971237651-8512610079039111112-n-1b5bc5a2874e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 27126
+      },
+      {
+        "src": "assets/optimized/489447719-1271691971237651-8512610079039111112-n-1b5bc5a2874e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 76516
+      },
+      {
+        "src": "assets/optimized/489447719-1271691971237651-8512610079039111112-n-1b5bc5a2874e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 135616
+      },
+      {
+        "src": "assets/optimized/489447719-1271691971237651-8512610079039111112-n-1b5bc5a2874e-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 184826
+      }
+    ]
+  },
+  "assets/photos/489491649_1271692257904289_1295864117261188086_n.jpg": {
+    "originalBytes": 148979,
+    "variants": [
+      {
+        "src": "assets/optimized/489491649-1271692257904289-1295864117261188086-n-88cca88b7f65-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 20948
+      },
+      {
+        "src": "assets/optimized/489491649-1271692257904289-1295864117261188086-n-88cca88b7f65-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 50004
+      },
+      {
+        "src": "assets/optimized/489491649-1271692257904289-1295864117261188086-n-88cca88b7f65-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 84056
+      },
+      {
+        "src": "assets/optimized/489491649-1271692257904289-1295864117261188086-n-88cca88b7f65-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 112344
+      }
+    ]
+  },
+  "assets/photos/489580061_1272918727781642_6837771565290625659_n.jpg": {
+    "originalBytes": 185276,
+    "variants": [
+      {
+        "src": "assets/optimized/489580061-1272918727781642-6837771565290625659-n-676419daef34-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 19024
+      },
+      {
+        "src": "assets/optimized/489580061-1272918727781642-6837771565290625659-n-676419daef34-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 58632
+      },
+      {
+        "src": "assets/optimized/489580061-1272918727781642-6837771565290625659-n-676419daef34-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 118112
+      },
+      {
+        "src": "assets/optimized/489580061-1272918727781642-6837771565290625659-n-676419daef34-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 179826
+      }
+    ]
+  },
+  "assets/photos/489627495_1272918621114986_757312156392519739_n.jpg": {
+    "originalBytes": 241945,
+    "variants": [
+      {
+        "src": "assets/optimized/489627495-1272918621114986-757312156392519739-n-a5adb0f7f26d-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25628
+      },
+      {
+        "src": "assets/optimized/489627495-1272918621114986-757312156392519739-n-a5adb0f7f26d-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 90320
+      },
+      {
+        "src": "assets/optimized/489627495-1272918621114986-757312156392519739-n-a5adb0f7f26d-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 171520
+      },
+      {
+        "src": "assets/optimized/489627495-1272918621114986-757312156392519739-n-a5adb0f7f26d-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 244466
+      }
+    ]
+  },
+  "assets/photos/489701626_1271691977904317_9129170688836266515_n.jpg": {
+    "originalBytes": 192936,
+    "variants": [
+      {
+        "src": "assets/optimized/489701626-1271691977904317-9129170688836266515-n-099cc765946d-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 27670
+      },
+      {
+        "src": "assets/optimized/489701626-1271691977904317-9129170688836266515-n-099cc765946d-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 71284
+      },
+      {
+        "src": "assets/optimized/489701626-1271691977904317-9129170688836266515-n-099cc765946d-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 121948
+      },
+      {
+        "src": "assets/optimized/489701626-1271691977904317-9129170688836266515-n-099cc765946d-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 166950
+      }
+    ]
+  },
+  "assets/photos/489701638_1272918794448302_4524382954116847167_n.jpg": {
+    "originalBytes": 209278,
+    "variants": [
+      {
+        "src": "assets/optimized/489701638-1272918794448302-4524382954116847167-n-e5a433dcfc81-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22126
+      },
+      {
+        "src": "assets/optimized/489701638-1272918794448302-4524382954116847167-n-e5a433dcfc81-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 73624
+      },
+      {
+        "src": "assets/optimized/489701638-1272918794448302-4524382954116847167-n-e5a433dcfc81-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 142368
+      },
+      {
+        "src": "assets/optimized/489701638-1272918794448302-4524382954116847167-n-e5a433dcfc81-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 207688
+      }
+    ]
+  },
+  "assets/photos/489790182_1272918457781669_8818425022511839190_n.jpg": {
+    "originalBytes": 179094,
+    "variants": [
+      {
+        "src": "assets/optimized/489790182-1272918457781669-8818425022511839190-n-9241c91d28e0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 18276
+      },
+      {
+        "src": "assets/optimized/489790182-1272918457781669-8818425022511839190-n-9241c91d28e0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55322
+      },
+      {
+        "src": "assets/optimized/489790182-1272918457781669-8818425022511839190-n-9241c91d28e0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 111942
+      },
+      {
+        "src": "assets/optimized/489790182-1272918457781669-8818425022511839190-n-9241c91d28e0-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 172918
+      }
+    ]
+  },
+  "assets/photos/489811808_1272918554448326_2036752782619109876_n.jpg": {
+    "originalBytes": 170667,
+    "variants": [
+      {
+        "src": "assets/optimized/489811808-1272918554448326-2036752782619109876-n-13717fe7b8a8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16218
+      },
+      {
+        "src": "assets/optimized/489811808-1272918554448326-2036752782619109876-n-13717fe7b8a8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 50660
+      },
+      {
+        "src": "assets/optimized/489811808-1272918554448326-2036752782619109876-n-13717fe7b8a8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 101716
+      },
+      {
+        "src": "assets/optimized/489811808-1272918554448326-2036752782619109876-n-13717fe7b8a8-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 160250
+      }
+    ]
+  },
+  "assets/photos/489828751_1272918637781651_4247850126361931538_n.jpg": {
+    "originalBytes": 215605,
+    "variants": [
+      {
+        "src": "assets/optimized/489828751-1272918637781651-4247850126361931538-n-9817b507bba3-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25870
+      },
+      {
+        "src": "assets/optimized/489828751-1272918637781651-4247850126361931538-n-9817b507bba3-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 77768
+      },
+      {
+        "src": "assets/optimized/489828751-1272918637781651-4247850126361931538-n-9817b507bba3-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 149056
+      },
+      {
+        "src": "assets/optimized/489828751-1272918637781651-4247850126361931538-n-9817b507bba3-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 204724
+      }
+    ]
+  },
+  "assets/photos/489829240_1272918567781658_5436542112072001525_n.jpg": {
+    "originalBytes": 153721,
+    "variants": [
+      {
+        "src": "assets/optimized/489829240-1272918567781658-5436542112072001525-n-27f5b6e9d12f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15498
+      },
+      {
+        "src": "assets/optimized/489829240-1272918567781658-5436542112072001525-n-27f5b6e9d12f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 46564
+      },
+      {
+        "src": "assets/optimized/489829240-1272918567781658-5436542112072001525-n-27f5b6e9d12f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 91414
+      },
+      {
+        "src": "assets/optimized/489829240-1272918567781658-5436542112072001525-n-27f5b6e9d12f-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 140892
+      }
+    ]
+  },
+  "assets/photos/489907754_1271692221237626_444485921659203308_n.jpg": {
+    "originalBytes": 333786,
+    "variants": [
+      {
+        "src": "assets/optimized/489907754-1271692221237626-444485921659203308-n-472e3b09ed3a-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 47736
+      },
+      {
+        "src": "assets/optimized/489907754-1271692221237626-444485921659203308-n-472e3b09ed3a-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 134584
+      },
+      {
+        "src": "assets/optimized/489907754-1271692221237626-444485921659203308-n-472e3b09ed3a-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 245738
+      },
+      {
+        "src": "assets/optimized/489907754-1271692221237626-444485921659203308-n-472e3b09ed3a-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 339798
+      }
+    ]
+  },
+  "assets/photos/489954000_1272918664448315_563711046151186973_n.jpg": {
+    "originalBytes": 201945,
+    "variants": [
+      {
+        "src": "assets/optimized/489954000-1272918664448315-563711046151186973-n-549fdba4c837-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21520
+      },
+      {
+        "src": "assets/optimized/489954000-1272918664448315-563711046151186973-n-549fdba4c837-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 69118
+      },
+      {
+        "src": "assets/optimized/489954000-1272918664448315-563711046151186973-n-549fdba4c837-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 134736
+      },
+      {
+        "src": "assets/optimized/489954000-1272918664448315-563711046151186973-n-549fdba4c837-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 201112
+      }
+    ]
+  },
+  "assets/photos/489962157_1272918494448332_1289943747095613921_n.jpg": {
+    "originalBytes": 183584,
+    "variants": [
+      {
+        "src": "assets/optimized/489962157-1272918494448332-1289943747095613921-n-83673e235515-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 20032
+      },
+      {
+        "src": "assets/optimized/489962157-1272918494448332-1289943747095613921-n-83673e235515-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 63974
+      },
+      {
+        "src": "assets/optimized/489962157-1272918494448332-1289943747095613921-n-83673e235515-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 121968
+      },
+      {
+        "src": "assets/optimized/489962157-1272918494448332-1289943747095613921-n-83673e235515-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 174526
+      }
+    ]
+  },
+  "assets/photos/489992056_1275229470883901_5362771468734835443_n.jpg": {
+    "originalBytes": 185301,
+    "variants": [
+      {
+        "src": "assets/optimized/489992056-1275229470883901-5362771468734835443-n-8b452432880a-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26170
+      },
+      {
+        "src": "assets/optimized/489992056-1275229470883901-5362771468734835443-n-8b452432880a-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 69030
+      },
+      {
+        "src": "assets/optimized/489992056-1275229470883901-5362771468734835443-n-8b452432880a-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 124352
+      },
+      {
+        "src": "assets/optimized/489992056-1275229470883901-5362771468734835443-n-8b452432880a-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 171414
+      }
+    ]
+  },
+  "assets/photos/490038714_1272918451115003_7481821497400786467_n.jpg": {
+    "originalBytes": 178260,
+    "variants": [
+      {
+        "src": "assets/optimized/490038714-1272918451115003-7481821497400786467-n-3faeafa6aa8b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 17176
+      },
+      {
+        "src": "assets/optimized/490038714-1272918451115003-7481821497400786467-n-3faeafa6aa8b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55870
+      },
+      {
+        "src": "assets/optimized/490038714-1272918451115003-7481821497400786467-n-3faeafa6aa8b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 114338
+      },
+      {
+        "src": "assets/optimized/490038714-1272918451115003-7481821497400786467-n-3faeafa6aa8b-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 175342
+      }
+    ]
+  },
+  "assets/photos/490114158_1272918447781670_5900879561144763267_n.jpg": {
+    "originalBytes": 185761,
+    "variants": [
+      {
+        "src": "assets/optimized/490114158-1272918447781670-5900879561144763267-n-61d8c449dbe2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 20216
+      },
+      {
+        "src": "assets/optimized/490114158-1272918447781670-5900879561144763267-n-61d8c449dbe2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 67514
+      },
+      {
+        "src": "assets/optimized/490114158-1272918447781670-5900879561144763267-n-61d8c449dbe2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 126934
+      },
+      {
+        "src": "assets/optimized/490114158-1272918447781670-5900879561144763267-n-61d8c449dbe2-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 179888
+      }
+    ]
+  },
+  "assets/photos/490172297_1272918787781636_7213938634102799747_n.jpg": {
+    "originalBytes": 322155,
+    "variants": [
+      {
+        "src": "assets/optimized/490172297-1272918787781636-7213938634102799747-n-88df49a7fefd-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 43454
+      },
+      {
+        "src": "assets/optimized/490172297-1272918787781636-7213938634102799747-n-88df49a7fefd-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 142262
+      },
+      {
+        "src": "assets/optimized/490172297-1272918787781636-7213938634102799747-n-88df49a7fefd-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 250980
+      },
+      {
+        "src": "assets/optimized/490172297-1272918787781636-7213938634102799747-n-88df49a7fefd-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 337678
+      }
+    ]
+  },
+  "assets/photos/490282329_1275228444217337_4347599398013677326_n.jpg": {
+    "originalBytes": 252375,
+    "variants": [
+      {
+        "src": "assets/optimized/490282329-1275228444217337-4347599398013677326-n-62c92cd16e45-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 37312
+      },
+      {
+        "src": "assets/optimized/490282329-1275228444217337-4347599398013677326-n-62c92cd16e45-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 104842
+      },
+      {
+        "src": "assets/optimized/490282329-1275228444217337-4347599398013677326-n-62c92cd16e45-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 196470
+      },
+      {
+        "src": "assets/optimized/490282329-1275228444217337-4347599398013677326-n-62c92cd16e45-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 259140
+      }
+    ]
+  },
+  "assets/photos/490333567_1275229427550572_4525606891269937158_n.jpg": {
+    "originalBytes": 177573,
+    "variants": [
+      {
+        "src": "assets/optimized/490333567-1275229427550572-4525606891269937158-n-345773c782d7-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22228
+      },
+      {
+        "src": "assets/optimized/490333567-1275229427550572-4525606891269937158-n-345773c782d7-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61184
+      },
+      {
+        "src": "assets/optimized/490333567-1275229427550572-4525606891269937158-n-345773c782d7-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 116706
+      },
+      {
+        "src": "assets/optimized/490333567-1275229427550572-4525606891269937158-n-345773c782d7-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 168444
+      }
+    ]
+  },
+  "assets/photos/490344609_1272918481115000_6855739180518252053_n.jpg": {
+    "originalBytes": 165944,
+    "variants": [
+      {
+        "src": "assets/optimized/490344609-1272918481115000-6855739180518252053-n-133c27dbebe6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16658
+      },
+      {
+        "src": "assets/optimized/490344609-1272918481115000-6855739180518252053-n-133c27dbebe6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 49966
+      },
+      {
+        "src": "assets/optimized/490344609-1272918481115000-6855739180518252053-n-133c27dbebe6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 102758
+      },
+      {
+        "src": "assets/optimized/490344609-1272918481115000-6855739180518252053-n-133c27dbebe6-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 161020
+      }
+    ]
+  },
+  "assets/photos/490447840_1272918717781643_8155326080430618297_n.jpg": {
+    "originalBytes": 282828,
+    "variants": [
+      {
+        "src": "assets/optimized/490447840-1272918717781643-8155326080430618297-n-9aa16ae90a89-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 31126
+      },
+      {
+        "src": "assets/optimized/490447840-1272918717781643-8155326080430618297-n-9aa16ae90a89-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 113270
+      },
+      {
+        "src": "assets/optimized/490447840-1272918717781643-8155326080430618297-n-9aa16ae90a89-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 221622
+      },
+      {
+        "src": "assets/optimized/490447840-1272918717781643-8155326080430618297-n-9aa16ae90a89-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 309658
+      }
+    ]
+  },
+  "assets/photos/490473441_1272918667781648_3983228385954312054_n.jpg": {
+    "originalBytes": 200082,
+    "variants": [
+      {
+        "src": "assets/optimized/490473441-1272918667781648-3983228385954312054-n-f67f0f55137c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21578
+      },
+      {
+        "src": "assets/optimized/490473441-1272918667781648-3983228385954312054-n-f67f0f55137c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 65456
+      },
+      {
+        "src": "assets/optimized/490473441-1272918667781648-3983228385954312054-n-f67f0f55137c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 127558
+      },
+      {
+        "src": "assets/optimized/490473441-1272918667781648-3983228385954312054-n-f67f0f55137c-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 191864
+      }
+    ]
+  },
+  "assets/photos/490505339_1275229594217222_1333430994709730131_n.jpg": {
+    "originalBytes": 204855,
+    "variants": [
+      {
+        "src": "assets/optimized/490505339-1275229594217222-1333430994709730131-n-ee46a929d9e7-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 29284
+      },
+      {
+        "src": "assets/optimized/490505339-1275229594217222-1333430994709730131-n-ee46a929d9e7-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 76028
+      },
+      {
+        "src": "assets/optimized/490505339-1275229594217222-1333430994709730131-n-ee46a929d9e7-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 139058
+      },
+      {
+        "src": "assets/optimized/490505339-1275229594217222-1333430994709730131-n-ee46a929d9e7-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 193706
+      }
+    ]
+  },
+  "assets/photos/490536121_1275229450883903_7782426785705162509_n.jpg": {
+    "originalBytes": 238520,
+    "variants": [
+      {
+        "src": "assets/optimized/490536121-1275229450883903-7782426785705162509-n-296501c1e8ff-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33934
+      },
+      {
+        "src": "assets/optimized/490536121-1275229450883903-7782426785705162509-n-296501c1e8ff-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 97104
+      },
+      {
+        "src": "assets/optimized/490536121-1275229450883903-7782426785705162509-n-296501c1e8ff-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 178206
+      },
+      {
+        "src": "assets/optimized/490536121-1275229450883903-7782426785705162509-n-296501c1e8ff-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 239170
+      }
+    ]
+  },
+  "assets/photos/490967659_1275228427550672_6064588006495369645_n.jpg": {
+    "originalBytes": 171831,
+    "variants": [
+      {
+        "src": "assets/optimized/490967659-1275228427550672-6064588006495369645-n-5a0ce66cb90c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24628
+      },
+      {
+        "src": "assets/optimized/490967659-1275228427550672-6064588006495369645-n-5a0ce66cb90c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 64124
+      },
+      {
+        "src": "assets/optimized/490967659-1275228427550672-6064588006495369645-n-5a0ce66cb90c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 110430
+      },
+      {
+        "src": "assets/optimized/490967659-1275228427550672-6064588006495369645-n-5a0ce66cb90c-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 158466
+      }
+    ]
+  },
+  "assets/photos/491179546_1275229434217238_4503926183466265987_n.jpg": {
+    "originalBytes": 180351,
+    "variants": [
+      {
+        "src": "assets/optimized/491179546-1275229434217238-4503926183466265987-n-4b1ca3ea2e7d-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22250
+      },
+      {
+        "src": "assets/optimized/491179546-1275229434217238-4503926183466265987-n-4b1ca3ea2e7d-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 60670
+      },
+      {
+        "src": "assets/optimized/491179546-1275229434217238-4503926183466265987-n-4b1ca3ea2e7d-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 118100
+      },
+      {
+        "src": "assets/optimized/491179546-1275229434217238-4503926183466265987-n-4b1ca3ea2e7d-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 172142
+      }
+    ]
+  },
+  "assets/photos/495864933_2173071249822906_895956325483558944_n.jpg": {
+    "originalBytes": 180020,
+    "variants": [
+      {
+        "src": "assets/optimized/495864933-2173071249822906-895956325483558944-n-ae60031e3aff-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 15332
+      },
+      {
+        "src": "assets/optimized/495864933-2173071249822906-895956325483558944-n-ae60031e3aff-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 38618
+      },
+      {
+        "src": "assets/optimized/495864933-2173071249822906-895956325483558944-n-ae60031e3aff-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 72010
+      },
+      {
+        "src": "assets/optimized/495864933-2173071249822906-895956325483558944-n-ae60031e3aff-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 104878
+      }
+    ]
+  },
+  "assets/photos/496006264_2173071329822898_8022415215269213203_n.jpg": {
+    "originalBytes": 266474,
+    "variants": [
+      {
+        "src": "assets/optimized/496006264-2173071329822898-8022415215269213203-n-83fc22c6cb23-400.webp",
+        "width": 400,
+        "height": 628,
+        "bytes": 46426
+      },
+      {
+        "src": "assets/optimized/496006264-2173071329822898-8022415215269213203-n-83fc22c6cb23-800.webp",
+        "width": 800,
+        "height": 1256,
+        "bytes": 145236
+      },
+      {
+        "src": "assets/optimized/496006264-2173071329822898-8022415215269213203-n-83fc22c6cb23-1200.webp",
+        "width": 1200,
+        "height": 1885,
+        "bytes": 258100
+      },
+      {
+        "src": "assets/optimized/496006264-2173071329822898-8022415215269213203-n-83fc22c6cb23-1304.webp",
+        "width": 1304,
+        "height": 2048,
+        "bytes": 279658
+      }
+    ]
+  },
+  "assets/photos/496447673_2173071286489569_6986596573527187025_n.jpg": {
+    "originalBytes": 220682,
+    "variants": [
+      {
+        "src": "assets/optimized/496447673-2173071286489569-6986596573527187025-n-f5575e52126a-400.webp",
+        "width": 400,
+        "height": 318,
+        "bytes": 16622
+      },
+      {
+        "src": "assets/optimized/496447673-2173071286489569-6986596573527187025-n-f5575e52126a-800.webp",
+        "width": 800,
+        "height": 636,
+        "bytes": 48018
+      },
+      {
+        "src": "assets/optimized/496447673-2173071286489569-6986596573527187025-n-f5575e52126a-1200.webp",
+        "width": 1200,
+        "height": 953,
+        "bytes": 87548
+      },
+      {
+        "src": "assets/optimized/496447673-2173071286489569-6986596573527187025-n-f5575e52126a-1600.webp",
+        "width": 1600,
+        "height": 1271,
+        "bytes": 141480
+      }
+    ]
+  },
+  "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg": {
+    "originalBytes": 277594,
+    "variants": [
+      {
+        "src": "assets/optimized/496475541-2173071469822884-8643662035300664981-n-6c986f686852-400.webp",
+        "width": 400,
+        "height": 360,
+        "bytes": 21696
+      },
+      {
+        "src": "assets/optimized/496475541-2173071469822884-8643662035300664981-n-6c986f686852-800.webp",
+        "width": 800,
+        "height": 720,
+        "bytes": 63920
+      },
+      {
+        "src": "assets/optimized/496475541-2173071469822884-8643662035300664981-n-6c986f686852-1200.webp",
+        "width": 1200,
+        "height": 1080,
+        "bytes": 120938
+      },
+      {
+        "src": "assets/optimized/496475541-2173071469822884-8643662035300664981-n-6c986f686852-1600.webp",
+        "width": 1600,
+        "height": 1440,
+        "bytes": 188336
+      }
+    ]
+  },
+  "assets/photos/496695757_2173071216489576_3034373401938464646_n.jpg": {
+    "originalBytes": 247332,
+    "variants": [
+      {
+        "src": "assets/optimized/496695757-2173071216489576-3034373401938464646-n-6135370cbb3f-400.webp",
+        "width": 400,
+        "height": 257,
+        "bytes": 22574
+      },
+      {
+        "src": "assets/optimized/496695757-2173071216489576-3034373401938464646-n-6135370cbb3f-800.webp",
+        "width": 800,
+        "height": 515,
+        "bytes": 80990
+      },
+      {
+        "src": "assets/optimized/496695757-2173071216489576-3034373401938464646-n-6135370cbb3f-1200.webp",
+        "width": 1200,
+        "height": 772,
+        "bytes": 158588
+      },
+      {
+        "src": "assets/optimized/496695757-2173071216489576-3034373401938464646-n-6135370cbb3f-1600.webp",
+        "width": 1600,
+        "height": 1030,
+        "bytes": 244322
+      }
+    ]
+  },
+  "assets/photos/496843194_2173071439822887_6375335805667796964_n.jpg": {
+    "originalBytes": 219020,
+    "variants": [
+      {
+        "src": "assets/optimized/496843194-2173071439822887-6375335805667796964-n-ca2160ccd249-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 15522
+      },
+      {
+        "src": "assets/optimized/496843194-2173071439822887-6375335805667796964-n-ca2160ccd249-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 42500
+      },
+      {
+        "src": "assets/optimized/496843194-2173071439822887-6375335805667796964-n-ca2160ccd249-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 84430
+      },
+      {
+        "src": "assets/optimized/496843194-2173071439822887-6375335805667796964-n-ca2160ccd249-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 139754
+      }
+    ]
+  },
+  "assets/photos/497401915_2173071239822907_3077750472789194896_n.jpg": {
+    "originalBytes": 235695,
+    "variants": [
+      {
+        "src": "assets/optimized/497401915-2173071239822907-3077750472789194896-n-cc28448aa832-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 17498
+      },
+      {
+        "src": "assets/optimized/497401915-2173071239822907-3077750472789194896-n-cc28448aa832-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 54416
+      },
+      {
+        "src": "assets/optimized/497401915-2173071239822907-3077750472789194896-n-cc28448aa832-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 101894
+      },
+      {
+        "src": "assets/optimized/497401915-2173071239822907-3077750472789194896-n-cc28448aa832-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 157922
+      }
+    ]
+  },
+  "assets/photos/504214486_1322287089511472_3444002349246386324_n.jpg": {
+    "originalBytes": 209579,
+    "variants": [
+      {
+        "src": "assets/optimized/504214486-1322287089511472-3444002349246386324-n-e3892c4ae158-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 29378
+      },
+      {
+        "src": "assets/optimized/504214486-1322287089511472-3444002349246386324-n-e3892c4ae158-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 75658
+      },
+      {
+        "src": "assets/optimized/504214486-1322287089511472-3444002349246386324-n-e3892c4ae158-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 139130
+      },
+      {
+        "src": "assets/optimized/504214486-1322287089511472-3444002349246386324-n-e3892c4ae158-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 201808
+      }
+    ]
+  },
+  "assets/photos/504244753_1322286892844825_4729437180205805690_n.jpg": {
+    "originalBytes": 262644,
+    "variants": [
+      {
+        "src": "assets/optimized/504244753-1322286892844825-4729437180205805690-n-ad0b5a07c6b6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 41654
+      },
+      {
+        "src": "assets/optimized/504244753-1322286892844825-4729437180205805690-n-ad0b5a07c6b6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 108696
+      },
+      {
+        "src": "assets/optimized/504244753-1322286892844825-4729437180205805690-n-ad0b5a07c6b6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 193202
+      },
+      {
+        "src": "assets/optimized/504244753-1322286892844825-4729437180205805690-n-ad0b5a07c6b6-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 263140
+      }
+    ]
+  },
+  "assets/photos/504803071_1322287186178129_8734170098260128700_n.jpg": {
+    "originalBytes": 225300,
+    "variants": [
+      {
+        "src": "assets/optimized/504803071-1322287186178129-8734170098260128700-n-46564dd8f4d5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 32702
+      },
+      {
+        "src": "assets/optimized/504803071-1322287186178129-8734170098260128700-n-46564dd8f4d5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 82560
+      },
+      {
+        "src": "assets/optimized/504803071-1322287186178129-8734170098260128700-n-46564dd8f4d5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 154240
+      },
+      {
+        "src": "assets/optimized/504803071-1322287186178129-8734170098260128700-n-46564dd8f4d5-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 217416
+      }
+    ]
+  },
+  "assets/photos/505087358_1322286859511495_2693859242788865148_n.jpg": {
+    "originalBytes": 268640,
+    "variants": [
+      {
+        "src": "assets/optimized/505087358-1322286859511495-2693859242788865148-n-81cbe29f37ea-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 40958
+      },
+      {
+        "src": "assets/optimized/505087358-1322286859511495-2693859242788865148-n-81cbe29f37ea-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 108858
+      },
+      {
+        "src": "assets/optimized/505087358-1322286859511495-2693859242788865148-n-81cbe29f37ea-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 197324
+      },
+      {
+        "src": "assets/optimized/505087358-1322286859511495-2693859242788865148-n-81cbe29f37ea-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 270758
+      }
+    ]
+  },
+  "assets/photos/505308144_1322286749511506_2821386852108425156_n.jpg": {
+    "originalBytes": 262958,
+    "variants": [
+      {
+        "src": "assets/optimized/505308144-1322286749511506-2821386852108425156-n-334943429c07-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 41762
+      },
+      {
+        "src": "assets/optimized/505308144-1322286749511506-2821386852108425156-n-334943429c07-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 107478
+      },
+      {
+        "src": "assets/optimized/505308144-1322286749511506-2821386852108425156-n-334943429c07-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 188692
+      },
+      {
+        "src": "assets/optimized/505308144-1322286749511506-2821386852108425156-n-334943429c07-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 253350
+      }
+    ]
+  },
+  "assets/photos/526788534_1369306124809568_1253207636055124360_n.jpg": {
+    "originalBytes": 456907,
+    "variants": [
+      {
+        "src": "assets/optimized/526788534-1369306124809568-1253207636055124360-n-0dd189ef273b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 101692
+      },
+      {
+        "src": "assets/optimized/526788534-1369306124809568-1253207636055124360-n-0dd189ef273b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 335154
+      },
+      {
+        "src": "assets/optimized/526788534-1369306124809568-1253207636055124360-n-0dd189ef273b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 566948
+      }
+    ]
+  },
+  "assets/photos/526974887_1369306248142889_3400494774149547772_n.jpg": {
+    "originalBytes": 438513,
+    "variants": [
+      {
+        "src": "assets/optimized/526974887-1369306248142889-3400494774149547772-n-b51b0a054751-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 99222
+      },
+      {
+        "src": "assets/optimized/526974887-1369306248142889-3400494774149547772-n-b51b0a054751-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 317030
+      },
+      {
+        "src": "assets/optimized/526974887-1369306248142889-3400494774149547772-n-b51b0a054751-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 553516
+      }
+    ]
+  },
+  "assets/photos/527493391_1369306251476222_6211156469726755510_n.jpg": {
+    "originalBytes": 752857,
+    "variants": [
+      {
+        "src": "assets/optimized/527493391-1369306251476222-6211156469726755510-n-f3ecd741ba0b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 107394
+      },
+      {
+        "src": "assets/optimized/527493391-1369306251476222-6211156469726755510-n-f3ecd741ba0b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 384490
+      },
+      {
+        "src": "assets/optimized/527493391-1369306251476222-6211156469726755510-n-f3ecd741ba0b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 734638
+      },
+      {
+        "src": "assets/optimized/527493391-1369306251476222-6211156469726755510-n-f3ecd741ba0b-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 954038
+      }
+    ]
+  },
+  "assets/photos/530684154_1377625777310936_2913036216927200711_n.jpg": {
+    "originalBytes": 337414,
+    "variants": [
+      {
+        "src": "assets/optimized/530684154-1377625777310936-2913036216927200711-n-c1a0670f3e74-400.webp",
+        "width": 400,
+        "height": 376,
+        "bytes": 56284
+      },
+      {
+        "src": "assets/optimized/530684154-1377625777310936-2913036216927200711-n-c1a0670f3e74-800.webp",
+        "width": 800,
+        "height": 751,
+        "bytes": 183528
+      },
+      {
+        "src": "assets/optimized/530684154-1377625777310936-2913036216927200711-n-c1a0670f3e74-1200.webp",
+        "width": 1200,
+        "height": 1127,
+        "bytes": 353900
+      },
+      {
+        "src": "assets/optimized/530684154-1377625777310936-2913036216927200711-n-c1a0670f3e74-1282.webp",
+        "width": 1282,
+        "height": 1204,
+        "bytes": 399026
+      }
+    ]
+  },
+  "assets/photos/536274565_1390004786073035_6071806759332258964_n.jpg": {
+    "originalBytes": 115356,
+    "variants": [
+      {
+        "src": "assets/optimized/536274565-1390004786073035-6071806759332258964-n-8ef00092b5a6-400.webp",
+        "width": 400,
+        "height": 611,
+        "bytes": 19322
+      },
+      {
+        "src": "assets/optimized/536274565-1390004786073035-6071806759332258964-n-8ef00092b5a6-800.webp",
+        "width": 800,
+        "height": 1222,
+        "bytes": 56946
+      },
+      {
+        "src": "assets/optimized/536274565-1390004786073035-6071806759332258964-n-8ef00092b5a6-1178.webp",
+        "width": 1178,
+        "height": 1799,
+        "bytes": 106294
+      }
+    ]
+  },
+  "assets/photos/537804444_1390775519329295_1587580822577337016_n.jpg": {
+    "originalBytes": 144588,
+    "variants": [
+      {
+        "src": "assets/optimized/537804444-1390775519329295-1587580822577337016-n-ea7e65c92d4c-400.webp",
+        "width": 400,
+        "height": 425,
+        "bytes": 58412
+      },
+      {
+        "src": "assets/optimized/537804444-1390775519329295-1587580822577337016-n-ea7e65c92d4c-800.webp",
+        "width": 800,
+        "height": 850,
+        "bytes": 183440
+      },
+      {
+        "src": "assets/optimized/537804444-1390775519329295-1587580822577337016-n-ea7e65c92d4c-924.webp",
+        "width": 924,
+        "height": 982,
+        "bytes": 205004
+      }
+    ]
+  },
+  "assets/photos/538064564_1390004819406365_5038255944345396319_n.jpg": {
+    "originalBytes": 221668,
+    "variants": [
+      {
+        "src": "assets/optimized/538064564-1390004819406365-5038255944345396319-n-352f8b2800c2-400.webp",
+        "width": 400,
+        "height": 510,
+        "bytes": 42140
+      },
+      {
+        "src": "assets/optimized/538064564-1390004819406365-5038255944345396319-n-352f8b2800c2-800.webp",
+        "width": 800,
+        "height": 1021,
+        "bytes": 119012
+      },
+      {
+        "src": "assets/optimized/538064564-1390004819406365-5038255944345396319-n-352f8b2800c2-1200.webp",
+        "width": 1200,
+        "height": 1531,
+        "bytes": 220370
+      },
+      {
+        "src": "assets/optimized/538064564-1390004819406365-5038255944345396319-n-352f8b2800c2-1236.webp",
+        "width": 1236,
+        "height": 1577,
+        "bytes": 230664
+      }
+    ]
+  },
+  "assets/photos/538232579_1390005016073012_5171453458783280516_n.jpg": {
+    "originalBytes": 204981,
+    "variants": [
+      {
+        "src": "assets/optimized/538232579-1390005016073012-5171453458783280516-n-c2ae57e50c4c-400.webp",
+        "width": 400,
+        "height": 623,
+        "bytes": 43374
+      },
+      {
+        "src": "assets/optimized/538232579-1390005016073012-5171453458783280516-n-c2ae57e50c4c-800.webp",
+        "width": 800,
+        "height": 1246,
+        "bytes": 124686
+      },
+      {
+        "src": "assets/optimized/538232579-1390005016073012-5171453458783280516-n-c2ae57e50c4c-1113.webp",
+        "width": 1113,
+        "height": 1734,
+        "bytes": 210070
+      }
+    ]
+  },
+  "assets/photos/539226007_1390775499329297_3738638409918766941_n.jpg": {
+    "originalBytes": 80960,
+    "variants": [
+      {
+        "src": "assets/optimized/539226007-1390775499329297-3738638409918766941-n-86560651263c-400.webp",
+        "width": 400,
+        "height": 532,
+        "bytes": 23072
+      },
+      {
+        "src": "assets/optimized/539226007-1390775499329297-3738638409918766941-n-86560651263c-800.webp",
+        "width": 800,
+        "height": 1063,
+        "bytes": 68802
+      },
+      {
+        "src": "assets/optimized/539226007-1390775499329297-3738638409918766941-n-86560651263c-899.webp",
+        "width": 899,
+        "height": 1195,
+        "bytes": 77584
+      }
+    ]
+  },
+  "assets/photos/542755058_1401273048279542_6641547856909562432_n.jpg": {
+    "originalBytes": 257500,
+    "variants": [
+      {
+        "src": "assets/optimized/542755058-1401273048279542-6641547856909562432-n-a180dc461af9-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 35772
+      },
+      {
+        "src": "assets/optimized/542755058-1401273048279542-6641547856909562432-n-a180dc461af9-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 99754
+      },
+      {
+        "src": "assets/optimized/542755058-1401273048279542-6641547856909562432-n-a180dc461af9-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 178334
+      },
+      {
+        "src": "assets/optimized/542755058-1401273048279542-6641547856909562432-n-a180dc461af9-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 254062
+      }
+    ]
+  },
+  "assets/photos/543159896_1401272991612881_8275139215281253973_n.jpg": {
+    "originalBytes": 122927,
+    "variants": [
+      {
+        "src": "assets/optimized/543159896-1401272991612881-8275139215281253973-n-c1b0d24c2452-400.webp",
+        "width": 400,
+        "height": 485,
+        "bytes": 16060
+      },
+      {
+        "src": "assets/optimized/543159896-1401272991612881-8275139215281253973-n-c1b0d24c2452-800.webp",
+        "width": 800,
+        "height": 971,
+        "bytes": 41376
+      },
+      {
+        "src": "assets/optimized/543159896-1401272991612881-8275139215281253973-n-c1b0d24c2452-1200.webp",
+        "width": 1200,
+        "height": 1456,
+        "bytes": 74362
+      },
+      {
+        "src": "assets/optimized/543159896-1401272991612881-8275139215281253973-n-c1b0d24c2452-1421.webp",
+        "width": 1421,
+        "height": 1724,
+        "bytes": 96492
+      }
+    ]
+  },
+  "assets/photos/543362538_1401273401612840_5830024246162277237_n.jpg": {
+    "originalBytes": 264215,
+    "variants": [
+      {
+        "src": "assets/optimized/543362538-1401273401612840-5830024246162277237-n-27b87491d69d-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 38942
+      },
+      {
+        "src": "assets/optimized/543362538-1401273401612840-5830024246162277237-n-27b87491d69d-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 102816
+      },
+      {
+        "src": "assets/optimized/543362538-1401273401612840-5830024246162277237-n-27b87491d69d-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 183806
+      },
+      {
+        "src": "assets/optimized/543362538-1401273401612840-5830024246162277237-n-27b87491d69d-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 266420
+      }
+    ]
+  },
+  "assets/photos/610899043_1511068977299948_5227123387494787991_n.jpg": {
+    "originalBytes": 368682,
+    "variants": [
+      {
+        "src": "assets/optimized/610899043-1511068977299948-5227123387494787991-n-19785414f510-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 72494
+      },
+      {
+        "src": "assets/optimized/610899043-1511068977299948-5227123387494787991-n-19785414f510-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 208296
+      },
+      {
+        "src": "assets/optimized/610899043-1511068977299948-5227123387494787991-n-19785414f510-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 368092
+      },
+      {
+        "src": "assets/optimized/610899043-1511068977299948-5227123387494787991-n-19785414f510-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 465366
+      }
+    ]
+  },
+  "assets/photos/611151084_1511074587299387_8275405283725469701_n.jpg": {
+    "originalBytes": 192648,
+    "variants": [
+      {
+        "src": "assets/optimized/611151084-1511074587299387-8275405283725469701-n-f4c184daa7ca-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25500
+      },
+      {
+        "src": "assets/optimized/611151084-1511074587299387-8275405283725469701-n-f4c184daa7ca-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 67278
+      },
+      {
+        "src": "assets/optimized/611151084-1511074587299387-8275405283725469701-n-f4c184daa7ca-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 121872
+      },
+      {
+        "src": "assets/optimized/611151084-1511074587299387-8275405283725469701-n-f4c184daa7ca-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 177780
+      }
+    ]
+  },
+  "assets/photos/611154306_1511074510632728_5020156085682426005_n.jpg": {
+    "originalBytes": 134630,
+    "variants": [
+      {
+        "src": "assets/optimized/611154306-1511074510632728-5020156085682426005-n-b45be1791da6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15004
+      },
+      {
+        "src": "assets/optimized/611154306-1511074510632728-5020156085682426005-n-b45be1791da6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 40758
+      },
+      {
+        "src": "assets/optimized/611154306-1511074510632728-5020156085682426005-n-b45be1791da6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 77528
+      },
+      {
+        "src": "assets/optimized/611154306-1511074510632728-5020156085682426005-n-b45be1791da6-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 116256
+      }
+    ]
+  },
+  "assets/photos/611255763_1511073733966139_1783780094848168773_n.jpg": {
+    "originalBytes": 143188,
+    "variants": [
+      {
+        "src": "assets/optimized/611255763-1511073733966139-1783780094848168773-n-fc4f7e767ee1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16028
+      },
+      {
+        "src": "assets/optimized/611255763-1511073733966139-1783780094848168773-n-fc4f7e767ee1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 44740
+      },
+      {
+        "src": "assets/optimized/611255763-1511073733966139-1783780094848168773-n-fc4f7e767ee1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 85500
+      },
+      {
+        "src": "assets/optimized/611255763-1511073733966139-1783780094848168773-n-fc4f7e767ee1-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 127306
+      }
+    ]
+  },
+  "assets/photos/611630546_1511074357299410_7458771629872526143_n.jpg": {
+    "originalBytes": 114006,
+    "variants": [
+      {
+        "src": "assets/optimized/611630546-1511074357299410-7458771629872526143-n-5d3408790830-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 11852
+      },
+      {
+        "src": "assets/optimized/611630546-1511074357299410-7458771629872526143-n-5d3408790830-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 32046
+      },
+      {
+        "src": "assets/optimized/611630546-1511074357299410-7458771629872526143-n-5d3408790830-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 61320
+      },
+      {
+        "src": "assets/optimized/611630546-1511074357299410-7458771629872526143-n-5d3408790830-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 95368
+      }
+    ]
+  },
+  "assets/photos/611777987_1511068973966615_285163598778085980_n.jpg": {
+    "originalBytes": 193750,
+    "variants": [
+      {
+        "src": "assets/optimized/611777987-1511068973966615-285163598778085980-n-2dc768cd72e3-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 34818
+      },
+      {
+        "src": "assets/optimized/611777987-1511068973966615-285163598778085980-n-2dc768cd72e3-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 93668
+      },
+      {
+        "src": "assets/optimized/611777987-1511068973966615-285163598778085980-n-2dc768cd72e3-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 156026
+      },
+      {
+        "src": "assets/optimized/611777987-1511068973966615-285163598778085980-n-2dc768cd72e3-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 202594
+      }
+    ]
+  },
+  "assets/photos/611885701_1511074460632733_7088258827418745004_n.jpg": {
+    "originalBytes": 267855,
+    "variants": [
+      {
+        "src": "assets/optimized/611885701-1511074460632733-7088258827418745004-n-632e3cecf55c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 40678
+      },
+      {
+        "src": "assets/optimized/611885701-1511074460632733-7088258827418745004-n-632e3cecf55c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 110274
+      },
+      {
+        "src": "assets/optimized/611885701-1511074460632733-7088258827418745004-n-632e3cecf55c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 200802
+      },
+      {
+        "src": "assets/optimized/611885701-1511074460632733-7088258827418745004-n-632e3cecf55c-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 266668
+      }
+    ]
+  },
+  "assets/photos/612247831_1511074257299420_3827847997141554074_n (1).jpg": {
+    "originalBytes": 212876,
+    "variants": [
+      {
+        "src": "assets/optimized/612247831-1511074257299420-3827847997141554074-n-1-6fdc4421fa01-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 30864
+      },
+      {
+        "src": "assets/optimized/612247831-1511074257299420-3827847997141554074-n-1-6fdc4421fa01-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 84328
+      },
+      {
+        "src": "assets/optimized/612247831-1511074257299420-3827847997141554074-n-1-6fdc4421fa01-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 147884
+      },
+      {
+        "src": "assets/optimized/612247831-1511074257299420-3827847997141554074-n-1-6fdc4421fa01-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 199440
+      }
+    ]
+  },
+  "assets/photos/612351559_1511074700632709_2543231205588083959_n.jpg": {
+    "originalBytes": 149786,
+    "variants": [
+      {
+        "src": "assets/optimized/612351559-1511074700632709-2543231205588083959-n-6e59f6577a36-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 17010
+      },
+      {
+        "src": "assets/optimized/612351559-1511074700632709-2543231205588083959-n-6e59f6577a36-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 46920
+      },
+      {
+        "src": "assets/optimized/612351559-1511074700632709-2543231205588083959-n-6e59f6577a36-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 87984
+      },
+      {
+        "src": "assets/optimized/612351559-1511074700632709-2543231205588083959-n-6e59f6577a36-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 135836
+      }
+    ]
+  },
+  "assets/photos/612549276_1511074133966099_5372163501494010099_n.jpg": {
+    "originalBytes": 119430,
+    "variants": [
+      {
+        "src": "assets/optimized/612549276-1511074133966099-5372163501494010099-n-f88781d484bb-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 12372
+      },
+      {
+        "src": "assets/optimized/612549276-1511074133966099-5372163501494010099-n-f88781d484bb-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 34632
+      },
+      {
+        "src": "assets/optimized/612549276-1511074133966099-5372163501494010099-n-f88781d484bb-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 66226
+      },
+      {
+        "src": "assets/optimized/612549276-1511074133966099-5372163501494010099-n-f88781d484bb-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 102176
+      }
+    ]
+  },
+  "assets/photos/612919005_1511073997299446_5618182143922993638_n.jpg": {
+    "originalBytes": 137710,
+    "variants": [
+      {
+        "src": "assets/optimized/612919005-1511073997299446-5618182143922993638-n-85a6d0aa10f1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15300
+      },
+      {
+        "src": "assets/optimized/612919005-1511073997299446-5618182143922993638-n-85a6d0aa10f1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 41990
+      },
+      {
+        "src": "assets/optimized/612919005-1511073997299446-5618182143922993638-n-85a6d0aa10f1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 80434
+      },
+      {
+        "src": "assets/optimized/612919005-1511073997299446-5618182143922993638-n-85a6d0aa10f1-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 119956
+      }
+    ]
+  },
+  "assets/photos/650343681_1570445234695655_4588050750782512118_n.jpg": {
+    "originalBytes": 320985,
+    "variants": [
+      {
+        "src": "assets/optimized/650343681-1570445234695655-4588050750782512118-n-b6e9f6b652b3-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 47234
+      },
+      {
+        "src": "assets/optimized/650343681-1570445234695655-4588050750782512118-n-b6e9f6b652b3-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 138432
+      },
+      {
+        "src": "assets/optimized/650343681-1570445234695655-4588050750782512118-n-b6e9f6b652b3-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 252588
+      },
+      {
+        "src": "assets/optimized/650343681-1570445234695655-4588050750782512118-n-b6e9f6b652b3-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 345640
+      }
+    ]
+  },
+  "assets/photos/650429466_1570445091362336_8130250957828745456_n.jpg": {
+    "originalBytes": 240831,
+    "variants": [
+      {
+        "src": "assets/optimized/650429466-1570445091362336-8130250957828745456-n-6eb7ab50640b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 37074
+      },
+      {
+        "src": "assets/optimized/650429466-1570445091362336-8130250957828745456-n-6eb7ab50640b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 93500
+      },
+      {
+        "src": "assets/optimized/650429466-1570445091362336-8130250957828745456-n-6eb7ab50640b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 166686
+      },
+      {
+        "src": "assets/optimized/650429466-1570445091362336-8130250957828745456-n-6eb7ab50640b-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 232102
+      }
+    ]
+  },
+  "assets/photos/650674370_1570445324695646_3258418893715719719_n.jpg": {
+    "originalBytes": 219034,
+    "variants": [
+      {
+        "src": "assets/optimized/650674370-1570445324695646-3258418893715719719-n-065c808c416f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 28190
+      },
+      {
+        "src": "assets/optimized/650674370-1570445324695646-3258418893715719719-n-065c808c416f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 79770
+      },
+      {
+        "src": "assets/optimized/650674370-1570445324695646-3258418893715719719-n-065c808c416f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 149902
+      },
+      {
+        "src": "assets/optimized/650674370-1570445324695646-3258418893715719719-n-065c808c416f-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 209902
+      }
+    ]
+  },
+  "assets/photos/651270196_1570445024695676_6817670304340662570_n.jpg": {
+    "originalBytes": 276441,
+    "variants": [
+      {
+        "src": "assets/optimized/651270196-1570445024695676-6817670304340662570-n-00647f26cae5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 40260
+      },
+      {
+        "src": "assets/optimized/651270196-1570445024695676-6817670304340662570-n-00647f26cae5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 111398
+      },
+      {
+        "src": "assets/optimized/651270196-1570445024695676-6817670304340662570-n-00647f26cae5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 201684
+      },
+      {
+        "src": "assets/optimized/651270196-1570445024695676-6817670304340662570-n-00647f26cae5-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 281954
+      }
+    ]
+  },
+  "assets/photos/727393942_1659166642490180_252766499684281225_n.jpg": {
+    "originalBytes": 92729,
+    "variants": [
+      {
+        "src": "assets/optimized/727393942-1659166642490180-252766499684281225-n-244e6bdeb541-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 19004
+      },
+      {
+        "src": "assets/optimized/727393942-1659166642490180-252766499684281225-n-244e6bdeb541-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 48390
+      },
+      {
+        "src": "assets/optimized/727393942-1659166642490180-252766499684281225-n-244e6bdeb541-1170.webp",
+        "width": 1170,
+        "height": 1170,
+        "bytes": 82372
+      }
+    ]
+  },
+  "assets/photos/728544139_1659166395823538_1423514743156249756_n.jpg": {
+    "originalBytes": 109606,
+    "variants": [
+      {
+        "src": "assets/optimized/728544139-1659166395823538-1423514743156249756-n-3f3889f6885f-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 24692
+      },
+      {
+        "src": "assets/optimized/728544139-1659166395823538-1423514743156249756-n-3f3889f6885f-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 64592
+      },
+      {
+        "src": "assets/optimized/728544139-1659166395823538-1423514743156249756-n-3f3889f6885f-1170.webp",
+        "width": 1170,
+        "height": 1170,
+        "bytes": 105126
+      }
+    ]
+  },
+  "assets/photos/728637839_1659166532490191_7087925631770117153_n.jpg": {
+    "originalBytes": 84344,
+    "variants": [
+      {
+        "src": "assets/optimized/728637839-1659166532490191-7087925631770117153-n-642bad537ebf-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 16840
+      },
+      {
+        "src": "assets/optimized/728637839-1659166532490191-7087925631770117153-n-642bad537ebf-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 42082
+      },
+      {
+        "src": "assets/optimized/728637839-1659166532490191-7087925631770117153-n-642bad537ebf-1170.webp",
+        "width": 1170,
+        "height": 1170,
+        "bytes": 70032
+      }
+    ]
+  },
+  "assets/photos/728772543_1659166029156908_782442663074198617_n.jpg": {
+    "originalBytes": 108384,
+    "variants": [
+      {
+        "src": "assets/optimized/728772543-1659166029156908-782442663074198617-n-58cc80f4cc87-400.webp",
+        "width": 400,
+        "height": 443,
+        "bytes": 24182
+      },
+      {
+        "src": "assets/optimized/728772543-1659166029156908-782442663074198617-n-58cc80f4cc87-800.webp",
+        "width": 800,
+        "height": 886,
+        "bytes": 62342
+      },
+      {
+        "src": "assets/optimized/728772543-1659166029156908-782442663074198617-n-58cc80f4cc87-1170.webp",
+        "width": 1170,
+        "height": 1296,
+        "bytes": 101474
+      }
+    ]
+  },
+  "assets/photos/729540240_1659166269156884_2528906474867616237_n.jpg": {
+    "originalBytes": 122845,
+    "variants": [
+      {
+        "src": "assets/optimized/729540240-1659166269156884-2528906474867616237-n-745bf428cec7-400.webp",
+        "width": 400,
+        "height": 515,
+        "bytes": 29884
+      },
+      {
+        "src": "assets/optimized/729540240-1659166269156884-2528906474867616237-n-745bf428cec7-800.webp",
+        "width": 800,
+        "height": 1030,
+        "bytes": 74884
+      },
+      {
+        "src": "assets/optimized/729540240-1659166269156884-2528906474867616237-n-745bf428cec7-1170.webp",
+        "width": 1170,
+        "height": 1506,
+        "bytes": 114674
+      }
+    ]
+  },
+  "assets/photos/breed-chihuahua-longhair-current.jpeg": {
+    "originalBytes": 105469,
+    "variants": [
+      {
+        "src": "assets/optimized/breed-chihuahua-longhair-current-fefe22613708-400.webp",
+        "width": 400,
+        "height": 710,
+        "bytes": 29864
+      },
+      {
+        "src": "assets/optimized/breed-chihuahua-longhair-current-fefe22613708-800.webp",
+        "width": 800,
+        "height": 1421,
+        "bytes": 72334
+      },
+      {
+        "src": "assets/optimized/breed-chihuahua-longhair-current-fefe22613708-901.webp",
+        "width": 901,
+        "height": 1600,
+        "bytes": 84458
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-01.jpg": {
+    "originalBytes": 105380,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-01-d968d6eb8081-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 19282
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-01-d968d6eb8081-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 45478
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-01-d968d6eb8081-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 80578
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-02.jpg": {
+    "originalBytes": 99305,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-02-c2e21883a100-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 18868
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-02-c2e21883a100-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 43604
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-02-c2e21883a100-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 73270
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-03.jpg": {
+    "originalBytes": 102608,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-03-ddc355ce5610-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 19698
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-03-ddc355ce5610-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 47050
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-03-ddc355ce5610-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 76808
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-04.jpg": {
+    "originalBytes": 97042,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-04-03f18dc774b0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 17468
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-04-03f18dc774b0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 41306
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-04-03f18dc774b0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 73788
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-05.jpg": {
+    "originalBytes": 153020,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-05-bbcf3aa9a9b2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 31946
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-05-bbcf3aa9a9b2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 76502
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-05-bbcf3aa9a9b2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 128304
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg": {
+    "originalBytes": 149793,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-06-ddc323312a0b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 31134
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-06-ddc323312a0b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 75900
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-06-ddc323312a0b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 125700
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-07.jpg": {
+    "originalBytes": 175717,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-07-53285f13f6d2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 31784
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-07-53285f13f6d2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 97530
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-07-53285f13f6d2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 173416
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-08.jpg": {
+    "originalBytes": 142565,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-08-c39f5463a9d8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26444
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-08-c39f5463a9d8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 73906
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-08-c39f5463a9d8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 125196
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-09.jpg": {
+    "originalBytes": 189295,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-09-a7a9f79b656c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 36208
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-09-a7a9f79b656c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 107896
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-09-a7a9f79b656c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 181832
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-10.jpg": {
+    "originalBytes": 192716,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-10-a6a498bc7df2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 37492
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-10-a6a498bc7df2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 110196
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-10-a6a498bc7df2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 183916
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-11.jpg": {
+    "originalBytes": 174823,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-11-504ddda976b8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 35004
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-11-504ddda976b8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 95458
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-11-504ddda976b8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 160206
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg": {
+    "originalBytes": 143654,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-12-1f32c15fc631-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26142
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-12-1f32c15fc631-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 75722
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-12-1f32c15fc631-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 125408
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-13.jpg": {
+    "originalBytes": 129271,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-13-b65b3ab9a0a8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 23566
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-13-b65b3ab9a0a8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61682
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-13-b65b3ab9a0a8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 106380
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-14.jpg": {
+    "originalBytes": 91733,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-14-7ec4c464f9f8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16708
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-14-7ec4c464f9f8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 39556
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-14-7ec4c464f9f8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 67300
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-15.jpg": {
+    "originalBytes": 83019,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-15-12f5a1d00093-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15162
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-15-12f5a1d00093-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 36862
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-15-12f5a1d00093-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 60806
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-16.jpg": {
+    "originalBytes": 73940,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-16-ed41b2991c68-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 13960
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-16-ed41b2991c68-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 32384
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-16-ed41b2991c68-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 53756
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-17.jpg": {
+    "originalBytes": 82052,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-17-83e2dad74348-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15300
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-17-83e2dad74348-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 36368
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-17-83e2dad74348-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 61196
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-18.jpg": {
+    "originalBytes": 75814,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-18-fc54fe45366e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 13440
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-18-fc54fe45366e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 32522
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-18-fc54fe45366e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 54408
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-19.jpg": {
+    "originalBytes": 82052,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-19-83e2dad74348-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15300
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-19-83e2dad74348-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 36368
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-19-83e2dad74348-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 61196
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-20.jpg": {
+    "originalBytes": 138368,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-20-c5338240b3c1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24960
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-20-c5338240b3c1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 70438
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-20-c5338240b3c1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 120274
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-21.jpg": {
+    "originalBytes": 84825,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-21-ff23f3bf28a9-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 15396
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-21-ff23f3bf28a9-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 37596
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-21-ff23f3bf28a9-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 63392
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-22.jpg": {
+    "originalBytes": 140878,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-22-e012fd03bc43-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25550
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-22-e012fd03bc43-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 68792
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-22-e012fd03bc43-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 119660
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-23.jpg": {
+    "originalBytes": 136430,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-23-13cc698a0364-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25900
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-23-13cc698a0364-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 66812
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-23-13cc698a0364-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 112540
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-24.jpg": {
+    "originalBytes": 131082,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-24-f8f2a1459b80-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24622
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-24-f8f2a1459b80-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61558
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-24-f8f2a1459b80-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 106994
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-25.jpg": {
+    "originalBytes": 112643,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-25-9a58620fa479-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21032
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-25-9a58620fa479-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 52120
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-25-9a58620fa479-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 88656
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-26.jpg": {
+    "originalBytes": 111754,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-26-965740f41664-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21670
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-26-965740f41664-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 51166
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-26-965740f41664-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 85946
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg": {
+    "originalBytes": 108426,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-27-dcb1908ae87f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 20764
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-27-dcb1908ae87f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 49266
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-27-dcb1908ae87f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 82748
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-28.jpg": {
+    "originalBytes": 160634,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-28-e18cdb12d9e5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 29732
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-28-e18cdb12d9e5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 84828
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-28-e18cdb12d9e5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 142538
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-29.jpg": {
+    "originalBytes": 158955,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-29-57748b713ddb-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 30346
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-29-57748b713ddb-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 82014
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-29-57748b713ddb-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 139794
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-30.jpg": {
+    "originalBytes": 151284,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-30-03733fad0c2a-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 27244
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-30-03733fad0c2a-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 79938
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-30-03733fad0c2a-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 132532
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-31.jpg": {
+    "originalBytes": 135814,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-31-33f064cd8dea-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24154
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-31-33f064cd8dea-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 67954
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-31-33f064cd8dea-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 115738
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-32.jpg": {
+    "originalBytes": 198515,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-32-81531848043b-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 35134
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-32-81531848043b-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 113442
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-32-81531848043b-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 194526
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-33.jpg": {
+    "originalBytes": 120785,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-33-3a33ec55d693-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22306
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-33-3a33ec55d693-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 54786
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-33-3a33ec55d693-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 95470
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-34.jpg": {
+    "originalBytes": 167650,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-34-01c4f80dad79-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 28968
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-34-01c4f80dad79-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 93776
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-34-01c4f80dad79-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 162656
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-35.jpg": {
+    "originalBytes": 164279,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-35-6efa56ac055c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 28790
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-35-6efa56ac055c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 88122
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-35-6efa56ac055c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 150824
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg": {
+    "originalBytes": 141148,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-36-165924377832-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25830
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-36-165924377832-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 66502
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-36-165924377832-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 115826
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-37.jpg": {
+    "originalBytes": 135619,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-37-0fb948c5474f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25336
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-37-0fb948c5474f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 65112
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-37-0fb948c5474f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 111638
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg": {
+    "originalBytes": 133891,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-38-72d49f78e45c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24870
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-38-72d49f78e45c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 62136
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-38-72d49f78e45c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 109698
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-39.jpg": {
+    "originalBytes": 126046,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-39-99a01696c85f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22490
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-39-99a01696c85f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 57576
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-39-99a01696c85f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 102088
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-40.jpg": {
+    "originalBytes": 88613,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-40-fa3358f316e4-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16098
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-40-fa3358f316e4-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 38570
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-40-fa3358f316e4-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 65394
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-41.jpg": {
+    "originalBytes": 111037,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-41-5669e180a277-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21012
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-41-5669e180a277-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 51960
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-41-5669e180a277-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 87850
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg": {
+    "originalBytes": 114719,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-42-65424931b7d6-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22944
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-42-65424931b7d6-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 53020
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-42-65424931b7d6-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 89218
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-43.jpg": {
+    "originalBytes": 194693,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-43-0884a03ee30c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 45464
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-43-0884a03ee30c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 106382
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-43-0884a03ee30c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 170690
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-44.jpg": {
+    "originalBytes": 158415,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-44-4510efdbe2f0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33894
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-44-4510efdbe2f0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 81276
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-44-4510efdbe2f0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 133464
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg": {
+    "originalBytes": 152718,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-45-fc763d641543-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 32360
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-45-fc763d641543-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 77268
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-45-fc763d641543-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 129496
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-46.jpg": {
+    "originalBytes": 139100,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-46-6c6c6efca1f8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26724
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-46-6c6c6efca1f8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 65604
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-46-6c6c6efca1f8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 114556
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-47.jpg": {
+    "originalBytes": 172653,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-47-f3216d759ba9-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 39222
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-47-f3216d759ba9-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 90790
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-47-f3216d759ba9-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 149484
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-48.jpg": {
+    "originalBytes": 120233,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-48-38a130128da1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 23038
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-48-38a130128da1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55410
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-48-38a130128da1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 96384
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-49.jpg": {
+    "originalBytes": 114641,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-49-0fc8041f0bb8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22360
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-49-0fc8041f0bb8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 52032
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-49-0fc8041f0bb8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 90048
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-50.jpg": {
+    "originalBytes": 120376,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-50-560e231c2bc4-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 23470
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-50-560e231c2bc4-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55052
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-50-560e231c2bc4-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 96900
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-51.jpg": {
+    "originalBytes": 133431,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-51-3cde757246b5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26694
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-51-3cde757246b5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 60844
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-51-3cde757246b5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 105428
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-52.jpg": {
+    "originalBytes": 120095,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-52-dc2f4b7050f1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 23560
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-52-dc2f4b7050f1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 57358
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-52-dc2f4b7050f1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 95590
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-53.jpg": {
+    "originalBytes": 123788,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-53-bde580a7dbb0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24796
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-53-bde580a7dbb0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 56982
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-53-bde580a7dbb0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 97346
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-54.jpg": {
+    "originalBytes": 163878,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-54-dadca3198511-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 34832
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-54-dadca3198511-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 83692
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-54-dadca3198511-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 140304
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg": {
+    "originalBytes": 136837,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-55-ec0c9902f8d1-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 25908
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-55-ec0c9902f8d1-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 66514
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-55-ec0c9902f8d1-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 115392
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg": {
+    "originalBytes": 131627,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-56-da03e7f609cc-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24468
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-56-da03e7f609cc-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 62704
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-56-da03e7f609cc-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 107952
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-57.jpg": {
+    "originalBytes": 193188,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-57-96ad9718dc7e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 42644
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-57-96ad9718dc7e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 107908
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-57-96ad9718dc7e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 176672
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg": {
+    "originalBytes": 153163,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-58-3dfe07885b17-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 30388
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-58-3dfe07885b17-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 76880
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-58-3dfe07885b17-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 131510
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-59.jpg": {
+    "originalBytes": 192277,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-59-1c97b8b410f2-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 41728
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-59-1c97b8b410f2-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 102908
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-59-1c97b8b410f2-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 172194
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-60.jpg": {
+    "originalBytes": 189131,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-60-4d47653107df-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 39748
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-60-4d47653107df-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 99560
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-60-4d47653107df-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 169210
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-61.jpg": {
+    "originalBytes": 144093,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-61-8a828aa4fd69-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 29628
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-61-8a828aa4fd69-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 71020
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-61-8a828aa4fd69-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 118480
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-62.jpg": {
+    "originalBytes": 138485,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-62-725e6e293378-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 27964
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-62-725e6e293378-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 65876
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-62-725e6e293378-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 110842
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-63.jpg": {
+    "originalBytes": 207345,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-63-d27cfe29c4d0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 48192
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-63-d27cfe29c4d0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 117708
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-63-d27cfe29c4d0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 191452
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-64.jpg": {
+    "originalBytes": 266756,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-64-299250537296-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 64162
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-64-299250537296-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 163562
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-64-299250537296-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 267188
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-65.jpg": {
+    "originalBytes": 135006,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-65-db106e875c86-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 27178
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-65-db106e875c86-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 63336
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-65-db106e875c86-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 107380
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg": {
+    "originalBytes": 233818,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-66-d0b5498d8b7a-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 55082
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-66-d0b5498d8b7a-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 136506
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-66-d0b5498d8b7a-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 218742
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg": {
+    "originalBytes": 105469,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-67-fefe22613708-400.webp",
+        "width": 400,
+        "height": 710,
+        "bytes": 29864
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-67-fefe22613708-800.webp",
+        "width": 800,
+        "height": 1421,
+        "bytes": 72334
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-67-fefe22613708-901.webp",
+        "width": 901,
+        "height": 1600,
+        "bytes": 84458
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg": {
+    "originalBytes": 151891,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-68-27da06c8e071-400.webp",
+        "width": 400,
+        "height": 711,
+        "bytes": 46750
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-68-27da06c8e071-800.webp",
+        "width": 800,
+        "height": 1422,
+        "bytes": 118130
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-68-27da06c8e071-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 138454
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg": {
+    "originalBytes": 91709,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-69-3cbb6e72776f-400.webp",
+        "width": 400,
+        "height": 711,
+        "bytes": 25142
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-69-3cbb6e72776f-800.webp",
+        "width": 800,
+        "height": 1422,
+        "bytes": 62318
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-69-3cbb6e72776f-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 73130
+      }
+    ]
+  },
+  "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg": {
+    "originalBytes": 171421,
+    "variants": [
+      {
+        "src": "assets/optimized/chihuahua-2026-70-b6b2d495cf87-400.webp",
+        "width": 400,
+        "height": 711,
+        "bytes": 44318
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-70-b6b2d495cf87-800.webp",
+        "width": 800,
+        "height": 1422,
+        "bytes": 150104
+      },
+      {
+        "src": "assets/optimized/chihuahua-2026-70-b6b2d495cf87-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 175550
+      }
+    ]
+  },
+  "assets/photos/g1.jpg": {
+    "originalBytes": 145106,
+    "variants": [
+      {
+        "src": "assets/optimized/g1-6868906c0a4c-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 32746
+      },
+      {
+        "src": "assets/optimized/g1-6868906c0a4c-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 90452
+      },
+      {
+        "src": "assets/optimized/g1-6868906c0a4c-1156.webp",
+        "width": 1156,
+        "height": 1156,
+        "bytes": 147450
+      }
+    ]
+  },
+  "assets/photos/g13.jpg": {
+    "originalBytes": 197879,
+    "variants": [
+      {
+        "src": "assets/optimized/g13-7c954c1b3c0d-400.webp",
+        "width": 400,
+        "height": 300,
+        "bytes": 20794
+      },
+      {
+        "src": "assets/optimized/g13-7c954c1b3c0d-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 51356
+      },
+      {
+        "src": "assets/optimized/g13-7c954c1b3c0d-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 89104
+      },
+      {
+        "src": "assets/optimized/g13-7c954c1b3c0d-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 133980
+      }
+    ]
+  },
+  "assets/photos/g2.jpg": {
+    "originalBytes": 389218,
+    "variants": [
+      {
+        "src": "assets/optimized/g2-5fdc5019f4fb-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 63836
+      },
+      {
+        "src": "assets/optimized/g2-5fdc5019f4fb-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 190014
+      },
+      {
+        "src": "assets/optimized/g2-5fdc5019f4fb-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 334480
+      },
+      {
+        "src": "assets/optimized/g2-5fdc5019f4fb-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 423198
+      }
+    ]
+  },
+  "assets/photos/g3.jpg": {
+    "originalBytes": 277594,
+    "variants": [
+      {
+        "src": "assets/optimized/g3-6c986f686852-400.webp",
+        "width": 400,
+        "height": 360,
+        "bytes": 21696
+      },
+      {
+        "src": "assets/optimized/g3-6c986f686852-800.webp",
+        "width": 800,
+        "height": 720,
+        "bytes": 63920
+      },
+      {
+        "src": "assets/optimized/g3-6c986f686852-1200.webp",
+        "width": 1200,
+        "height": 1080,
+        "bytes": 120938
+      },
+      {
+        "src": "assets/optimized/g3-6c986f686852-1600.webp",
+        "width": 1600,
+        "height": 1440,
+        "bytes": 188336
+      }
+    ]
+  },
+  "assets/photos/g6.jpg": {
+    "originalBytes": 479056,
+    "variants": [
+      {
+        "src": "assets/optimized/g6-64e2bac3aec8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 69498
+      },
+      {
+        "src": "assets/optimized/g6-64e2bac3aec8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 225656
+      },
+      {
+        "src": "assets/optimized/g6-64e2bac3aec8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 418956
+      },
+      {
+        "src": "assets/optimized/g6-64e2bac3aec8-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 555302
+      }
+    ]
+  },
+  "assets/photos/gallery-chihuahua-10.png": {
+    "originalBytes": 667677,
+    "variants": [
+      {
+        "src": "assets/optimized/gallery-chihuahua-10-10e1cd1a33fe-400.webp",
+        "width": 400,
+        "height": 332,
+        "bytes": 26680
+      },
+      {
+        "src": "assets/optimized/gallery-chihuahua-10-10e1cd1a33fe-704.webp",
+        "width": 704,
+        "height": 585,
+        "bytes": 57174
+      }
+    ]
+  },
+  "assets/photos/gallery-chihuahua-11.png": {
+    "originalBytes": 699298,
+    "variants": [
+      {
+        "src": "assets/optimized/gallery-chihuahua-11-769997b62685-400.webp",
+        "width": 400,
+        "height": 375,
+        "bytes": 26722
+      },
+      {
+        "src": "assets/optimized/gallery-chihuahua-11-769997b62685-693.webp",
+        "width": 693,
+        "height": 649,
+        "bytes": 52600
+      }
+    ]
+  },
+  "assets/photos/hero-10.jpg": {
+    "originalBytes": 209579,
+    "variants": [
+      {
+        "src": "assets/optimized/hero-10-e3892c4ae158-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 29378
+      },
+      {
+        "src": "assets/optimized/hero-10-e3892c4ae158-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 75658
+      },
+      {
+        "src": "assets/optimized/hero-10-e3892c4ae158-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 139130
+      },
+      {
+        "src": "assets/optimized/hero-10-e3892c4ae158-1500.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 201808
+      }
+    ]
+  },
+  "assets/photos/hero-13.jpg": {
+    "originalBytes": 170667,
+    "variants": [
+      {
+        "src": "assets/optimized/hero-13-13717fe7b8a8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 16218
+      },
+      {
+        "src": "assets/optimized/hero-13-13717fe7b8a8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 50660
+      },
+      {
+        "src": "assets/optimized/hero-13-13717fe7b8a8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 101716
+      },
+      {
+        "src": "assets/optimized/hero-13-13717fe7b8a8-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 160250
+      }
+    ]
+  },
+  "assets/photos/hero-17.jpg": {
+    "originalBytes": 208914,
+    "variants": [
+      {
+        "src": "assets/optimized/hero-17-ce3b6f5be7a7-400.webp",
+        "width": 400,
+        "height": 301,
+        "bytes": 15804
+      },
+      {
+        "src": "assets/optimized/hero-17-ce3b6f5be7a7-800.webp",
+        "width": 800,
+        "height": 601,
+        "bytes": 43442
+      },
+      {
+        "src": "assets/optimized/hero-17-ce3b6f5be7a7-1200.webp",
+        "width": 1200,
+        "height": 902,
+        "bytes": 76444
+      },
+      {
+        "src": "assets/optimized/hero-17-ce3b6f5be7a7-1500.webp",
+        "width": 1500,
+        "height": 1127,
+        "bytes": 108358
+      }
+    ]
+  },
+  "assets/photos/maltanczyk.jpg": {
+    "originalBytes": 145106,
+    "variants": [
+      {
+        "src": "assets/optimized/maltanczyk-6868906c0a4c-400.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 32746
+      },
+      {
+        "src": "assets/optimized/maltanczyk-6868906c0a4c-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 90452
+      },
+      {
+        "src": "assets/optimized/maltanczyk-6868906c0a4c-1156.webp",
+        "width": 1156,
+        "height": 1156,
+        "bytes": 147450
+      }
+    ]
+  },
+  "assets/photos/puppy-20260712-piesek-czarny.jpg": {
+    "originalBytes": 129271,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-czarny-b65b3ab9a0a8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 23566
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-czarny-b65b3ab9a0a8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61682
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-czarny-b65b3ab9a0a8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 106380
+      }
+    ]
+  },
+  "assets/photos/puppy-20260712-piesek-niebieski-podpalany.jpg": {
+    "originalBytes": 108426,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-niebieski-podpalany-dcb1908ae87f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 20764
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-niebieski-podpalany-dcb1908ae87f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 49266
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-piesek-niebieski-podpalany-dcb1908ae87f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 82748
+      }
+    ]
+  },
+  "assets/photos/puppy-20260712-sunia-czarna-podpalana.jpg": {
+    "originalBytes": 75814,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-podpalana-fc54fe45366e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 13440
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-podpalana-fc54fe45366e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 32522
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-podpalana-fc54fe45366e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 54408
+      }
+    ]
+  },
+  "assets/photos/puppy-20260712-sunia-czarna.jpg": {
+    "originalBytes": 105380,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-d968d6eb8081-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 19282
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-d968d6eb8081-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 45478
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czarna-d968d6eb8081-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 80578
+      }
+    ]
+  },
+  "assets/photos/puppy-20260712-sunia-czekoladowa.jpg": {
+    "originalBytes": 164279,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czekoladowa-6efa56ac055c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 28790
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czekoladowa-6efa56ac055c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 88122
+      },
+      {
+        "src": "assets/optimized/puppy-20260712-sunia-czekoladowa-6efa56ac055c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 150824
+      }
+    ]
+  },
+  "assets/photos/puppy-amorek-blue.png": {
+    "originalBytes": 609693,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-amorek-blue-25552b76431d-400.webp",
+        "width": 400,
+        "height": 344,
+        "bytes": 16410
+      },
+      {
+        "src": "assets/optimized/puppy-amorek-blue-25552b76431d-779.webp",
+        "width": 779,
+        "height": 669,
+        "bytes": 39994
+      }
+    ]
+  },
+  "assets/photos/puppy-czekoladowy-dlugowlosy-1.jpg": {
+    "originalBytes": 133431,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-1-3cde757246b5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 26694
+      },
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-1-3cde757246b5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 60844
+      },
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-1-3cde757246b5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 105428
+      }
+    ]
+  },
+  "assets/photos/puppy-czekoladowy-dlugowlosy-2.jpg": {
+    "originalBytes": 207345,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-2-d27cfe29c4d0-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 48192
+      },
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-2-d27cfe29c4d0-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 117708
+      },
+      {
+        "src": "assets/optimized/puppy-czekoladowy-dlugowlosy-2-d27cfe29c4d0-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 191452
+      }
+    ]
+  },
+  "assets/photos/puppy-liliowy-dlugowlosy-home.jpg": {
+    "originalBytes": 111037,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-liliowy-dlugowlosy-home-5669e180a277-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21012
+      },
+      {
+        "src": "assets/optimized/puppy-liliowy-dlugowlosy-home-5669e180a277-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 51960
+      },
+      {
+        "src": "assets/optimized/puppy-liliowy-dlugowlosy-home-5669e180a277-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 87850
+      }
+    ]
+  },
+  "assets/photos/puppy-niebieski-dlugowlosy.jpg": {
+    "originalBytes": 193188,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-niebieski-dlugowlosy-96ad9718dc7e-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 42644
+      },
+      {
+        "src": "assets/optimized/puppy-niebieski-dlugowlosy-96ad9718dc7e-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 107908
+      },
+      {
+        "src": "assets/optimized/puppy-niebieski-dlugowlosy-96ad9718dc7e-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 176672
+      }
+    ]
+  },
+  "assets/photos/puppy-wafel-sable.png": {
+    "originalBytes": 397765,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-wafel-sable-37de0b34ce99-400.webp",
+        "width": 400,
+        "height": 339,
+        "bytes": 15054
+      },
+      {
+        "src": "assets/optimized/puppy-wafel-sable-37de0b34ce99-612.webp",
+        "width": 612,
+        "height": 518,
+        "bytes": 26478
+      }
+    ]
+  },
+  "assets/photos/puppy-wedel-sable.png": {
+    "originalBytes": 582031,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-wedel-sable-6657a975c2e6-400.webp",
+        "width": 400,
+        "height": 370,
+        "bytes": 20360
+      },
+      {
+        "src": "assets/optimized/puppy-wedel-sable-6657a975c2e6-682.webp",
+        "width": 682,
+        "height": 630,
+        "bytes": 40932
+      }
+    ]
+  },
+  "assets/photos/rasy-chihuahua-nowe.jpeg": {
+    "originalBytes": 151891,
+    "variants": [
+      {
+        "src": "assets/optimized/rasy-chihuahua-nowe-27da06c8e071-400.webp",
+        "width": 400,
+        "height": 711,
+        "bytes": 46750
+      },
+      {
+        "src": "assets/optimized/rasy-chihuahua-nowe-27da06c8e071-800.webp",
+        "width": 800,
+        "height": 1422,
+        "bytes": 118130
+      },
+      {
+        "src": "assets/optimized/rasy-chihuahua-nowe-27da06c8e071-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 138454
+      }
+    ]
+  },
+  "assets/opinie/benio.jpg": {
+    "originalBytes": 174296,
+    "variants": [
+      {
+        "src": "assets/optimized/benio-473dcb00e47c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 33826
+      },
+      {
+        "src": "assets/optimized/benio-473dcb00e47c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 108016
+      },
+      {
+        "src": "assets/optimized/benio-473dcb00e47c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 190676
+      },
+      {
+        "src": "assets/optimized/benio-473dcb00e47c-1242.webp",
+        "width": 1242,
+        "height": 1656,
+        "bytes": 193648
+      }
+    ]
+  },
+  "assets/opinie/dyzio.jpg": {
+    "originalBytes": 349937,
+    "variants": [
+      {
+        "src": "assets/optimized/dyzio-9d647e331cd5-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 56850
+      },
+      {
+        "src": "assets/optimized/dyzio-9d647e331cd5-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 169064
+      },
+      {
+        "src": "assets/optimized/dyzio-9d647e331cd5-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 301118
+      },
+      {
+        "src": "assets/optimized/dyzio-9d647e331cd5-1536.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 382730
+      }
+    ]
+  },
+  "assets/opinie/GABI.jpg": {
+    "originalBytes": 63983,
+    "variants": [
+      {
+        "src": "assets/optimized/gabi-d71e13a99ac5-400.webp",
+        "width": 400,
+        "height": 416,
+        "bytes": 16444
+      },
+      {
+        "src": "assets/optimized/gabi-d71e13a99ac5-800.webp",
+        "width": 800,
+        "height": 833,
+        "bytes": 51520
+      },
+      {
+        "src": "assets/optimized/gabi-d71e13a99ac5-922.webp",
+        "width": 922,
+        "height": 960,
+        "bytes": 64814
+      }
+    ]
+  },
+  "assets/opinie/op-13.webp": {
+    "originalBytes": 71964,
+    "variants": [
+      {
+        "src": "assets/optimized/op-13-30536e83389e-400.webp",
+        "width": 400,
+        "height": 415,
+        "bytes": 26530
+      },
+      {
+        "src": "assets/optimized/op-13-30536e83389e-650.webp",
+        "width": 650,
+        "height": 674,
+        "bytes": 56798
+      }
+    ]
+  },
+  "assets/photos/puppy-elf-czarny.jpg": {
+    "originalBytes": 163529,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-elf-czarny-3d994188aa89-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 30276
+      },
+      {
+        "src": "assets/optimized/puppy-elf-czarny-3d994188aa89-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 84776
+      },
+      {
+        "src": "assets/optimized/puppy-elf-czarny-3d994188aa89-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 141850
+      }
+    ]
+  },
+  "assets/photos/puppy-gabi-czekoladowa.jpg": {
+    "originalBytes": 141274,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-gabi-czekoladowa-c3e982539817-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24574
+      },
+      {
+        "src": "assets/optimized/puppy-gabi-czekoladowa-c3e982539817-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 71558
+      },
+      {
+        "src": "assets/optimized/puppy-gabi-czekoladowa-c3e982539817-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 122210
+      }
+    ]
+  },
+  "assets/photos/puppy-gacek-czekoladowy-podpalany.jpg": {
+    "originalBytes": 151707,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-gacek-czekoladowy-podpalany-8f3b3237be44-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 24096
+      },
+      {
+        "src": "assets/optimized/puppy-gacek-czekoladowy-podpalany-8f3b3237be44-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 80600
+      },
+      {
+        "src": "assets/optimized/puppy-gacek-czekoladowy-podpalany-8f3b3237be44-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 140314
+      }
+    ]
+  },
+  "assets/photos/puppy-fibi-niebieska.jpg": {
+    "originalBytes": 130396,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-fibi-niebieska-c42e99feaa8c-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22050
+      },
+      {
+        "src": "assets/optimized/puppy-fibi-niebieska-c42e99feaa8c-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61712
+      },
+      {
+        "src": "assets/optimized/puppy-fibi-niebieska-c42e99feaa8c-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 110086
+      }
+    ]
+  },
+  "assets/photos/puppy-fifi-niebieska.jpg": {
+    "originalBytes": 122056,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-fifi-niebieska-091eb674f5b8-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 21714
+      },
+      {
+        "src": "assets/optimized/puppy-fifi-niebieska-091eb674f5b8-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 55000
+      },
+      {
+        "src": "assets/optimized/puppy-fifi-niebieska-091eb674f5b8-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 94320
+      }
+    ]
+  },
+  "assets/photos/puppy-fionka-bezowa.jpg": {
+    "originalBytes": 130888,
+    "variants": [
+      {
+        "src": "assets/optimized/puppy-fionka-bezowa-0a8932fc407f-400.webp",
+        "width": 400,
+        "height": 533,
+        "bytes": 22204
+      },
+      {
+        "src": "assets/optimized/puppy-fionka-bezowa-0a8932fc407f-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 61628
+      },
+      {
+        "src": "assets/optimized/puppy-fionka-bezowa-0a8932fc407f-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 104564
+      }
+    ]
+  }
+}

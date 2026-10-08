@@ -1,0 +1,430 @@
+{
+  "added": [
+    {
+      "id": 308,
+      "dog": "Hana",
+      "source": "WhatsApp Image 2026-10-07 at 20.34.29 (1).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-01.jpg",
+      "pixels": "dce051da277655a33b424ca8246bb6f4d0b776b081050a75d1dc24cb6ca9b1cf"
+    },
+    {
+      "id": 309,
+      "dog": "Hana",
+      "source": "WhatsApp Image 2026-10-07 at 20.34.29 (2).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-02.jpg",
+      "pixels": "adecdcc1dccd5acc041e16c7acd9a784dc3dc2da2df3a3a0d6df7da7e90f0398"
+    },
+    {
+      "id": 310,
+      "dog": "Hana",
+      "source": "WhatsApp Image 2026-10-07 at 20.34.29 (3).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-03.jpg",
+      "pixels": "da692de400cdcd36bff1aebc43fa3d481403d4f840f211943ea6736ca54027be"
+    },
+    {
+      "id": 311,
+      "dog": "Hana",
+      "source": "WhatsApp Image 2026-10-07 at 20.34.29.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-04.jpg",
+      "pixels": "06c8ac47c1fc530404638f99ae6e46f5e5c2db02ba3912523fc1425d1ae21ae1"
+    },
+    {
+      "id": 312,
+      "dog": "Hana",
+      "source": "WhatsApp Image 2026-10-07 at 20.35.32.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-05.jpg",
+      "pixels": "41469b90af399be9f7bdea9ddb0acf67d25f3ee4867ff345d5da093d4a21cba8"
+    },
+    {
+      "id": 313,
+      "dog": "Hela",
+      "source": "WhatsApp Image 2026-10-07 at 20.38.38 (1).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-01.jpg",
+      "pixels": "33efde846e76c0157b04930985bd94b710fd50532c4f7ce19ae15ebd97680190"
+    },
+    {
+      "id": 314,
+      "dog": "Hela",
+      "source": "WhatsApp Image 2026-10-07 at 20.38.38 (2).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-02.jpg",
+      "pixels": "00a4b39288015fe155ad6331260cf9054db4db309bf5c9bcb1592eb40957bbdc"
+    },
+    {
+      "id": 315,
+      "dog": "Hela",
+      "source": "WhatsApp Image 2026-10-07 at 20.38.38.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-03.jpg",
+      "pixels": "df084bab3df9a52419aeb307bc0c5dce93051e8eb0de637f65a06b7a9613e1c0"
+    },
+    {
+      "id": 316,
+      "dog": "Hela",
+      "source": "WhatsApp Image 2026-10-07 at 20.38.53.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-04.jpg",
+      "pixels": "7004a67c1b956f1a0c96877d18948483d1f31ebdf75b6f49465b115562644f7d"
+    },
+    {
+      "id": 317,
+      "dog": "Hela",
+      "source": "WhatsApp Image 2026-10-07 at 20.39.09.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-05.jpg",
+      "pixels": "0125064194276817107df8fef6899f00fa175b1d9c4fdf8cf71740d65b40db55"
+    },
+    {
+      "id": 318,
+      "dog": "Heidi",
+      "source": "WhatsApp Image 2026-10-07 at 20.42.05 (1).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-01.jpg",
+      "pixels": "bc33bcb8575242bc800cac19bf9082c2cdd39039759323888bfa16f05583d666"
+    },
+    {
+      "id": 319,
+      "dog": "Heidi",
+      "source": "WhatsApp Image 2026-10-07 at 20.42.05.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-02.jpg",
+      "pixels": "4d140107e6ed4ae304379b1f0b4927f4760f9cffc5b906c0de8c12000eba280e"
+    },
+    {
+      "id": 320,
+      "dog": "Heidi",
+      "source": "WhatsApp Image 2026-10-07 at 20.42.29 (1).jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-03.jpg",
+      "pixels": "92a2513913c96bd7c40bfcad3ac77697fc187cbff961f77ebace4456bb1986b8"
+    },
+    {
+      "id": 321,
+      "dog": "Heidi",
+      "source": "WhatsApp Image 2026-10-07 at 20.42.29.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-04.jpg",
+      "pixels": "601ca57ed6954d8d7039ecb69ff4bf810a8c3f98f8b9dc1fc2ab25985d4feaae"
+    },
+    {
+      "id": 322,
+      "dog": "Havana",
+      "source": "WhatsApp Image 2026-10-07 at 20.43.41.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-01.jpg",
+      "pixels": "ba67633e74c5c538ee29341599d14b4d200a25b7ea497546cc017a0fec6547e4"
+    },
+    {
+      "id": 323,
+      "dog": "Havana",
+      "source": "WhatsApp Image 2026-10-07 at 20.43.59.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-02.jpg",
+      "pixels": "22ea05f72ce4ca00dd9951d01f5f82eacf848c521399d515b9450ad65de1c06c"
+    },
+    {
+      "id": 324,
+      "dog": "Havana",
+      "source": "WhatsApp Image 2026-10-07 at 20.44.12.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-03.jpg",
+      "pixels": "36fa79a74f2fdcc88d71fa2448e224e4f7e1a51c2896de49e169ce7587f2f8ab"
+    },
+    {
+      "id": 325,
+      "dog": "Havana",
+      "source": "WhatsApp Image 2026-10-07 at 20.44.22.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-04.jpg",
+      "pixels": "3267bbb5732b77ca7921b1ef5e15a23b32d1179675d00952660ee2ff878b8f34"
+    },
+    {
+      "id": 326,
+      "dog": "Coddy",
+      "source": "WhatsApp Image 2026-10-07 at 20.48.58.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-01.jpg",
+      "pixels": "a95ff3502350319db2d6616d2aba54fa5142bb9a2f4339520b159e010ff23c97"
+    },
+    {
+      "id": 327,
+      "dog": "Coddy",
+      "source": "WhatsApp Image 2026-10-07 at 20.49.10.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-02.jpg",
+      "pixels": "a9e4fef18049b5772ebb472fa3fd80123dec5da0747d691a12e93e2803e0b302"
+    },
+    {
+      "id": 328,
+      "dog": "Coddy",
+      "source": "WhatsApp Image 2026-10-07 at 20.49.18.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-03.jpg",
+      "pixels": "586080aa426f2edfbf1ac4ed303078fc8d6438befbf752651ab8e95134eb8338"
+    },
+    {
+      "id": 329,
+      "dog": "Coddy",
+      "source": "WhatsApp Image 2026-10-07 at 20.49.28.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-04.jpg",
+      "pixels": "96905aeb9ce81e20572adaf27447144d75488210976099d6a94706932e15b7f2"
+    },
+    {
+      "id": 330,
+      "dog": "Coddy",
+      "source": "WhatsApp Image 2026-10-07 at 20.50.09.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-05.jpg",
+      "pixels": "f74477cf541ac0858471cf4e90016e397c1f0412f5ecd348d620cb223fcec0da"
+    },
+    {
+      "id": 331,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.51.38.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-01.jpg",
+      "pixels": "d2be73fceb07bf4437f242fe2ee74890d1832b56096aa1cb83712fef61ed81a8"
+    },
+    {
+      "id": 332,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.51.50.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-02.jpg",
+      "pixels": "bebd3fa69ad39e27e33fe617578839f231d183d40199f827ab93969ceb931f1f"
+    },
+    {
+      "id": 333,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.51.59.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-03.jpg",
+      "pixels": "3d92e622970e935bfb5bc98473bec84e5aa5a201286e2c798cba9d6959e8a390"
+    },
+    {
+      "id": 334,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.52.09.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-04.jpg",
+      "pixels": "3efdb530155528434a4364fd9f2c88d607cf863b2dd6b2ffb6632c8311176985"
+    },
+    {
+      "id": 335,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.52.19.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-05.jpg",
+      "pixels": "9743c41bca5ab4f140121f512333bed22b21143d4e689c6724b048a9603b637e"
+    },
+    {
+      "id": 336,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.52.31.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-06.jpg",
+      "pixels": "b1298e66cc2773403d8d31de6793146f3d6883a497a2fb8fb8813daa7772ee02"
+    },
+    {
+      "id": 337,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.52.41.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-07.jpg",
+      "pixels": "a9584e74e3344f94b1b333c3cea9c1771644f1815affb4db7b89b376cd53ec9c"
+    },
+    {
+      "id": 338,
+      "dog": "Czaruś",
+      "source": "WhatsApp Image 2026-10-07 at 20.53.07.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-08.jpg",
+      "pixels": "91a41ec0ef70ee3305e9b00be093c971ee5451ea27d7e018defcb36dd5d46fac"
+    },
+    {
+      "id": 339,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.57.36.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-01.jpg",
+      "pixels": "9881ff263b2085f774cf55731c6f3c9c5f24f0c68f6a93960fbdc596a1edd549"
+    },
+    {
+      "id": 340,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.57.48.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-02.jpg",
+      "pixels": "79d2e26a39f9d52b470389f96141beaaf29ef777e893c39bed3dd043154a433c"
+    },
+    {
+      "id": 341,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.57.56.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-03.jpg",
+      "pixels": "aa44827ad7e9e752e4a06d1b668b8d11fcc38a2bb1d9418fab150261db4b0fe0"
+    },
+    {
+      "id": 342,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.58.08.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-04.jpg",
+      "pixels": "ac90bfa45eb58e9f02afec01c39d6fe352e858e724ee2b8b0f25bc54e3f87903"
+    },
+    {
+      "id": 343,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.58.19.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-05.jpg",
+      "pixels": "784eedffbe225f96ab8519fe4d7c61bf249a7a464a8707a1d6c61496328d3306"
+    },
+    {
+      "id": 344,
+      "dog": "Haczi",
+      "source": "WhatsApp Image 2026-10-07 at 20.58.35.jpeg",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-06.jpg",
+      "pixels": "710d1ccd9b91cd438ad296c3f5306b37d4ac66b20a055dba3f6c60e154f0c555"
+    }
+  ],
+  "restored": [
+    {
+      "file": "WhatsApp Image 2026-10-04 at 21.41.05.jpeg",
+      "dog": "Elf",
+      "pixels": "de27dd7fad00b805c881937a9ce0bff0eb50a9c405f6076ed641830cd1705cd4",
+      "sha": "1f32c15fc6310efe268c4b50da508221f09a4904e1b49c6775f9c0587b0c1091",
+      "status": "omitted",
+      "existing": {
+        "id": 133,
+        "breed": "chihuahua",
+        "src": "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg",
+        "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+        "width": 1200,
+        "height": 1600,
+        "crop": [
+          204,
+          288,
+          720,
+          960
+        ],
+        "x": 42.5,
+        "y": 45.0,
+        "scale": 1.66667,
+        "fit": "cover",
+        "aliases": [],
+        "galleryOmission": {
+          "requestedRemoval": true,
+          "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 3."
+        }
+      }
+    }
+  ],
+  "dogs": [
+    {
+      "name": "Haczi",
+      "slug": "haczi",
+      "color": "Beżowy",
+      "coat": "Krótkowłosy",
+      "sex": "Samiec",
+      "ask": "Hacziego",
+      "time": "20.58.19",
+      "crop": [
+        140,
+        180,
+        960,
+        960
+      ],
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.58.19.jpeg",
+      "cardSrc": "assets/photos/puppy-haczi-20261007.jpg",
+      "galleryPhotoId": 343
+    },
+    {
+      "name": "Czaruś",
+      "slug": "czarus",
+      "color": "Liliowy",
+      "coat": "Długowłosy",
+      "sex": "Samiec",
+      "ask": "Czarusia",
+      "time": "20.51.50",
+      "crop": [
+        90,
+        100,
+        900,
+        900
+      ],
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.51.50.jpeg",
+      "cardSrc": "assets/photos/puppy-czarus-20261007.jpg",
+      "galleryPhotoId": 332
+    },
+    {
+      "name": "Coddy",
+      "slug": "coddy",
+      "color": "Czekoladowy",
+      "coat": "Długowłosy",
+      "sex": "Samiec",
+      "ask": "Coddy’ego",
+      "time": "20.49.10",
+      "crop": [
+        80,
+        80,
+        1040,
+        1040
+      ],
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.49.10.jpeg",
+      "cardSrc": "assets/photos/puppy-coddy-20261007.jpg",
+      "galleryPhotoId": 327
+    },
+    {
+      "name": "Havana",
+      "slug": "havana",
+      "color": "Biało-beżowy",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Havanę",
+      "time": "20.44.22",
+      "crop": [
+        120,
+        200,
+        1080,
+        1080
+      ],
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.44.22.jpeg",
+      "cardSrc": "assets/photos/puppy-havana-20261007.jpg",
+      "galleryPhotoId": 325
+    },
+    {
+      "name": "Heidi",
+      "slug": "heidi",
+      "color": "Czarny",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Heidi",
+      "time": "20.42.29",
+      "crop": [
+        170,
+        170,
+        900,
+        900
+      ],
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.42.29.jpeg",
+      "cardSrc": "assets/photos/puppy-heidi-20261007.jpg",
+      "galleryPhotoId": 321
+    },
+    {
+      "name": "Hela",
+      "slug": "hela",
+      "color": "Niebieski",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Helę",
+      "time": "20.38.38",
+      "crop": [
+        180,
+        410,
+        780,
+        780
+      ],
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.38.38.jpeg",
+      "cardSrc": "assets/photos/puppy-hela-20261007.jpg",
+      "galleryPhotoId": 315
+    },
+    {
+      "name": "Hana",
+      "slug": "hana",
+      "color": "Niebieski",
+      "coat": "Krótkowłosy",
+      "sex": "Samica",
+      "ask": "Hanę",
+      "time": "20.34.29",
+      "crop": [
+        160,
+        240,
+        900,
+        900
+      ],
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "file": "WhatsApp Image 2026-10-07 at 20.34.29.jpeg",
+      "cardSrc": "assets/photos/puppy-hana-20261007.jpg",
+      "galleryPhotoId": 311
+    }
+  ]
+}

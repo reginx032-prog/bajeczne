@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Health guide</title>
+  <desc id="desc">Veterinary care, health book and calm puppy icon.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <rect x="150" y="112" width="230" height="312" rx="28" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M215 190h100M215 244h112M215 298h86M215 352h112" stroke="#8c8174" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="548" cy="264" r="118" fill="#f3ece2" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M548 198v132M482 264h132" stroke="#d6b890" stroke-width="24" stroke-linecap="round"/>
+  <path d="M430 397c20-54 92-58 118-10 39 0 65 24 65 59H390c0-30 14-45 40-49z" fill="#fff" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="474" cy="420" r="7" fill="#2b2a25"/>
+  <circle cx="530" cy="420" r="7" fill="#2b2a25"/>
+  <path d="M202 112v-30h126v30" fill="none" stroke="#2b2a25" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="650" cy="110" r="44" fill="#efe6d9"/>
+</svg>

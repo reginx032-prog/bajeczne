@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">First days at home guide</title>
+  <desc id="desc">Puppy entering a calm new home.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M170 306l230-176 230 176v126H170z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M238 430v-92c0-46 32-82 74-82s74 36 74 82v92" fill="#e7d8c6" stroke="#2b2a25" stroke-width="9"/>
+  <path d="M480 348h76v82h-76z" fill="#f2e9dd" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M124 306l276-212 276 212" fill="none" stroke="#2b2a25" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M268 330c18-50 84-52 105 0 39 5 59 35 47 69-13 37-53 55-99 55s-86-18-99-55c-12-34 8-64 46-69z" fill="#fff" stroke="#2b2a25" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="302" cy="372" r="7" fill="#2b2a25"/>
+  <circle cx="346" cy="372" r="7" fill="#2b2a25"/>
+  <path d="M324 390c9 8 19 8 28 0" fill="none" stroke="#2b2a25" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="622" cy="142" r="42" fill="#d6b890"/>
+  <path d="M601 142h42M622 121v42" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+</svg>

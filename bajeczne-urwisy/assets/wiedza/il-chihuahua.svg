@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgA)"/>
+
+  <!-- miękka plama tła -->
+  <path d="M430,58 C572,50 668,142 660,262 C652,378 556,450 420,452 C292,454 200,372 202,252 C204,138 296,66 430,58 Z" fill="#EBE0CC" opacity=".55"/>
+
+  <!-- cień -->
+  <ellipse cx="430" cy="452" rx="185" ry="20" fill="#2A2823" opacity=".07"/>
+
+  <!-- akcenty -->
+  <path d="M600,332 Q652,258 622,178" fill="none" stroke="#C7A57A" stroke-width="5" stroke-linecap="round" stroke-dasharray="0.1 17" opacity=".75"/>
+  <g fill="#C7A57A">
+    <path d="M622,106 C624,116 626,118 636,120 C626,122 624,124 622,134 C620,124 618,122 608,120 C618,118 620,116 622,106 Z"/>
+    <path d="M186,322 C187.5,329 189,330.5 196,332 C189,333.5 187.5,335 186,342 C184.5,335 183,333.5 176,332 C183,330.5 184.5,329 186,322 Z" opacity=".85"/>
+  </g>
+  <path d="M252,146 C252,138 238,134 238,142 C238,148 246,152 252,158 C258,152 266,148 266,142 C266,134 252,138 252,146 Z" fill="#A6714A" opacity=".9"/>
+
+  <!-- uszy -->
+  <g stroke-linejoin="round">
+    <path d="M270,75 L425,165 L330,235 Z" fill="#DCBB92" stroke="#DCBB92" stroke-width="36"/>
+    <path d="M590,75 L530,235 L435,165 Z" fill="#DCBB92" stroke="#DCBB92" stroke-width="36"/>
+    <path d="M297,116 L396,172 L336,216 Z" fill="#F3E0C4" stroke="#F3E0C4" stroke-width="16"/>
+    <path d="M563,116 L524,216 L464,172 Z" fill="#F3E0C4" stroke="#F3E0C4" stroke-width="16"/>
+  </g>
+
+  <!-- pierś -->
+  <path d="M336,456 Q430,356 524,456 Z" fill="#F7F1E6"/>
+
+  <!-- głowa -->
+  <circle cx="430" cy="275" r="118" fill="#E4C7A0"/>
+  <ellipse cx="430" cy="326" rx="80" ry="54" fill="#F3E4CC"/>
+
+  <!-- pyszczek -->
+  <circle cx="383" cy="266" r="14" fill="#2A2823"/>
+  <circle cx="477" cy="266" r="14" fill="#2A2823"/>
+  <circle cx="379" cy="261" r="4.5" fill="#fff"/>
+  <circle cx="473" cy="261" r="4.5" fill="#fff"/>
+  <ellipse cx="345" cy="316" rx="17" ry="10" fill="#E3AF8F" opacity=".5"/>
+  <ellipse cx="515" cy="316" rx="17" ry="10" fill="#E3AF8F" opacity=".5"/>
+  <path d="M414,301 Q430,291 446,301 Q446,316 430,322 Q414,316 414,301 Z" fill="#2A2823"/>
+  <path d="M430,322 L430,336 M400,341 Q415,353 430,337 M430,337 Q445,353 460,341" fill="none" stroke="#2A2823" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- obroża -->
+  <path d="M342,398 Q430,446 518,398" fill="none" stroke="#A6714A" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="430" cy="443" r="10" fill="#C7A57A"/>
+</svg>

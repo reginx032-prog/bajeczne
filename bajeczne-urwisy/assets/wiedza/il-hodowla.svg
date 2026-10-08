@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgJ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgJ)"/>
+
+  <path d="M400,58 C560,50 662,144 656,260 C650,374 548,446 398,448 C256,450 146,368 152,252 C158,140 258,66 400,58 Z" fill="#EBE0CC" opacity=".5"/>
+  <ellipse cx="400" cy="456" rx="225" ry="17" fill="#2A2823" opacity=".07"/>
+
+  <g fill="#C7A57A">
+    <path d="M158,120 C160,130 162,132 172,134 C162,136 160,138 158,148 C156,138 154,136 144,134 C154,132 156,130 158,120 Z"/>
+    <path d="M652,96 C653.5,103 655,104.5 662,106 C655,107.5 653.5,109 652,116 C650.5,109 649,107.5 642,106 C649,104.5 650.5,103 652,96 Z" opacity=".85"/>
+    <path d="M668,338 C669.5,345 671,346.5 678,348 C671,349.5 669.5,351 668,358 C666.5,351 665,349.5 658,348 C665,346.5 666.5,345 668,338 Z" opacity=".7"/>
+  </g>
+
+  <!-- certyfikat -->
+  <g transform="rotate(-3 390 275)">
+    <rect x="225" y="120" width="330" height="310" rx="18" fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5"/>
+    <rect x="245" y="140" width="290" height="270" rx="10" fill="none" stroke="#EBE0CC" stroke-width="3"/>
+
+    <!-- herb z łapką -->
+    <circle cx="390" cy="188" r="27" fill="#F3E7D2"/>
+    <g fill="#A6714A">
+      <ellipse cx="390" cy="194" rx="9" ry="7"/>
+      <circle cx="379" cy="184" r="4"/>
+      <circle cx="386" cy="180" r="4"/>
+      <circle cx="394" cy="180" r="4"/>
+      <circle cx="401" cy="184" r="4"/>
+    </g>
+
+    <!-- drzewo rodowodowe -->
+    <path d="M390,246 L342,278 M390,246 L438,278 M342,292 L308,324 M342,292 L366,324 M438,292 L414,324 M438,292 L472,324" stroke="#C9A87C" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <circle cx="390" cy="242" r="10" fill="#2A2823"/>
+    <circle cx="342" cy="286" r="8.5" fill="#A6714A"/>
+    <circle cx="438" cy="286" r="8.5" fill="#A6714A"/>
+    <circle cx="308" cy="330" r="7" fill="#C7A57A"/>
+    <circle cx="366" cy="330" r="7" fill="#C7A57A"/>
+    <circle cx="414" cy="330" r="7" fill="#C7A57A"/>
+    <circle cx="472" cy="330" r="7" fill="#C7A57A"/>
+
+    <!-- podpis -->
+    <path d="M300,384 Q320,368 336,382 Q352,396 372,378 Q390,362 406,380" fill="none" stroke="#2A2823" stroke-width="5" stroke-linecap="round"/>
+    <path d="M290,400 L470,400" stroke="#EBE0CC" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- rozeta -->
+  <g transform="translate(548,382)">
+    <rect x="-34" y="10" width="26" height="88" rx="13" fill="#C98A5B" transform="rotate(16)"/>
+    <rect x="8" y="10" width="26" height="88" rx="13" fill="#C98A5B" transform="rotate(-16)"/>
+    <g fill="#DFC29E">
+      <circle cx="0" cy="-36" r="14"/>
+      <circle cx="21" cy="-29" r="14"/>
+      <circle cx="34" cy="-11" r="14"/>
+      <circle cx="34" cy="11" r="14"/>
+      <circle cx="21" cy="29" r="14"/>
+      <circle cx="0" cy="36" r="14"/>
+      <circle cx="-21" cy="29" r="14"/>
+      <circle cx="-34" cy="11" r="14"/>
+      <circle cx="-34" cy="-11" r="14"/>
+      <circle cx="-21" cy="-29" r="14"/>
+    </g>
+    <circle cx="0" cy="0" r="30" fill="#F7F1E6" stroke="#C7A57A" stroke-width="4"/>
+    <path d="M0,-13 C2.5,-3 5,-0.5 15,2 C5,4.5 2.5,7 0,17 C-2.5,7 -5,4.5 -15,2 C-5,-0.5 -2.5,-3 0,-13 Z" fill="#A6714A"/>
+  </g>
+</svg>

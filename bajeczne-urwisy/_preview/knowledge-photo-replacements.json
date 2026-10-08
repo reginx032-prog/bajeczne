@@ -1,0 +1,76 @@
+{
+  "wiedza-jezyk-ciala-szczeniaka.html": [
+    {
+      "id": "C66",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg",
+      "width": 1200,
+      "height": 1600,
+      "x": 48,
+      "y": 60,
+      "scale": 1.13,
+      "alt": "Czekoladowy szczeniak Chihuahua leżący na jasnym, puszystym posłaniu",
+      "label": null
+    }
+  ],
+  "wiedza-szelki-spacer-miniaturka.html": [
+    {
+      "id": "C38",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg",
+      "width": 1200,
+      "height": 1600,
+      "x": 62,
+      "y": 25,
+      "scale": 1.15,
+      "alt": "Czekoladowy Chihuahua w czerwonych szelkach z przypiętą smyczą",
+      "label": null
+    }
+  ],
+  "wiedza-kolory-chihuahua.html": [
+    {
+      "id": "C45",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg",
+      "width": 1200,
+      "height": 1600,
+      "x": 42,
+      "y": 80,
+      "scale": 1.4,
+      "alt": "Szczeniak Chihuahua o jasnobrązowym umaszczeniu na białym posłaniu",
+      "label": null
+    },
+    {
+      "id": "C56",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg",
+      "width": 1200,
+      "height": 1600,
+      "x": 70,
+      "y": 43,
+      "scale": 1.4,
+      "alt": "Szczeniak Chihuahua o szarej sierści z jaśniejszym pyszczkiem i łapkami",
+      "label": null
+    }
+  ],
+  "wiedza-siersc-chihuahua.html": [
+    {
+      "id": "C27",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg",
+      "width": 1200,
+      "height": 1600,
+      "x": 20,
+      "y": 82,
+      "scale": 1.35,
+      "alt": "Chihuahua z krótką, gładką sierścią w czerwonych szelkach",
+      "label": "Krótka szata"
+    },
+    {
+      "id": "C67",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg",
+      "width": 901,
+      "height": 1600,
+      "x": 52,
+      "y": 43,
+      "scale": 1,
+      "alt": "Chihuahua z dłuższą sierścią na uszach i klatce piersiowej",
+      "label": "Długa szata"
+    }
+  ]
+}

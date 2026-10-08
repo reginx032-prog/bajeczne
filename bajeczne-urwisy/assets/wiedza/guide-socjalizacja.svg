@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Socialization guide</title>
+  <desc id="desc">Small puppy surrounded by gentle everyday sounds and people.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <circle cx="400" cy="272" r="116" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M320 252c-54-66-114-16-82 54 22-26 49-44 82-54z" fill="#e7d8c6" stroke="#2b2a25" stroke-width="9"/>
+  <path d="M480 252c54-66 114-16 82 54-22-26-49-44-82-54z" fill="#e7d8c6" stroke="#2b2a25" stroke-width="9"/>
+  <circle cx="365" cy="276" r="8" fill="#2b2a25"/>
+  <circle cx="437" cy="276" r="8" fill="#2b2a25"/>
+  <path d="M400 305c10 9 20 9 30 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M146 174c36-42 88-42 124 0M530 174c36-42 88-42 124 0" fill="none" stroke="#d6b890" stroke-width="12" stroke-linecap="round"/>
+  <path d="M164 356c38 36 84 36 122 0M514 356c38 36 84 36 122 0" fill="none" stroke="#d6b890" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="178" cy="248" r="38" fill="#efe6d9"/>
+  <circle cx="622" cy="248" r="38" fill="#efe6d9"/>
+  <path d="M178 228v40M158 248h40M622 228v40M602 248h40" stroke="#8c8174" stroke-width="8" stroke-linecap="round"/>
+</svg>

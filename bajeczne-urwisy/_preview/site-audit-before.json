@@ -1,0 +1,2775 @@
+{
+  "stats": {
+    "pages": 28,
+    "localReferences": 1599,
+    "svgUses": 449,
+    "images": 337,
+    "pagesWithoutCanonical": 28,
+    "pagesWithoutSocialImage": 28
+  },
+  "counts": {
+    "skip-link": 27,
+    "external-svg-use": 114,
+    "image-dimensions": 173,
+    "submenu-controls": 28,
+    "decorative-svg": 206,
+    "missing-file": 3
+  },
+  "issues": [
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "baza-wiedzy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-heart"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-home"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-check"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "missing-file",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-fb"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-ig"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/page-chihuahua-hero.png"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-01.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-02.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-03.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-04.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-05.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-06.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-07.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-08.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-09.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-10.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-11.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-12.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/gallery-chihuahua-13.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g1.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g2.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g3.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g4.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g5.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g6.jpg"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "galeria-maltanczyki.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "index.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "index.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "index.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-swkipr.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g6.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/hero-10.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/hero-13.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/611255763_1511073733966139_1783780094848168773_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/542755058_1401273048279542_6641547856909562432_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/727393942_1659166642490180_252766499684281225_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/hero-17.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/rasy-chihuahua-nowe.jpeg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/maltanczyk.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-amorek-blue.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-wedel-sable.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-wafel-sable.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-liliowy-dlugowlosy-home.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-czekoladowy-dlugowlosy-1.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-niebieski-dlugowlosy.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/puppy-czekoladowy-dlugowlosy-2.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-swkipr.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-wku.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-ppk.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-19.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-18.webp"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-weronika-simba.jpeg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-7.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-11.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-9.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-3.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-16.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-17.webp"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-1.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-2.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-4.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-5.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-10.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-15.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-6.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-8.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-14.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-12.webp"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-20.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/opinie/op-13.webp"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/g1.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/breed-chihuahua-longhair-current.jpeg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "index.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "index.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "kontakt.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-heart"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-leaf"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-home"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "missing-file",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-fb"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-ig"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/page-maltanczyk-hero.png"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-heart"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-leaf"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-home"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-phone"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "missing-file",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-fb"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-ig"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/page-rasy-hero.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/page-chihuahua-hero.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/photos/page-maltanczyk-hero.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-white.png"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "rasy.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-bezpieczny-dom.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua-czy-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-dzieci-i-pies.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jak-wybrac-hodowle.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-jezyk-ciala-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-kolory-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-maltanczyk.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-nauka-czystosci.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja-oczu-maltanczyka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pielegnacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-pierwsze-dni.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-plan-dnia-szczeniaka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-podroz-i-odbior.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-siersc-chihuahua.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-socjalizacja.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-szelki-spacer-miniaturka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-wyprawka.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zdrowie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "skip-link",
+      "detail": "Missing main-content shortcut"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "external-svg-use",
+      "detail": "assets/icons.svg#i-arrow"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/logo-bajeczne-urwisy-clean.png"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-swkipr-transparent.png"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-wku-transparent.png"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "image-dimensions",
+      "detail": "assets/footer-logo-ppk-transparent.png"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "submenu-controls",
+      "detail": "Rasy"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    },
+    {
+      "page": "wiedza-zywienie.html",
+      "kind": "decorative-svg",
+      "detail": "Icon is exposed to assistive technology"
+    }
+  ]
+}

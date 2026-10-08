@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Chihuahua guide</title>
+  <desc id="desc">Portrait of a small Chihuahua with warm color accents.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M114 404c80-130 190-236 347-234 92 2 168 45 225 124" fill="none" stroke="#efe6d9" stroke-width="68" stroke-linecap="round"/>
+  <circle cx="402" cy="278" r="138" fill="#fff" stroke="#2b2a25" stroke-width="11"/>
+  <path d="M294 250c-70-88-138-28-88 70 25-31 55-55 88-70z" fill="#d9b28b" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M510 250c70-88 138-28 88 70-25-31-55-55-88-70z" fill="#d9b28b" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M335 320c34 28 100 28 134 0" fill="#ead7c5" stroke="#2b2a25" stroke-width="9" stroke-linejoin="round"/>
+  <circle cx="354" cy="268" r="12" fill="#2b2a25"/>
+  <circle cx="450" cy="268" r="12" fill="#2b2a25"/>
+  <path d="M400 298l-15 18h30z" fill="#2b2a25"/>
+  <path d="M382 329c14 14 26 14 40 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="610" cy="150" r="54" fill="#d6b890"/>
+  <path d="M594 150c18-30 55-4 17 28-38-32-1-58 17-28" fill="#fff"/>
+  <path d="M240 418h330" stroke="#d6c8b7" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,1136 @@
+[
+  {
+    "file": "34a8339c-d31d-4b7e-9af5-3199fb97caa1.jpg",
+    "dog": "Fibi",
+    "pixels": "cf88f31c97ed8cbc6f1a00f02f6ecc8f2eecc463429b105db8c09c07cca4da43",
+    "sha": "b189c9780fe6f902bf8765c41cd0dd4f82dc09568d66b70219a34431f5c4db92",
+    "status": "published",
+    "existing": {
+      "id": 289,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-portret.jpg",
+      "alt": "Fibi, niebieska suczka Chihuahua na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        180,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 37.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.10.31.jpeg",
+    "dog": "Fionka",
+    "pixels": "b56be6a9d53c951ea176292c9977a41b21e55e20cd1dda354d1f6962605c8cfc",
+    "sha": "0a8932fc407f13a228339d020f7a9d81240a3ca255f26542beabd3f09325ba59",
+    "status": "published",
+    "existing": {
+      "id": 286,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fionka-bezowa.jpg",
+      "alt": "Fionka, beżowa krótkowłosa suczka Chihuahua",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        80,
+        70,
+        960,
+        1280
+      ],
+      "x": 33.333,
+      "y": 21.875,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.10.52.jpeg",
+    "dog": "Fionka",
+    "pixels": "2f57004ebdbe0771cfc1f8bb1dba2fba50b55011bed8e7bc85487b66b9ab62b8",
+    "sha": "53f3dff68d6fa8913cff342183d59c35b95b6d78915f90ccff7300c7ee19a725",
+    "status": "published",
+    "existing": {
+      "id": 290,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fionka-na-kocu.jpg",
+      "alt": "Fionka, beżowa suczka Chihuahua stojąca na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        80,
+        960,
+        1280
+      ],
+      "x": 100.0,
+      "y": 25.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.11.02.jpeg",
+    "dog": "Fionka",
+    "pixels": "39baa811026cbb14e464176ebf68b3b95353d63af7ca303e3a441daf822ebfbd",
+    "sha": "7a884975cf7212f9285b32f2a71a35a333af9a030f45ea2f3dca35d19977eb3f",
+    "status": "published",
+    "existing": {
+      "id": 300,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fiona-03.jpg",
+      "alt": "Fionka, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        160,
+        960,
+        1280
+      ],
+      "x": 66.667,
+      "y": 50.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.11.15.jpeg",
+    "dog": "Fionka",
+    "pixels": "52aa3a262d2e4943a5977dfa1219898b95c1f7f70af8d1c7b628ea44aeaec286",
+    "sha": "f166f7863f2ac6120fd21fb162c4b0f59f494adcb5afd8417c7857e91473fdc0",
+    "status": "published",
+    "existing": {
+      "id": 301,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fiona-04.jpg",
+      "alt": "Fionka, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        180,
+        960,
+        1280
+      ],
+      "x": 83.333,
+      "y": 56.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.15.41.jpeg",
+    "dog": "Fifi",
+    "pixels": "e95a2d4dabc5f7d437753b0befa2ba01b334439055ea849c13a17766c12e486a",
+    "sha": "091eb674f5b8dd12c4f5afcbabf131154e7d48f44f6f9787223bba7c915b184e",
+    "status": "published",
+    "existing": {
+      "id": 297,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fifi-niebieska.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        170,
+        960,
+        1280
+      ],
+      "x": 70.833,
+      "y": 53.125,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.16.14.jpeg",
+    "dog": "Fifi",
+    "pixels": "b2a30aa179af4a781c41908adfa1a0000300e49db178d99f054406f0d6d35488",
+    "sha": "427cdef3e105757694579065fa72280345d325bc215321594d8639165b12ca33",
+    "status": "published",
+    "existing": {
+      "id": 285,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-portret.jpg",
+      "alt": "Fifi, niebieska krótkowłosa suczka Chihuahua na dłoni opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        180,
+        960,
+        1280
+      ],
+      "x": 66.667,
+      "y": 56.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.16.34.jpeg",
+    "dog": "Fifi",
+    "pixels": "8181255d0b76ce1d28be69070201872821273ea370a24983932eb784b77af01f",
+    "sha": "abff3dcbccacb1d1411250c693588ded9a8645025fadef8820e64185d09711d0",
+    "status": "published",
+    "existing": {
+      "id": 298,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-03.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        140,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 35.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.16.48.jpeg",
+    "dog": "Fifi",
+    "pixels": "a21ea6c41cf276e1354b674d4ea8ad1e0800b01127941f1dd286e15ccbf4b895",
+    "sha": "5f9ba695e228508b994fe0edf04480f2a3c4f536bd76653d70f67cc7b8e4b7d6",
+    "status": "published",
+    "existing": {
+      "id": 299,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-04.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        280,
+        960,
+        1280
+      ],
+      "x": 83.333,
+      "y": 87.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.21.12 (1).jpeg",
+    "dog": "Fibi",
+    "pixels": "14d930ad3eef4256078f319a6953bdd1fa985d308b5ef0be4b616bec31be2b34",
+    "sha": "fb757d1dbefa293d5f5f49b7c1903d4cf4ea6133f8d8bef75b80bda550e33583",
+    "status": "published",
+    "existing": {
+      "id": 293,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-02.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        220,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 45.833,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.21.12.jpeg",
+    "dog": "Fibi",
+    "pixels": "14d930ad3eef4256078f319a6953bdd1fa985d308b5ef0be4b616bec31be2b34",
+    "sha": "fb757d1dbefa293d5f5f49b7c1903d4cf4ea6133f8d8bef75b80bda550e33583",
+    "status": "duplicate-in-batch",
+    "existing": {
+      "id": 293,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-02.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        220,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 45.833,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.21.47.jpeg",
+    "dog": "Fibi",
+    "pixels": "ad1901d2faf40175ce2020e49a940d6b3b9faaca0cc6f10cc8c1355bbe6dbd4b",
+    "sha": "b86e0f785cd73e01571ac4a9395d77dfa7112a80b247db0dc7374f1dea6f3d5a",
+    "status": "published",
+    "existing": {
+      "id": 294,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-04.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        300,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 75.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.21.59.jpeg",
+    "dog": "Fibi",
+    "pixels": "601f556135768bd2b27b1e03b385d17c1068ea6c2efdcc77684873b8e01cb4c4",
+    "sha": "c42e99feaa8c2bd7f1c0979cbf51f59313954c390374019c99cc742927b2652e",
+    "status": "published",
+    "existing": {
+      "id": 284,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fibi-niebieska.jpg",
+      "alt": "Fibi, niebieska krótkowłosa suczka Chihuahua w słońcu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        100,
+        960,
+        1280
+      ],
+      "x": 87.5,
+      "y": 31.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.22.10.jpeg",
+    "dog": "Fibi",
+    "pixels": "971746d677200cd8a2b7419a070832be7af4b3689ee98071186c835c886c13e4",
+    "sha": "85b59cbc5d9c06f6e9b9cfd78b6be0225a7718da3b921f5c64129570470bc2dd",
+    "status": "published",
+    "existing": {
+      "id": 295,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-06.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        150,
+        120,
+        960,
+        1280
+      ],
+      "x": 62.5,
+      "y": 37.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.22.22.jpeg",
+    "dog": "Fibi",
+    "pixels": "29291c7bd251fa7b1328e0cbebb34b3278e06f6a7927986e89a4f7a4408afd97",
+    "sha": "b34558117195bdf24661fab5e3b9f2e68fd92c095cfc732fcf5440c06817b7a1",
+    "status": "published",
+    "existing": {
+      "id": 296,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-07.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        280,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 70.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.25.37.jpeg",
+    "dog": "Gacek",
+    "pixels": "f85f3bca48bb51bc6e7df5d0ab43f539b1cc4ffec2e6ed1a5e99c2d964de44e9",
+    "sha": "8f3b3237be44598c2f0ea28cdc3a2d7dbe911a4b0bea37ac396066f440623abc",
+    "status": "published",
+    "existing": {
+      "id": 283,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-gacek-czekoladowy-podpalany.jpg",
+      "alt": "Gacek, czekoladowy podpalany Chihuahua na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        190,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 39.583,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.25.49.jpeg",
+    "dog": "Gacek",
+    "pixels": "22d6bdc60f6c96779317840c03e9b180f078c37c994f3d03f6f2b3f895aa9dc8",
+    "sha": "ff144a0ebb1cc600966c94d76d070f6f6143cdf908e3d995a5ecbe0eda5027fe",
+    "status": "published",
+    "existing": {
+      "id": 304,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-02.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        200,
+        900,
+        1200
+      ],
+      "x": 60.0,
+      "y": 50.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.26.11.jpeg",
+    "dog": "Gacek",
+    "pixels": "4acd2636bf5439feee13b9404a81069b68368214188f71ad82e618a4bdb467eb",
+    "sha": "778bee62e8b0d4d031d0fd08dab211bb50f09b77aa88edcc4dacd321e04b699e",
+    "status": "published",
+    "existing": {
+      "id": 288,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-na-rekach.jpg",
+      "alt": "Gacek, czekoladowy podpalany piesek Chihuahua na rękach opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        30,
+        1140,
+        1520
+      ],
+      "x": 0.0,
+      "y": 37.5,
+      "scale": 1.05263,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.26.30.jpeg",
+    "dog": "Gacek",
+    "pixels": "aba155f39c9272daa29d8c2ae918ffa6b4463c170ce1e28eda72527ae4b7efcb",
+    "sha": "25e4f75dfa1ef7ecb1494cf7259bd4ccbc174d0fe3426c801902ad42a1084569",
+    "status": "published",
+    "existing": {
+      "id": 305,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-04.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        220,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 55.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.27.14.jpeg",
+    "dog": "Gacek",
+    "pixels": "27b85a11f292ade6d2195f57e9b8dc775ad8d638014825af0d591527542b3ce0",
+    "sha": "285e44a63e12519cef907a90e8e7a4636c56775a7e5a226fb0d42ffcc4e947e6",
+    "status": "published",
+    "existing": {
+      "id": 306,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-05.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.27.31.jpeg",
+    "dog": "Gacek",
+    "pixels": "8eb0ee165c024cef0279b91b8266480f4af47e834494c5407f2e41e62f59167a",
+    "sha": "ac1b31071747c53c1e7db1f683de50643f2aea094524f85905a96e905f5b8bd4",
+    "status": "published",
+    "existing": {
+      "id": 307,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-06.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.28.56.jpeg",
+    "dog": "Gabi",
+    "pixels": "15550dd81b8b8bcba03816f3fdd3912a06f60f85ea6372803eb37eff85ea29c8",
+    "sha": "154f483a5c9a2c0820cb7f25841827a37a43e60a6c77b0adcaa5efa4f3c6ecbf",
+    "status": "published",
+    "existing": {
+      "id": 302,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-01.jpg",
+      "alt": "Gabi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        60,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 12.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.29.12.jpeg",
+    "dog": "Gabi",
+    "pixels": "dfc2aa2686e1736f7663bb4f094b2c5bc112104840c82051e9db062923de6b9f",
+    "sha": "c3e982539817ae9edd4f233f122560e0ae813592954f4cad3da9f81308eafc3e",
+    "status": "published",
+    "existing": {
+      "id": 282,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-gabi-czekoladowa.jpg",
+      "alt": "Gabi, czekoladowa krótkowłosa suczka Chihuahua z przechyloną główką",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        60,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 12.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.29.24.jpeg",
+    "dog": "Gabi",
+    "pixels": "5e8f7c51e350a46963b8a5ed35b3bd3eb69bfb7d9f83743a2990ec5e23ef1c9b",
+    "sha": "441262429481a3f0d2b2141cd75a7064762207609457cf78778dfdbb8b535647",
+    "status": "published",
+    "existing": {
+      "id": 287,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-na-rekach.jpg",
+      "alt": "Gabi, czekoladowa suczka Chihuahua z białymi znaczeniami na łapkach",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.29.34.jpeg",
+    "dog": "Gabi",
+    "pixels": "f59bea9db869657b73f73827b3d5ab2366b3bb50098747dad4357777a90d999f",
+    "sha": "65662ddf1346e02b2b66f731b054672132f15c84cf5e4f2852a9d6f26e2f6cda",
+    "status": "published",
+    "existing": {
+      "id": 303,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-04.jpg",
+      "alt": "Gabi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.39.24.jpeg",
+    "dog": "Elf",
+    "pixels": "30d65363d668f0e9a6593d45bcecdf78f4facca6c0cfe43634880397f74d0236",
+    "sha": "3d994188aa8952594fcc347123a10271f1d185dc6ede4e3f501d5f9c2f6f874b",
+    "status": "published",
+    "existing": {
+      "id": 281,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-elf-czarny.jpg",
+      "alt": "Elf, czarny krótkowłosy Chihuahua na dłoni opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        216,
+        280,
+        840,
+        1120
+      ],
+      "x": 60.0,
+      "y": 58.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.40.08.jpeg",
+    "dog": "Elf",
+    "pixels": "b4fa13b69f40a0139c31ace33e74f1a907ecaea4da7ed7eb8e839bfabfbd4e5c",
+    "sha": "a7a9f79b656cebc8f7b9975304c11c86db68761610f072946682fa0236c9fbe4",
+    "status": "published",
+    "existing": {
+      "id": 130,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-09.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        60,
+        208,
+        936,
+        1248
+      ],
+      "x": 22.727,
+      "y": 59.091,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.40.32.jpeg",
+    "dog": "Elf",
+    "pixels": "6c5ec1ebd0de95a93b9a181e78e93c55cf4a5448131000eb8094314db225248f",
+    "sha": "da409bfe1d642ba33747181d73997493b0efa45fc208ca94a0ed60dfec0e6786",
+    "status": "published",
+    "existing": {
+      "id": 291,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/elf-03.jpg",
+      "alt": "Elf, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        300,
+        900,
+        1200
+      ],
+      "x": 70.0,
+      "y": 75.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.41.05.jpeg",
+    "dog": "Elf",
+    "pixels": "de27dd7fad00b805c881937a9ce0bff0eb50a9c405f6076ed641830cd1705cd4",
+    "sha": "1f32c15fc6310efe268c4b50da508221f09a4904e1b49c6775f9c0587b0c1091",
+    "status": "omitted",
+    "existing": {
+      "id": 133,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        288,
+        720,
+        960
+      ],
+      "x": 42.5,
+      "y": 45.0,
+      "scale": 1.66667,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 3."
+      }
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.41.14.jpeg",
+    "dog": "Elf",
+    "pixels": "fa1cedf028b04f96f938733d1b225b65fbbc98a85fea708c7c0d3e56a9f67b67",
+    "sha": "4bbdef790bac5e3d77c264f80c23fcbfd3b38c3b7776dac05390c11181c1887c",
+    "status": "published",
+    "existing": {
+      "id": 292,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/elf-05.jpg",
+      "alt": "Elf, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        360,
+        900,
+        1200
+      ],
+      "x": 56.667,
+      "y": 90.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.41.25.jpeg",
+    "dog": "Elf",
+    "pixels": "36c926144f07fd432b2bba8f1e4cd2526f9b1253d6497bad217244e2983e520f",
+    "sha": "b65b3ab9a0a817de5e49fc8097b79a785c7d1db143b4fc280865474880d58439",
+    "status": "published",
+    "existing": {
+      "id": 134,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-13.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        216,
+        208,
+        792,
+        1056
+      ],
+      "x": 52.941,
+      "y": 38.235,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-piesek-czarny.jpg"
+      ]
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-04 at 21.41.36.jpeg",
+    "dog": "Elf",
+    "pixels": "73c9f375ba945617713e9c3bc7527553cbabe7723361ad703d5a20b9211ee90b",
+    "sha": "7ec4c464f9f8b315ac6d0a472f9390e4f2df088288eba5e8477ec2c8e375f774",
+    "status": "published",
+    "existing": {
+      "id": 135,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-14.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        240,
+        792,
+        1056
+      ],
+      "x": 50.0,
+      "y": 44.118,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    }
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.34.29 (1).jpeg",
+    "dog": "Hana",
+    "pixels": "dce051da277655a33b424ca8246bb6f4d0b776b081050a75d1dc24cb6ca9b1cf",
+    "sha": "e393632731b0795098f8c55830ee8a8eba20f1bd0e470b6b07fc7e515a9eb56e",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.34.29 (2).jpeg",
+    "dog": "Hana",
+    "pixels": "adecdcc1dccd5acc041e16c7acd9a784dc3dc2da2df3a3a0d6df7da7e90f0398",
+    "sha": "06d6f52f70bdadd35a1500b97e4de9daa04ca540bd2e6dfb318baea3d8661422",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.34.29 (3).jpeg",
+    "dog": "Hana",
+    "pixels": "da692de400cdcd36bff1aebc43fa3d481403d4f840f211943ea6736ca54027be",
+    "sha": "91d9555e186833ac05d43f611b597b56b548d2030897db5b4a318149aeb2475c",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.34.29.jpeg",
+    "dog": "Hana",
+    "pixels": "06c8ac47c1fc530404638f99ae6e46f5e5c2db02ba3912523fc1425d1ae21ae1",
+    "sha": "0e545ff8e3056540233e722fdf18bff6050d9d076b8bfa107ccb5a7a8819977e",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.35.32.jpeg",
+    "dog": "Hana",
+    "pixels": "41469b90af399be9f7bdea9ddb0acf67d25f3ee4867ff345d5da093d4a21cba8",
+    "sha": "7453e45fff3cfe25d9b5b345752d1ed9f2622219abf1ee80e21a53d6baddf619",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.38.38 (1).jpeg",
+    "dog": "Hela",
+    "pixels": "33efde846e76c0157b04930985bd94b710fd50532c4f7ce19ae15ebd97680190",
+    "sha": "9f742afd079a7a2e1a1ad1bb4c4cafef114a4983ef8e6f2a9fdaedc91ae51f1d",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.38.38 (2).jpeg",
+    "dog": "Hela",
+    "pixels": "00a4b39288015fe155ad6331260cf9054db4db309bf5c9bcb1592eb40957bbdc",
+    "sha": "83c41b3a020e1abea5a15c75027befd8a114d42bc24063aad928e7d4862d1b1f",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.38.38.jpeg",
+    "dog": "Hela",
+    "pixels": "df084bab3df9a52419aeb307bc0c5dce93051e8eb0de637f65a06b7a9613e1c0",
+    "sha": "d8fe9a24dfe36cf4126ec3aeeba19c9a1e1468f5041920ac518533a39a7c0c4c",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.38.53.jpeg",
+    "dog": "Hela",
+    "pixels": "7004a67c1b956f1a0c96877d18948483d1f31ebdf75b6f49465b115562644f7d",
+    "sha": "538f2312c18d0c23032a0d54fbbf3222f7fd0f42b91f2218e8294a84cb8357ce",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.39.09.jpeg",
+    "dog": "Hela",
+    "pixels": "0125064194276817107df8fef6899f00fa175b1d9c4fdf8cf71740d65b40db55",
+    "sha": "5cdd769dd8e501906706a02d7520f549b5e498a7b542d7021ffe0e8e6845a916",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.42.05 (1).jpeg",
+    "dog": "Heidi",
+    "pixels": "bc33bcb8575242bc800cac19bf9082c2cdd39039759323888bfa16f05583d666",
+    "sha": "636b66ab9907326d5043a7b06b4afb179a9d80aa0d1892fb4d23e513d350830e",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.42.05.jpeg",
+    "dog": "Heidi",
+    "pixels": "4d140107e6ed4ae304379b1f0b4927f4760f9cffc5b906c0de8c12000eba280e",
+    "sha": "3b6823e891f1c17f237ed7bc7ad1d08279b406cb9c0f655e4d223cf385d5c468",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.42.29 (1).jpeg",
+    "dog": "Heidi",
+    "pixels": "92a2513913c96bd7c40bfcad3ac77697fc187cbff961f77ebace4456bb1986b8",
+    "sha": "f09f5d8e5422df68fa0b326fb8321358d976552d5012e2a2644979a33de65a92",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.42.29.jpeg",
+    "dog": "Heidi",
+    "pixels": "601ca57ed6954d8d7039ecb69ff4bf810a8c3f98f8b9dc1fc2ab25985d4feaae",
+    "sha": "d84357959aed1da38bc870b3a950514349f8bbd2aa8e3b15aeabc6ef2e50c81a",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.43.41.jpeg",
+    "dog": "Havana",
+    "pixels": "ba67633e74c5c538ee29341599d14b4d200a25b7ea497546cc017a0fec6547e4",
+    "sha": "6e2f573190a34558e288a1f79dd1935dc450003675ef11d168dda82b0dfc0ce3",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.43.59.jpeg",
+    "dog": "Havana",
+    "pixels": "22ea05f72ce4ca00dd9951d01f5f82eacf848c521399d515b9450ad65de1c06c",
+    "sha": "99f0781ddb108cb890d08042eb5e02fc6a3dce18f8102e4abb95508719dbcdd4",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.44.12.jpeg",
+    "dog": "Havana",
+    "pixels": "36fa79a74f2fdcc88d71fa2448e224e4f7e1a51c2896de49e169ce7587f2f8ab",
+    "sha": "947ea7fcfca6795315a9ee4063522aa71c1b41950e48a8d7e6dd07de791b1631",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.44.22.jpeg",
+    "dog": "Havana",
+    "pixels": "3267bbb5732b77ca7921b1ef5e15a23b32d1179675d00952660ee2ff878b8f34",
+    "sha": "3ecd74869ec9b01e39605d1b6776d1f748062cefd54343d5e9f3410676742931",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.48.58.jpeg",
+    "dog": "Coddy",
+    "pixels": "a95ff3502350319db2d6616d2aba54fa5142bb9a2f4339520b159e010ff23c97",
+    "sha": "39fc741bfcb46f608d61134a9cd78563b3a038a5a13c153398e07029d17c22c4",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.49.10.jpeg",
+    "dog": "Coddy",
+    "pixels": "a9e4fef18049b5772ebb472fa3fd80123dec5da0747d691a12e93e2803e0b302",
+    "sha": "51be378cb0299f3aeec25ca82f9e86411de805d5b17616b2bbb7a34d77578da5",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.49.18.jpeg",
+    "dog": "Coddy",
+    "pixels": "586080aa426f2edfbf1ac4ed303078fc8d6438befbf752651ab8e95134eb8338",
+    "sha": "c963c945be9e188cefc0aa969fd173bd8656ae47d2a4ae94dc5e7f8a5746ec22",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.49.28.jpeg",
+    "dog": "Coddy",
+    "pixels": "96905aeb9ce81e20572adaf27447144d75488210976099d6a94706932e15b7f2",
+    "sha": "9327cc3a42550623859ffa872610ef376444c6fb20e717ce75bfb46b9ffc3635",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.50.09.jpeg",
+    "dog": "Coddy",
+    "pixels": "f74477cf541ac0858471cf4e90016e397c1f0412f5ecd348d620cb223fcec0da",
+    "sha": "18d51b9805c61c36f125fce609c29bb78c121992e0ab8d2e24d6832871807483",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.51.38.jpeg",
+    "dog": "Czaruś",
+    "pixels": "d2be73fceb07bf4437f242fe2ee74890d1832b56096aa1cb83712fef61ed81a8",
+    "sha": "748205bb99fa4a827be1e215a0c149e9dba6e409e2c6ec6cb0278cabf8cbccc0",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.51.50.jpeg",
+    "dog": "Czaruś",
+    "pixels": "bebd3fa69ad39e27e33fe617578839f231d183d40199f827ab93969ceb931f1f",
+    "sha": "5c1a7c951041ac5a306f76939c3a4c158d1ce9971a255dd508e08f9db98a3b49",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.51.59.jpeg",
+    "dog": "Czaruś",
+    "pixels": "3d92e622970e935bfb5bc98473bec84e5aa5a201286e2c798cba9d6959e8a390",
+    "sha": "a6340163b5f5c2bb63413f406c4b0c7d09c36164a24efe2c09deb09ca9b56b57",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.52.09.jpeg",
+    "dog": "Czaruś",
+    "pixels": "3efdb530155528434a4364fd9f2c88d607cf863b2dd6b2ffb6632c8311176985",
+    "sha": "da6f86b3981fd62511b3e04c00843436a056bb9497dddf535785cc7b93a94434",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.52.19.jpeg",
+    "dog": "Czaruś",
+    "pixels": "9743c41bca5ab4f140121f512333bed22b21143d4e689c6724b048a9603b637e",
+    "sha": "27ba374521a7e6e91cc8293d522aaf69e030e42b97842c2b9bbb1f27062a11ca",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.52.31.jpeg",
+    "dog": "Czaruś",
+    "pixels": "b1298e66cc2773403d8d31de6793146f3d6883a497a2fb8fb8813daa7772ee02",
+    "sha": "8fb3fdfe761d1ac83a11d094ff4f450581be6c71c1b52a88578650d70cf3d1e6",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.52.41.jpeg",
+    "dog": "Czaruś",
+    "pixels": "a9584e74e3344f94b1b333c3cea9c1771644f1815affb4db7b89b376cd53ec9c",
+    "sha": "0b8f4cad705b1341548a8669b6561a60537026f7c6eb036b073b07b04cdb0271",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.53.07.jpeg",
+    "dog": "Czaruś",
+    "pixels": "91a41ec0ef70ee3305e9b00be093c971ee5451ea27d7e018defcb36dd5d46fac",
+    "sha": "29d4aadc276007fa2b0cbb95b62492bd287367e8c9480111b5c2618fe573f5f2",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.57.36.jpeg",
+    "dog": "Haczi",
+    "pixels": "9881ff263b2085f774cf55731c6f3c9c5f24f0c68f6a93960fbdc596a1edd549",
+    "sha": "361825ca080648f51b0dbadd3d35f9637e2a320e2812eaf850b37e9750034118",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.57.48.jpeg",
+    "dog": "Haczi",
+    "pixels": "79d2e26a39f9d52b470389f96141beaaf29ef777e893c39bed3dd043154a433c",
+    "sha": "ba4c32bde25d3e678ba943d707228a484c5c8d6231b500ade4f7fcc1fb615892",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.57.56.jpeg",
+    "dog": "Haczi",
+    "pixels": "aa44827ad7e9e752e4a06d1b668b8d11fcc38a2bb1d9418fab150261db4b0fe0",
+    "sha": "1dcea0144b7ecf2612434de1c03d406f983e294ee467eb640eb9bfa17d24a152",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.58.08.jpeg",
+    "dog": "Haczi",
+    "pixels": "ac90bfa45eb58e9f02afec01c39d6fe352e858e724ee2b8b0f25bc54e3f87903",
+    "sha": "8fdfda3d6b68043429767bd1685b10a432f6e59d664ef8d1502733563ebae7f8",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.58.19.jpeg",
+    "dog": "Haczi",
+    "pixels": "784eedffbe225f96ab8519fe4d7c61bf249a7a464a8707a1d6c61496328d3306",
+    "sha": "ab8849597332e0be8907c3475ae6b286e767326f4f85273cde20e41f065ac0b1",
+    "status": "new",
+    "existing": null
+  },
+  {
+    "file": "WhatsApp Image 2026-10-07 at 20.58.35.jpeg",
+    "dog": "Haczi",
+    "pixels": "710d1ccd9b91cd438ad296c3f5306b37d4ac66b20a055dba3f6c60e154f0c555",
+    "sha": "57ff227499714398bf908620aa19a0e75891e1ffac6fbcc02c6756b2a2ca1a08",
+    "status": "new",
+    "existing": null
+  }
+]

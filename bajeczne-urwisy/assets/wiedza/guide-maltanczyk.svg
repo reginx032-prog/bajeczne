@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Maltese guide</title>
+  <desc id="desc">Soft white Maltese puppy in a clean home setting.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <rect x="92" y="118" width="616" height="288" rx="34" fill="#f1e7da"/>
+  <path d="M238 260c15-72 94-110 164-74 52-26 118-2 143 50 63 10 94 61 79 110-18 61-84 90-198 90-124 0-201-29-222-93-13-40 1-70 34-83z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M306 206c-34-45-94-10-78 51" fill="none" stroke="#2b2a25" stroke-width="9" stroke-linecap="round"/>
+  <path d="M523 212c45-38 97 7 69 61" fill="none" stroke="#2b2a25" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="364" cy="298" r="8" fill="#2b2a25"/>
+  <circle cx="454" cy="298" r="8" fill="#2b2a25"/>
+  <path d="M410 322c11 9 23 9 34 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <path d="M164 350c85 38 160 56 236 56s151-18 236-56" fill="none" stroke="#d6b890" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="610" cy="138" r="34" fill="#d6b890"/>
+  <circle cx="650" cy="138" r="22" fill="#e8d9c9"/>
+  <circle cx="190" cy="126" r="38" fill="#e8d9c9"/>
+</svg>

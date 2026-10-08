@@ -1,0 +1,5432 @@
+{
+  "photos": [
+    {
+      "id": 122,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-01.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        252,
+        240,
+        744,
+        992
+      ],
+      "x": 55.263,
+      "y": 39.474,
+      "scale": 1.6129,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-sunia-czarna.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-02.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        168,
+        176,
+        864,
+        1152
+      ],
+      "x": 50.0,
+      "y": 39.286,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 124,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-03.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        168,
+        192,
+        864,
+        1152
+      ],
+      "x": 50.0,
+      "y": 42.857,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 125,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-04.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        306,
+        184,
+        684,
+        912
+      ],
+      "x": 59.302,
+      "y": 26.744,
+      "scale": 1.75439,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 126,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-05.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        176,
+        792,
+        1056
+      ],
+      "x": 58.824,
+      "y": 32.353,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 127,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        330,
+        168,
+        780,
+        1040
+      ],
+      "x": 78.571,
+      "y": 30.0,
+      "scale": 1.53846,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 2."
+      }
+    },
+    {
+      "id": 128,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-07.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        144,
+        192,
+        816,
+        1088
+      ],
+      "x": 37.5,
+      "y": 37.5,
+      "scale": 1.47059,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 2."
+      }
+    },
+    {
+      "id": 129,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-08.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        336,
+        176,
+        816,
+        1088
+      ],
+      "x": 87.5,
+      "y": 34.375,
+      "scale": 1.47059,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 130,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-09.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        60,
+        208,
+        936,
+        1248
+      ],
+      "x": 22.727,
+      "y": 59.091,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 131,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-10.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        192,
+        912,
+        1216
+      ],
+      "x": 70.833,
+      "y": 50.0,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 132,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-11.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        192,
+        224,
+        912,
+        1216
+      ],
+      "x": 66.667,
+      "y": 58.333,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 133,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        288,
+        720,
+        960
+      ],
+      "x": 42.5,
+      "y": 45.0,
+      "scale": 1.66667,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 134,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-13.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        216,
+        208,
+        792,
+        1056
+      ],
+      "x": 52.941,
+      "y": 38.235,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-piesek-czarny.jpg"
+      ]
+    },
+    {
+      "id": 135,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-14.jpg",
+      "alt": "Czarny Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        240,
+        792,
+        1056
+      ],
+      "x": 50.0,
+      "y": 44.118,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 136,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-15.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        300,
+        176,
+        720,
+        960
+      ],
+      "x": 62.5,
+      "y": 27.5,
+      "scale": 1.66667,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 137,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-16.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        228,
+        176,
+        720,
+        960
+      ],
+      "x": 47.5,
+      "y": 27.5,
+      "scale": 1.66667,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 4."
+      }
+    },
+    {
+      "id": 138,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-17.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        156,
+        208,
+        744,
+        992
+      ],
+      "x": 34.211,
+      "y": 34.211,
+      "scale": 1.6129,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/chihuahua-2026/chihuahua-2026-19.jpg"
+      ]
+    },
+    {
+      "id": 139,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-18.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        192,
+        192,
+        744,
+        992
+      ],
+      "x": 42.105,
+      "y": 31.579,
+      "scale": 1.6129,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-sunia-czarna-podpalana.jpg"
+      ]
+    },
+    {
+      "id": 141,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-20.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        120,
+        176,
+        912,
+        1216
+      ],
+      "x": 41.667,
+      "y": 45.833,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 142,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-21.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        144,
+        208,
+        768,
+        1024
+      ],
+      "x": 33.333,
+      "y": 36.111,
+      "scale": 1.5625,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 143,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-22.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        224,
+        936,
+        1248
+      ],
+      "x": 77.273,
+      "y": 63.636,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 5."
+      }
+    },
+    {
+      "id": 144,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-23.jpg",
+      "alt": "Czarny podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        108,
+        128,
+        936,
+        1248
+      ],
+      "x": 40.909,
+      "y": 36.364,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 5."
+      }
+    },
+    {
+      "id": 145,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-24.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        252,
+        320,
+        912,
+        1216
+      ],
+      "x": 87.5,
+      "y": 83.333,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 146,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-25.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        132,
+        528,
+        696,
+        928
+      ],
+      "x": 26.19,
+      "y": 78.571,
+      "scale": 1.72414,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 147,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-26.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        90,
+        456,
+        780,
+        1040
+      ],
+      "x": 21.429,
+      "y": 81.429,
+      "scale": 1.53846,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 148,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        42,
+        408,
+        828,
+        1104
+      ],
+      "x": 11.29,
+      "y": 82.258,
+      "scale": 1.44928,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-piesek-niebieski-podpalany.jpg"
+      ]
+    },
+    {
+      "id": 149,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-28.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        48,
+        256,
+        840,
+        1120
+      ],
+      "x": 13.333,
+      "y": 53.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 150,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-29.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        24,
+        256,
+        840,
+        1120
+      ],
+      "x": 6.667,
+      "y": 53.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 151,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-30.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        156,
+        288,
+        792,
+        1056
+      ],
+      "x": 38.235,
+      "y": 52.941,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 152,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-31.jpg",
+      "alt": "Szary podpalany Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        272,
+        696,
+        928
+      ],
+      "x": 35.714,
+      "y": 40.476,
+      "scale": 1.72414,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 153,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-32.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        156,
+        256,
+        864,
+        1152
+      ],
+      "x": 46.429,
+      "y": 57.143,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 154,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-33.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        60,
+        0,
+        1128,
+        1504
+      ],
+      "x": 83.333,
+      "y": 0.0,
+      "scale": 1.06383,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 155,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-34.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        66,
+        376,
+        852,
+        1136
+      ],
+      "x": 18.966,
+      "y": 81.034,
+      "scale": 1.40845,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 6."
+      }
+    },
+    {
+      "id": 156,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-35.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        72,
+        320,
+        912,
+        1216
+      ],
+      "x": 25.0,
+      "y": 83.333,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-20260712-sunia-czekoladowa.jpg"
+      ]
+    },
+    {
+      "id": 157,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        198,
+        8,
+        996,
+        1328
+      ],
+      "x": 97.059,
+      "y": 2.941,
+      "scale": 1.20482,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 158,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-37.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        312,
+        96,
+        792,
+        1056
+      ],
+      "x": 76.471,
+      "y": 17.647,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 159,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        252,
+        32,
+        840,
+        1120
+      ],
+      "x": 70.0,
+      "y": 6.667,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 7."
+      }
+    },
+    {
+      "id": 160,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-39.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        360,
+        64,
+        840,
+        1120
+      ],
+      "x": 100.0,
+      "y": 13.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 7."
+      }
+    },
+    {
+      "id": 161,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-40.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        276,
+        192,
+        744,
+        992
+      ],
+      "x": 60.526,
+      "y": 31.579,
+      "scale": 1.6129,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 162,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-41.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        108,
+        288,
+        840,
+        1120
+      ],
+      "x": 30.0,
+      "y": 60.0,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-liliowy-dlugowlosy-home.jpg"
+      ]
+    },
+    {
+      "id": 163,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        192,
+        208,
+        840,
+        1120
+      ],
+      "x": 53.333,
+      "y": 43.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 164,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-43.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        276,
+        336,
+        768,
+        1024
+      ],
+      "x": 63.889,
+      "y": 58.333,
+      "scale": 1.5625,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 165,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-44.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        246,
+        376,
+        684,
+        912
+      ],
+      "x": 47.674,
+      "y": 54.651,
+      "scale": 1.75439,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 166,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        144,
+        336,
+        768,
+        1024
+      ],
+      "x": 33.333,
+      "y": 58.333,
+      "scale": 1.5625,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 167,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-46.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        240,
+        912,
+        1216
+      ],
+      "x": 62.5,
+      "y": 62.5,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 168,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-47.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        144,
+        912,
+        1216
+      ],
+      "x": 83.333,
+      "y": 37.5,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 169,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-48.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        282,
+        344,
+        756,
+        1008
+      ],
+      "x": 63.514,
+      "y": 58.108,
+      "scale": 1.5873,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 170,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-49.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        192,
+        336,
+        792,
+        1056
+      ],
+      "x": 47.059,
+      "y": 61.765,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 171,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-50.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        234,
+        312,
+        780,
+        1040
+      ],
+      "x": 55.714,
+      "y": 55.714,
+      "scale": 1.53846,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 172,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-51.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-czekoladowy-dlugowlosy-1.jpg"
+      ]
+    },
+    {
+      "id": 173,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-52.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        78,
+        312,
+        756,
+        1008
+      ],
+      "x": 17.568,
+      "y": 52.703,
+      "scale": 1.5873,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 174,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-53.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        324,
+        384,
+        744,
+        992
+      ],
+      "x": 71.053,
+      "y": 63.158,
+      "scale": 1.6129,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 175,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-54.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        312,
+        256,
+        768,
+        1024
+      ],
+      "x": 72.222,
+      "y": 44.444,
+      "scale": 1.5625,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 176,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        204,
+        160,
+        912,
+        1216
+      ],
+      "x": 70.833,
+      "y": 41.667,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 177,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        208,
+        816,
+        1088
+      ],
+      "x": 62.5,
+      "y": 40.625,
+      "scale": 1.47059,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 178,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-57.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        252,
+        272,
+        792,
+        1056
+      ],
+      "x": 61.765,
+      "y": 50.0,
+      "scale": 1.51515,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-niebieski-dlugowlosy.jpg"
+      ]
+    },
+    {
+      "id": 179,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        144,
+        64,
+        936,
+        1248
+      ],
+      "x": 54.545,
+      "y": 18.182,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 180,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-59.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        120,
+        128,
+        1056,
+        1408
+      ],
+      "x": 83.333,
+      "y": 66.667,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 181,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-60.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        78,
+        72,
+        1092,
+        1456
+      ],
+      "x": 72.222,
+      "y": 50.0,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 182,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-61.jpg",
+      "alt": "Szary Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        96,
+        64,
+        912,
+        1216
+      ],
+      "x": 33.333,
+      "y": 16.667,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 183,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-62.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        96,
+        192,
+        864,
+        1152
+      ],
+      "x": 28.571,
+      "y": 42.857,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 184,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-63.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        192,
+        256,
+        696,
+        928
+      ],
+      "x": 38.095,
+      "y": 38.095,
+      "scale": 1.72414,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-czekoladowy-dlugowlosy-2.jpg"
+      ]
+    },
+    {
+      "id": 185,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-64.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        168,
+        336,
+        672,
+        896
+      ],
+      "x": 31.818,
+      "y": 47.727,
+      "scale": 1.78571,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 186,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-65.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        216,
+        144,
+        816,
+        1088
+      ],
+      "x": 56.25,
+      "y": 28.125,
+      "scale": 1.47059,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 1."
+      }
+    },
+    {
+      "id": 187,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg",
+      "alt": "Czekoladowy Chihuahua na białym kocu w ogrodzie",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        72,
+        320,
+        864,
+        1152
+      ],
+      "x": 21.429,
+      "y": 71.429,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "requestedRemoval": true,
+        "reason": "Usunięte z galerii na prośbę właściciela, zdjęcie wskazane na załączniku nr 1."
+      }
+    },
+    {
+      "id": 188,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg",
+      "alt": "Szary Chihuahua na zdjęciu z codziennych chwil",
+      "width": 901,
+      "height": 1600,
+      "crop": [
+        0,
+        263.33333333333337,
+        901,
+        1201.3333333333333
+      ],
+      "x": 50,
+      "y": 66.054,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/breed-chihuahua-longhair-current.jpeg"
+      ]
+    },
+    {
+      "id": 189,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg",
+      "alt": "Szary Chihuahua na zdjęciu z codziennych chwil",
+      "width": 900,
+      "height": 1600,
+      "crop": [
+        45,
+        340,
+        810,
+        1080
+      ],
+      "x": 50.0,
+      "y": 65.385,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/rasy-chihuahua-nowe.jpeg"
+      ]
+    },
+    {
+      "id": 190,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg",
+      "alt": "Szary Chihuahua na zdjęciu z codziennych chwil",
+      "width": 900,
+      "height": 1600,
+      "crop": [
+        0,
+        72,
+        900,
+        1200
+      ],
+      "x": 50,
+      "y": 18.0,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 191,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg",
+      "alt": "Szary Chihuahua na zdjęciu z codziennych chwil",
+      "width": 900,
+      "height": 1600,
+      "crop": [
+        0,
+        264,
+        900,
+        1200
+      ],
+      "x": 50,
+      "y": 66.0,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 2,
+      "breed": "chihuahua",
+      "src": "assets/photos/109177774_933765513753492_776950081133904014_n.jpg",
+      "alt": "Trzy szczenięta Chihuahua na różowym kocu",
+      "width": 1488,
+      "height": 1984,
+      "crop": [
+        0,
+        0,
+        1488.0,
+        1984.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 3,
+      "breed": "chihuahua",
+      "src": "assets/photos/109251050_933765553753488_3216155488452036126_n.jpg",
+      "alt": "Szczenięta Chihuahua przytulone na kocu",
+      "width": 1488,
+      "height": 1984,
+      "crop": [
+        0,
+        0,
+        1488.0,
+        1984.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 4,
+      "breed": "chihuahua",
+      "src": "assets/photos/156982928_1104215616708480_5352838493323930988_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 720,
+      "height": 960,
+      "crop": [
+        21.600000000000023,
+        0,
+        662.4,
+        883.1999999999999
+      ],
+      "x": 37.5,
+      "y": 0.0,
+      "scale": 1.08696,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 5,
+      "breed": "chihuahua",
+      "src": "assets/photos/157334406_1104216133375095_3981433880521684210_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 720,
+      "height": 960,
+      "crop": [
+        18.0,
+        0,
+        669.6,
+        892.8000000000001
+      ],
+      "x": 35.714,
+      "y": 0.0,
+      "scale": 1.07527,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 14,
+      "breed": "chihuahua",
+      "src": "assets/photos/475784663_1216475600092622_6571163688557743362_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        15.360000000000014,
+        40.960000000000036,
+        1443.84,
+        1925.12
+      ],
+      "x": 16.667,
+      "y": 33.333,
+      "scale": 1.06383,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 17,
+      "breed": "chihuahua",
+      "src": "assets/photos/476096102_1216475556759293_559008881203537534_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        15.360000000000014,
+        61.440000000000055,
+        1443.84,
+        1925.12
+      ],
+      "x": 16.667,
+      "y": 50.0,
+      "scale": 1.06383,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 19,
+      "breed": "chihuahua",
+      "src": "assets/photos/480228128_1223794489360733_3367803974597628097_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1488,
+      "height": 2000,
+      "crop": [
+        148.79999999999995,
+        147.03999999999996,
+        1309.44,
+        1745.92
+      ],
+      "x": 83.333,
+      "y": 57.872,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 26,
+      "breed": "chihuahua",
+      "src": "assets/photos/484651163_1248104880263027_8563017201825524509_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        38.40000000000009,
+        174.08000000000004,
+        1305.6,
+        1740.8
+      ],
+      "x": 16.667,
+      "y": 56.667,
+      "scale": 1.17647,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-6.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "breed": "chihuahua",
+      "src": "assets/photos/484790390_1248104926929689_3466688219388002954_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        15.360000000000014,
+        163.84000000000003,
+        1320.96,
+        1761.28
+      ],
+      "x": 7.143,
+      "y": 57.143,
+      "scale": 1.16279,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g7.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "breed": "chihuahua",
+      "src": "assets/photos/484852551_1248104960263019_9110853340824011690_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1125,
+      "height": 1500,
+      "crop": [
+        45.0,
+        0,
+        1035.0,
+        1380.0
+      ],
+      "x": 50.0,
+      "y": 0.0,
+      "scale": 1.08696,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g8.jpg",
+        "assets/photos/gallery-chihuahua-08.png"
+      ]
+    },
+    {
+      "id": 29,
+      "breed": "chihuahua",
+      "src": "assets/photos/484901626_1248104853596363_4029686190301572041_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1125,
+      "height": 1500,
+      "crop": [
+        22.5,
+        0,
+        1080.0,
+        1440.0
+      ],
+      "x": 50.0,
+      "y": 0.0,
+      "scale": 1.04167,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g9.jpg",
+        "assets/photos/szczeniak-2.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "breed": "chihuahua",
+      "src": "assets/photos/484988801_1251898713216977_8625989847415697886_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        0,
+        61.440000000000055,
+        1443.84,
+        1925.12
+      ],
+      "x": 0.0,
+      "y": 50.0,
+      "scale": 1.06383,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 31,
+      "breed": "chihuahua",
+      "src": "assets/photos/485306216_1251898689883646_2823692272526144683_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        202.5,
+        190.0,
+        1125.0,
+        1500.0
+      ],
+      "x": 54.0,
+      "y": 38.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 32,
+      "breed": "chihuahua",
+      "src": "assets/photos/485366262_1251898489883666_3656723322342899162_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        60.0,
+        0,
+        1320.0,
+        1760.0
+      ],
+      "x": 33.333,
+      "y": 0.0,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-20.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "breed": "chihuahua",
+      "src": "assets/photos/485399601_1251898603216988_5875436726425093319_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        150.0,
+        100.0,
+        1200.0,
+        1600.0
+      ],
+      "x": 50.0,
+      "y": 25.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 34,
+      "breed": "chihuahua",
+      "src": "assets/photos/486046152_1251898606550321_4792301369703912929_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        90.0,
+        160.0,
+        1170.0,
+        1560.0
+      ],
+      "x": 27.273,
+      "y": 36.364,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 36,
+      "breed": "chihuahua",
+      "src": "assets/photos/488443625_1268229991583849_9037559751575340253_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        187.5,
+        250.0,
+        1125.0,
+        1500.0
+      ],
+      "x": 50.0,
+      "y": 50.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-15.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "breed": "chihuahua",
+      "src": "assets/photos/488537149_1266511051755743_7664485313944039998_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        52.5,
+        0,
+        1425.0,
+        1900.0
+      ],
+      "x": 70.0,
+      "y": 0.0,
+      "scale": 1.05263,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 39,
+      "breed": "chihuahua",
+      "src": "assets/photos/488713637_1268229688250546_7216468663853245921_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        225.0,
+        280.0,
+        1110.0,
+        1480.0
+      ],
+      "x": 57.692,
+      "y": 53.846,
+      "scale": 1.35135,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 40,
+      "breed": "chihuahua",
+      "src": "assets/photos/488748327_1268229801583868_155401014398620867_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        187.5,
+        290.0,
+        1125.0,
+        1500.0
+      ],
+      "x": 50.0,
+      "y": 58.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 42,
+      "breed": "chihuahua",
+      "src": "assets/photos/488885820_1268229828250532_6816131817225718469_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        135.0,
+        240.0,
+        1140.0,
+        1520.0
+      ],
+      "x": 37.5,
+      "y": 50.0,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 44,
+      "breed": "chihuahua",
+      "src": "assets/photos/488908612_1268229804917201_7010107746004415560_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        97.5,
+        170.0,
+        1215.0,
+        1620.0
+      ],
+      "x": 34.211,
+      "y": 44.737,
+      "scale": 1.23457,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 46,
+      "breed": "chihuahua",
+      "src": "assets/photos/489133723_1271691781237670_2183116230785506436_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        150.0,
+        100.0,
+        1200.0,
+        1600.0
+      ],
+      "x": 50.0,
+      "y": 25.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 47,
+      "breed": "chihuahua",
+      "src": "assets/photos/489310809_1271691967904318_1754451434826555088_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        195.0,
+        280.0,
+        1110.0,
+        1480.0
+      ],
+      "x": 50.0,
+      "y": 53.846,
+      "scale": 1.35135,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 48,
+      "breed": "chihuahua",
+      "src": "assets/photos/489447719_1271691971237651_8512610079039111112_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        270.0,
+        300.0,
+        1080.0,
+        1440.0
+      ],
+      "x": 64.286,
+      "y": 53.571,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-16.jpg",
+        "assets/photos/szczeniak-3.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "breed": "chihuahua",
+      "src": "assets/photos/489491649_1271692257904289_1295864117261188086_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        112.5,
+        110.0,
+        1245.0,
+        1660.0
+      ],
+      "x": 44.118,
+      "y": 32.353,
+      "scale": 1.20482,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 50,
+      "breed": "chihuahua",
+      "src": "assets/photos/489580061_1272918727781642_6837771565290625659_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        176.6400000000001,
+        92.15999999999997,
+        1305.6,
+        1740.8
+      ],
+      "x": 76.667,
+      "y": 30.0,
+      "scale": 1.17647,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g14.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "breed": "chihuahua",
+      "src": "assets/photos/489627495_1272918621114986_757312156392519739_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        153.60000000000002,
+        204.80000000000007,
+        1259.52,
+        1679.36
+      ],
+      "x": 55.556,
+      "y": 55.556,
+      "scale": 1.21951,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 52,
+      "breed": "chihuahua",
+      "src": "assets/photos/489701626_1271691977904317_9129170688836266515_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        255.0,
+        160.0,
+        1080.0,
+        1440.0
+      ],
+      "x": 60.714,
+      "y": 28.571,
+      "scale": 1.38889,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-17.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "breed": "chihuahua",
+      "src": "assets/photos/489701638_1272918794448302_4524382954116847167_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        176.64,
+        256.0,
+        1182.72,
+        1576.96
+      ],
+      "x": 50.0,
+      "y": 54.348,
+      "scale": 1.2987,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 54,
+      "breed": "chihuahua",
+      "src": "assets/photos/489790182_1272918457781669_8818425022511839190_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        168.96000000000004,
+        102.40000000000009,
+        1259.52,
+        1679.36
+      ],
+      "x": 61.111,
+      "y": 27.778,
+      "scale": 1.21951,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-14.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "breed": "chihuahua",
+      "src": "assets/photos/489811808_1272918554448326_2036752782619109876_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        99.84000000000003,
+        71.67999999999995,
+        1336.32,
+        1781.76
+      ],
+      "x": 50.0,
+      "y": 26.923,
+      "scale": 1.14943,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-13.jpg",
+        "assets/photos/gallery-chihuahua-13.png"
+      ]
+    },
+    {
+      "id": 56,
+      "breed": "chihuahua",
+      "src": "assets/photos/489828751_1272918637781651_4247850126361931538_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        122.88,
+        143.36,
+        1290.24,
+        1720.32
+      ],
+      "x": 50.0,
+      "y": 43.75,
+      "scale": 1.19048,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 57,
+      "breed": "chihuahua",
+      "src": "assets/photos/489829240_1272918567781658_5436542112072001525_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        145.92000000000007,
+        194.56000000000006,
+        1305.6,
+        1740.8
+      ],
+      "x": 63.333,
+      "y": 63.333,
+      "scale": 1.17647,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 58,
+      "breed": "chihuahua",
+      "src": "assets/photos/489907754_1271692221237626_444485921659203308_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        23.039999999999964,
+        10.239999999999895,
+        1459.2,
+        1945.6000000000001
+      ],
+      "x": 30.0,
+      "y": 10.0,
+      "scale": 1.05263,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 59,
+      "breed": "chihuahua",
+      "src": "assets/photos/489954000_1272918664448315_563711046151186973_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        176.64,
+        256.0,
+        1182.72,
+        1576.96
+      ],
+      "x": 50.0,
+      "y": 54.348,
+      "scale": 1.2987,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 60,
+      "breed": "chihuahua",
+      "src": "assets/photos/489962157_1272918494448332_1289943747095613921_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        192.0,
+        276.48,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 54.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 61,
+      "breed": "chihuahua",
+      "src": "assets/photos/489992056_1275229470883901_5362771468734835443_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        105.0,
+        0,
+        1320.0,
+        1760.0
+      ],
+      "x": 58.333,
+      "y": 0.0,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-18.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "breed": "chihuahua",
+      "src": "assets/photos/490038714_1272918451115003_7481821497400786467_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        107.51999999999998,
+        163.84000000000003,
+        1259.52,
+        1679.36
+      ],
+      "x": 38.889,
+      "y": 44.444,
+      "scale": 1.21951,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 63,
+      "breed": "chihuahua",
+      "src": "assets/photos/490114158_1272918447781670_5900879561144763267_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        115.20000000000005,
+        10.240000000000009,
+        1367.04,
+        1822.72
+      ],
+      "x": 68.182,
+      "y": 4.545,
+      "scale": 1.1236,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 64,
+      "breed": "chihuahua",
+      "src": "assets/photos/490172297_1272918787781636_7213938634102799747_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        184.32000000000005,
+        102.39999999999998,
+        1290.24,
+        1720.32
+      ],
+      "x": 75.0,
+      "y": 31.25,
+      "scale": 1.19048,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 65,
+      "breed": "chihuahua",
+      "src": "assets/photos/490282329_1275228444217337_4347599398013677326_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        82.5,
+        50.0,
+        1365.0,
+        1820.0
+      ],
+      "x": 61.111,
+      "y": 27.778,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-11.jpg"
+      ]
+    },
+    {
+      "id": 66,
+      "breed": "chihuahua",
+      "src": "assets/photos/490333567_1275229427550572_4525606891269937158_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        127.5,
+        10.0,
+        1365.0,
+        1820.0
+      ],
+      "x": 94.444,
+      "y": 5.556,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 67,
+      "breed": "chihuahua",
+      "src": "assets/photos/490344609_1272918481115000_6855739180518252053_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        184.32000000000005,
+        122.88,
+        1259.52,
+        1679.36
+      ],
+      "x": 66.667,
+      "y": 33.333,
+      "scale": 1.21951,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 68,
+      "breed": "chihuahua",
+      "src": "assets/photos/490447840_1272918717781643_8155326080430618297_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        107.51999999999998,
+        40.960000000000036,
+        1351.68,
+        1802.24
+      ],
+      "x": 58.333,
+      "y": 16.667,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g15.jpg",
+        "assets/photos/gallery-chihuahua-09.png"
+      ]
+    },
+    {
+      "id": 69,
+      "breed": "chihuahua",
+      "src": "assets/photos/490473441_1272918667781648_3983228385954312054_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        207.36,
+        215.03999999999996,
+        1182.72,
+        1576.96
+      ],
+      "x": 58.696,
+      "y": 45.652,
+      "scale": 1.2987,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 70,
+      "breed": "chihuahua",
+      "src": "assets/photos/490505339_1275229594217222_1333430994709730131_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        90.0,
+        0,
+        1380.0,
+        1840.0
+      ],
+      "x": 75.0,
+      "y": 0.0,
+      "scale": 1.08696,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 71,
+      "breed": "chihuahua",
+      "src": "assets/photos/490536121_1275229450883903_7782426785705162509_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        90.0,
+        0,
+        1350.0,
+        1800.0
+      ],
+      "x": 60.0,
+      "y": 0.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-12.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "breed": "chihuahua",
+      "src": "assets/photos/490967659_1275228427550672_6064588006495369645_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        120.0,
+        20.0,
+        1260.0,
+        1680.0
+      ],
+      "x": 50.0,
+      "y": 6.25,
+      "scale": 1.19048,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-12.png"
+      ]
+    },
+    {
+      "id": 73,
+      "breed": "chihuahua",
+      "src": "assets/photos/491179546_1275229434217238_4503926183466265987_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        97.5,
+        30.0,
+        1395.0,
+        1860.0
+      ],
+      "x": 92.857,
+      "y": 21.429,
+      "scale": 1.07527,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g16.jpg"
+      ]
+    },
+    {
+      "id": 81,
+      "breed": "chihuahua",
+      "src": "assets/photos/504214486_1322287089511472_3444002349246386324_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        195.0,
+        280.0,
+        1170.0,
+        1560.0
+      ],
+      "x": 59.091,
+      "y": 63.636,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-10.jpg"
+      ]
+    },
+    {
+      "id": 82,
+      "breed": "chihuahua",
+      "src": "assets/photos/504244753_1322286892844825_4729437180205805690_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        210.0,
+        300.0,
+        1170.0,
+        1560.0
+      ],
+      "x": 63.636,
+      "y": 68.182,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-7.jpg"
+      ]
+    },
+    {
+      "id": 83,
+      "breed": "chihuahua",
+      "src": "assets/photos/504803071_1322287186178129_8734170098260128700_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        210.0,
+        220.0,
+        1140.0,
+        1520.0
+      ],
+      "x": 58.333,
+      "y": 45.833,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/chihuahua.jpg",
+        "assets/photos/hero-8.jpg"
+      ]
+    },
+    {
+      "id": 84,
+      "breed": "chihuahua",
+      "src": "assets/photos/505087358_1322286859511495_2693859242788865148_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        157.5,
+        170.0,
+        1215.0,
+        1620.0
+      ],
+      "x": 55.263,
+      "y": 44.737,
+      "scale": 1.23457,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g10.jpg"
+      ]
+    },
+    {
+      "id": 85,
+      "breed": "chihuahua",
+      "src": "assets/photos/505308144_1322286749511506_2821386852108425156_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        105.0,
+        40.0,
+        1320.0,
+        1760.0
+      ],
+      "x": 58.333,
+      "y": 16.667,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-9.jpg"
+      ]
+    },
+    {
+      "id": 86,
+      "breed": "chihuahua",
+      "src": "assets/photos/526788534_1369306124809568_1253207636055124360_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        156.0,
+        240.0,
+        912.0,
+        1216.0
+      ],
+      "x": 54.167,
+      "y": 62.5,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g11.jpg"
+      ]
+    },
+    {
+      "id": 87,
+      "breed": "chihuahua",
+      "src": "assets/photos/526974887_1369306248142889_3400494774149547772_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200.0,
+        1600.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 88,
+      "breed": "chihuahua",
+      "src": "assets/photos/527493391_1369306251476222_6211156469726755510_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        90.0,
+        160.0,
+        1320.0,
+        1760.0
+      ],
+      "x": 50.0,
+      "y": 66.667,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 90,
+      "breed": "chihuahua",
+      "src": "assets/photos/536274565_1390004786073035_6071806759332258964_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1178,
+      "height": 1799,
+      "crop": [
+        53.00999999999999,
+        63.48333333333335,
+        1119.1,
+        1492.1333333333332
+      ],
+      "x": 90.0,
+      "y": 20.688,
+      "scale": 1.05263,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 91,
+      "breed": "chihuahua",
+      "src": "assets/photos/537804444_1390775519329295_1587580822577337016_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 924,
+      "height": 982,
+      "crop": [
+        102.99000000000001,
+        0,
+        736.5,
+        982.0
+      ],
+      "x": 54.928,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-19.jpg"
+      ]
+    },
+    {
+      "id": 92,
+      "breed": "chihuahua",
+      "src": "assets/photos/538064564_1390004819406365_5038255944345396319_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1236,
+      "height": 1577,
+      "crop": [
+        6.17999999999995,
+        5.699999999999932,
+        1174.2,
+        1565.6000000000001
+      ],
+      "x": 10.0,
+      "y": 50.0,
+      "scale": 1.00728,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-07.png"
+      ]
+    },
+    {
+      "id": 93,
+      "breed": "chihuahua",
+      "src": "assets/photos/538232579_1390005016073012_5171453458783280516_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1113,
+      "height": 1734,
+      "crop": [
+        0,
+        142.34000000000003,
+        1113.0,
+        1484.0
+      ],
+      "x": 50,
+      "y": 56.936,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 94,
+      "breed": "chihuahua",
+      "src": "assets/photos/539226007_1390775499329297_3738638409918766941_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 899,
+      "height": 1195,
+      "crop": [
+        1.375,
+        0,
+        896.25,
+        1195.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 95,
+      "breed": "chihuahua",
+      "src": "assets/photos/542755058_1401273048279542_6641547856909562432_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        97.5,
+        30.0,
+        1335.0,
+        1780.0
+      ],
+      "x": 59.091,
+      "y": 13.636,
+      "scale": 1.1236,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g12.jpg"
+      ]
+    },
+    {
+      "id": 96,
+      "breed": "chihuahua",
+      "src": "assets/photos/543159896_1401272991612881_8275139215281253973_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1421,
+      "height": 1724,
+      "crop": [
+        120.78499999999997,
+        134.26,
+        1065.75,
+        1421.0
+      ],
+      "x": 34.0,
+      "y": 44.31,
+      "scale": 1.21323,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-06.png"
+      ]
+    },
+    {
+      "id": 97,
+      "breed": "chihuahua",
+      "src": "assets/photos/543362538_1401273401612840_5830024246162277237_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        75.0,
+        20.0,
+        1350.0,
+        1800.0
+      ],
+      "x": 50.0,
+      "y": 10.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 98,
+      "breed": "chihuahua",
+      "src": "assets/photos/610899043_1511068977299948_5227123387494787991_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        138.24,
+        143.36,
+        1351.68,
+        1802.24
+      ],
+      "x": 75.0,
+      "y": 58.333,
+      "scale": 1.13636,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 99,
+      "breed": "chihuahua",
+      "src": "assets/photos/611151084_1511074587299387_8275405283725469701_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        52.5,
+        0,
+        1365.0,
+        1820.0
+      ],
+      "x": 38.889,
+      "y": 0.0,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 100,
+      "breed": "chihuahua",
+      "src": "assets/photos/611154306_1511074510632728_5020156085682426005_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        52.5,
+        0,
+        1365.0,
+        1820.0
+      ],
+      "x": 38.889,
+      "y": 0.0,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 101,
+      "breed": "chihuahua",
+      "src": "assets/photos/611255763_1511073733966139_1783780094848168773_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        75.0,
+        0,
+        1380.0,
+        1840.0
+      ],
+      "x": 62.5,
+      "y": 0.0,
+      "scale": 1.08696,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-02.png"
+      ]
+    },
+    {
+      "id": 102,
+      "breed": "chihuahua",
+      "src": "assets/photos/611630546_1511074357299410_7458771629872526143_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        135.0,
+        140.0,
+        1260.0,
+        1680.0
+      ],
+      "x": 56.25,
+      "y": 43.75,
+      "scale": 1.19048,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 103,
+      "breed": "chihuahua",
+      "src": "assets/photos/611777987_1511068973966615_285163598778085980_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        0,
+        0,
+        1536.0,
+        2048.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 104,
+      "breed": "chihuahua",
+      "src": "assets/photos/611885701_1511074460632733_7088258827418745004_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        82.5,
+        50.0,
+        1365.0,
+        1820.0
+      ],
+      "x": 61.111,
+      "y": 27.778,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-04.png"
+      ]
+    },
+    {
+      "id": 105,
+      "breed": "chihuahua",
+      "src": "assets/photos/612247831_1511074257299420_3827847997141554074_n (1).jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        90.0,
+        40.0,
+        1350.0,
+        1800.0
+      ],
+      "x": 60.0,
+      "y": 20.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/612247831_1511074257299420_3827847997141554074_n.jpg",
+        "assets/photos/gallery-chihuahua-03.png"
+      ]
+    },
+    {
+      "id": 107,
+      "breed": "chihuahua",
+      "src": "assets/photos/612351559_1511074700632709_2543231205588083959_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        82.5,
+        0,
+        1365.0,
+        1820.0
+      ],
+      "x": 61.111,
+      "y": 0.0,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 108,
+      "breed": "chihuahua",
+      "src": "assets/photos/612549276_1511074133966099_5372163501494010099_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        172.5,
+        230.0,
+        1215.0,
+        1620.0
+      ],
+      "x": 60.526,
+      "y": 60.526,
+      "scale": 1.23457,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 109,
+      "breed": "chihuahua",
+      "src": "assets/photos/612919005_1511073997299446_5618182143922993638_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        52.5,
+        0,
+        1365.0,
+        1820.0
+      ],
+      "x": 38.889,
+      "y": 0.0,
+      "scale": 1.0989,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-05.png"
+      ]
+    },
+    {
+      "id": 110,
+      "breed": "chihuahua",
+      "src": "assets/photos/650343681_1570445234695655_4588050750782512118_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        0,
+        0,
+        1500.0,
+        2000.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 111,
+      "breed": "chihuahua",
+      "src": "assets/photos/650429466_1570445091362336_8130250957828745456_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        0,
+        0,
+        1500.0,
+        2000.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 112,
+      "breed": "chihuahua",
+      "src": "assets/photos/650674370_1570445324695646_3258418893715719719_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        97.5,
+        90.0,
+        1335.0,
+        1780.0
+      ],
+      "x": 59.091,
+      "y": 40.909,
+      "scale": 1.1236,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 113,
+      "breed": "chihuahua",
+      "src": "assets/photos/650797406_1570444528029059_101745607235975657_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 720,
+      "height": 960,
+      "crop": [
+        144.0,
+        96.0,
+        547.2,
+        729.6
+      ],
+      "x": 83.333,
+      "y": 41.667,
+      "scale": 1.31579,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-wafel-sable.png",
+        "assets/photos/puppy-wafel.png"
+      ]
+    },
+    {
+      "id": 114,
+      "breed": "chihuahua",
+      "src": "assets/photos/651270196_1570445024695676_6817670304340662570_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        0,
+        0,
+        1500.0,
+        2000.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/gallery-chihuahua-01.png"
+      ]
+    },
+    {
+      "id": 115,
+      "breed": "chihuahua",
+      "src": "assets/photos/651311966_1570444738029038_520349337282535159_n.jpg",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 720,
+      "height": 960,
+      "crop": [
+        68.40000000000003,
+        81.60000000000002,
+        626.4,
+        835.1999999999999
+      ],
+      "x": 73.077,
+      "y": 65.385,
+      "scale": 1.14943,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-wedel-sable.png",
+        "assets/photos/puppy-wedel.png"
+      ]
+    },
+    {
+      "id": 116,
+      "breed": "chihuahua",
+      "src": "assets/photos/727393942_1659166642490180_252766499684281225_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1170,
+      "height": 1170,
+      "crop": [
+        169.64999999999998,
+        0,
+        877.5,
+        1170.0
+      ],
+      "x": 58.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/puppy-amorek-blue.png",
+        "assets/photos/puppy-amorek.png"
+      ]
+    },
+    {
+      "id": 117,
+      "breed": "chihuahua",
+      "src": "assets/photos/728544139_1659166395823538_1423514743156249756_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1170,
+      "height": 1170,
+      "crop": [
+        157.95000000000005,
+        0,
+        877.5,
+        1170.0
+      ],
+      "x": 54.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 118,
+      "breed": "chihuahua",
+      "src": "assets/photos/728637839_1659166532490191_7087925631770117153_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1170,
+      "height": 1170,
+      "crop": [
+        157.95000000000005,
+        0,
+        877.5,
+        1170.0
+      ],
+      "x": 54.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 119,
+      "breed": "chihuahua",
+      "src": "assets/photos/728772543_1659166029156908_782442663074198617_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1170,
+      "height": 1296,
+      "crop": [
+        111.15000000000003,
+        0,
+        971.1,
+        1294.8
+      ],
+      "x": 55.882,
+      "y": 0.0,
+      "scale": 1.00093,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 120,
+      "breed": "chihuahua",
+      "src": "assets/photos/729540240_1659166269156884_2528906474867616237_n.jpg",
+      "alt": "Chihuahua na rękach opiekuna",
+      "width": 1170,
+      "height": 1506,
+      "crop": [
+        58.5,
+        5.279999999999973,
+        1076.4,
+        1435.2
+      ],
+      "x": 62.5,
+      "y": 7.458,
+      "scale": 1.04933,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 196,
+      "breed": "chihuahua",
+      "src": "assets/photos/g13.jpg",
+      "alt": "Cztery szczenięta Chihuahua odpoczywające razem",
+      "width": 1984,
+      "height": 1488,
+      "crop": [
+        434.0,
+        0,
+        1116.0,
+        1488.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": [
+        "assets/photos/108812881_933764947086882_1539944420686286591_n.jpg"
+      ]
+    },
+    {
+      "id": 259,
+      "breed": "chihuahua",
+      "src": "assets/photos/gallery-chihuahua-10.png",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 704,
+      "height": 585,
+      "crop": [
+        132.625,
+        0,
+        438.75,
+        585.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 260,
+      "breed": "chihuahua",
+      "src": "assets/photos/gallery-chihuahua-11.png",
+      "alt": "Chihuahua z rodzinnej hodowli Bajeczne Urwisy",
+      "width": 693,
+      "height": 649,
+      "crop": [
+        103.125,
+        0,
+        486.75,
+        649.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 7,
+      "breed": "maltanczyki",
+      "src": "assets/photos/43049781_514831288980252_1476606341865799680_n.jpg",
+      "alt": "Biały maltańczyk wśród jesiennych liści",
+      "width": 1984,
+      "height": 1488,
+      "crop": [
+        436.48,
+        3.306666666666729,
+        1111.04,
+        1481.3866666666665
+      ],
+      "x": 50.0,
+      "y": 50.0,
+      "scale": 1.00446,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "representedBy": 8,
+        "reason": "Na życzenie właściciela z trzech podobnych portretów pozostaje środkowy."
+      }
+    },
+    {
+      "id": 8,
+      "breed": "maltanczyki",
+      "src": "assets/photos/43104932_514831618980219_2641463796811431936_n.jpg",
+      "alt": "Maltańczyk na rękach w ogrodzie",
+      "width": 1984,
+      "height": 1488,
+      "crop": [
+        555.52,
+        3.306666666666729,
+        1111.04,
+        1481.3866666666665
+      ],
+      "x": 63.636,
+      "y": 50.0,
+      "scale": 1.00446,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 9,
+      "breed": "maltanczyki",
+      "src": "assets/photos/43141148_514831662313548_5671521120575029248_n.jpg",
+      "alt": "Biały maltańczyk na tle zieleni",
+      "width": 1984,
+      "height": 1488,
+      "crop": [
+        476.1600000000001,
+        3.306666666666729,
+        1111.04,
+        1481.3866666666665
+      ],
+      "x": 54.545,
+      "y": 50.0,
+      "scale": 1.00446,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "representedBy": 8,
+        "reason": "Na życzenie właściciela z trzech podobnych portretów pozostaje środkowy."
+      }
+    },
+    {
+      "id": 10,
+      "breed": "maltanczyki",
+      "src": "assets/photos/460805067_1974704232992943_336144858035212783_n.jpg",
+      "alt": "Dwa białe maltańczyki razem w domu",
+      "width": 1536,
+      "height": 1536,
+      "crop": [
+        192.0,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": [
+        "assets/photos/g4.jpg",
+        "assets/photos/o-hodowli.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "breed": "maltanczyki",
+      "src": "assets/photos/468468374_2029317750864924_8435673145716124769_n.jpg",
+      "alt": "Trzy szczenięta maltańczyka na miękkim kocu",
+      "width": 930,
+      "height": 1240,
+      "crop": [
+        0,
+        0,
+        930.0,
+        1240.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": []
+    },
+    {
+      "id": 12,
+      "breed": "maltanczyki",
+      "src": "assets/photos/472532809_2063767957419903_3869060214033387532_n.jpg",
+      "alt": "Maltańczyk na brzoskwiniowym kocu",
+      "width": 558,
+      "height": 744,
+      "crop": [
+        44.640000000000015,
+        74.39999999999998,
+        502.2,
+        669.6
+      ],
+      "x": 80.0,
+      "y": 100.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-5.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "breed": "maltanczyki",
+      "src": "assets/photos/472689220_2063767784086587_3804243150450103650_n.jpg",
+      "alt": "Odpoczywający maltańczyk na brzoskwiniowym kocu",
+      "width": 558,
+      "height": 744,
+      "crop": [
+        44.640000000000015,
+        74.39999999999998,
+        502.2,
+        669.6
+      ],
+      "x": 80.0,
+      "y": 100.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [],
+      "galleryOmission": {
+        "representedBy": 12,
+        "reason": "Niemal identyczne ujęcie tego samego maluszka na brzoskwiniowym kocu."
+      }
+    },
+    {
+      "id": 15,
+      "breed": "maltanczyki",
+      "src": "assets/photos/475797145_1216475576759291_625898511577443868_n.jpg",
+      "alt": "Maltańczyk w ogrodzie przy zabawkach",
+      "width": 1125,
+      "height": 1500,
+      "crop": [
+        45.0,
+        165.0,
+        945.0,
+        1260.0
+      ],
+      "x": 25.0,
+      "y": 68.75,
+      "scale": 1.19048,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 16,
+      "breed": "maltanczyki",
+      "src": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg",
+      "alt": "Maltańczyk obok donicy z kwiatami",
+      "width": 1125,
+      "height": 1500,
+      "crop": [
+        0,
+        150.0,
+        1012.5,
+        1350.0
+      ],
+      "x": 0.0,
+      "y": 100.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g5.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "breed": "maltanczyki",
+      "src": "assets/photos/476098651_1216475933425922_8131518548611047942_n.jpg",
+      "alt": "Maltańczyk trzymany na rękach w ogrodzie",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        92.15999999999997,
+        0,
+        1320.96,
+        1761.28
+      ],
+      "x": 42.857,
+      "y": 0.0,
+      "scale": 1.16279,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/szczeniak-1.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "breed": "maltanczyki",
+      "src": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg",
+      "alt": "Dwa maltańczyki z pomarańczową piłeczką",
+      "width": 1536,
+      "height": 1536,
+      "crop": [
+        192.0,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": [
+        "assets/photos/482978515_1245861713820677_1475201332155458575_n.jpg",
+        "assets/photos/hero-3.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "breed": "maltanczyki",
+      "src": "assets/photos/483568862_1245861953820653_7734820015284714015_n.jpg",
+      "alt": "Maltańczyk leżący obok pomarańczowej piłeczki",
+      "width": 1080,
+      "height": 1080,
+      "crop": [
+        140.40000000000003,
+        43.200000000000045,
+        777.6,
+        1036.8
+      ],
+      "x": 46.429,
+      "y": 100.0,
+      "scale": 1.04167,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 23,
+      "breed": "maltanczyki",
+      "src": "assets/photos/484069643_1245861723820676_3286305616491726902_n.jpg",
+      "alt": "Dwa maltańczyki podczas zabawy w domu",
+      "width": 1536,
+      "height": 1536,
+      "crop": [
+        192.0,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": []
+    },
+    {
+      "id": 24,
+      "breed": "maltanczyki",
+      "src": "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg",
+      "alt": "Biały maltańczyk odpoczywający w domu",
+      "width": 1156,
+      "height": 1156,
+      "crop": [
+        156.06,
+        26.973333333333244,
+        843.88,
+        1125.1733333333334
+      ],
+      "x": 50.0,
+      "y": 87.5,
+      "scale": 1.0274,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g1.jpg",
+        "assets/photos/maltanczyk.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "breed": "maltanczyki",
+      "src": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg",
+      "alt": "Szczenię maltańczyka na dłoni opiekuna",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        76.79999999999995,
+        0,
+        1382.4,
+        1843.2
+      ],
+      "x": 50.0,
+      "y": 0.0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-1.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "breed": "maltanczyki",
+      "src": "assets/photos/487834875_1267934288280086_5791840663588787362_n.jpg",
+      "alt": "Maltańczyk przy wiklinowym fotelu",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        277.5,
+        530.0,
+        1095.0,
+        1460.0
+      ],
+      "x": 68.519,
+      "y": 98.148,
+      "scale": 1.36986,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g6.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "breed": "maltanczyki",
+      "src": "assets/photos/488494360_1267934188280096_1901540539220119308_n.jpg",
+      "alt": "Maltańczyk na białym kocu w ogrodzie",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        180.0,
+        240.0,
+        1170.0,
+        1560.0
+      ],
+      "x": 54.545,
+      "y": 54.545,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 41,
+      "breed": "maltanczyki",
+      "src": "assets/photos/488795020_1267934138280101_3189858410946945820_n.jpg",
+      "alt": "Maltańczyk na turkusowym kocu wśród kwiatów",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        120.0,
+        200.0,
+        1170.0,
+        1560.0
+      ],
+      "x": 36.364,
+      "y": 45.455,
+      "scale": 1.28205,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-4.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "breed": "maltanczyki",
+      "src": "assets/photos/488904341_1268227141584134_1380843970994118221_n.jpg",
+      "alt": "Maltańczyk odpoczywający na szarej sofie",
+      "width": 984,
+      "height": 1920,
+      "crop": [
+        0,
+        304.0,
+        984.0,
+        1312.0
+      ],
+      "x": 50,
+      "y": 50.0,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/hero-2.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "breed": "maltanczyki",
+      "src": "assets/photos/488940453_1267934134946768_7903063769810543384_n.jpg",
+      "alt": "Maltańczyk odpoczywający na tarasie",
+      "width": 1500,
+      "height": 2000,
+      "crop": [
+        105.0,
+        280.0,
+        1290.0,
+        1720.0
+      ],
+      "x": 50.0,
+      "y": 100.0,
+      "scale": 1.16279,
+      "fit": "cover",
+      "aliases": [
+        "assets/photos/g2.jpg"
+      ]
+    },
+    {
+      "id": 74,
+      "breed": "maltanczyki",
+      "src": "assets/photos/495864933_2173071249822906_895956325483558944_n.jpg",
+      "alt": "Dwa szczenięta maltańczyka na różowej pościeli",
+      "width": 2048,
+      "height": 1536,
+      "crop": [
+        448.0,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": []
+    },
+    {
+      "id": 75,
+      "breed": "maltanczyki",
+      "src": "assets/photos/496006264_2173071329822898_8022415215269213203_n.jpg",
+      "alt": "Szczenię maltańczyka obok dłoni opiekuna",
+      "width": 1304,
+      "height": 2048,
+      "crop": [
+        117.36000000000001,
+        133.01333333333332,
+        1121.44,
+        1495.2533333333333
+      ],
+      "x": 64.286,
+      "y": 24.064,
+      "scale": 1.16279,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 76,
+      "breed": "maltanczyki",
+      "src": "assets/photos/496447673_2173071286489569_6986596573527187025_n.jpg",
+      "alt": "Maltańczyki na sofie obok pluszowej zabawki",
+      "width": 2048,
+      "height": 1627,
+      "crop": [
+        413.875,
+        0,
+        1220.25,
+        1627.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": []
+    },
+    {
+      "id": 77,
+      "breed": "maltanczyki",
+      "src": "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg",
+      "alt": "Maltańczyki odpoczywające na ciemnym kocu",
+      "width": 2048,
+      "height": 1843,
+      "crop": [
+        332.875,
+        0,
+        1382.25,
+        1843.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": [
+        "assets/photos/g3.jpg"
+      ],
+      "galleryOmission": {
+        "representedBy": 76,
+        "reason": "Powtarzające się ujęcie tych samych maltańczyków na kocu z maskotką."
+      }
+    },
+    {
+      "id": 78,
+      "breed": "maltanczyki",
+      "src": "assets/photos/496695757_2173071216489576_3034373401938464646_n.jpg",
+      "alt": "Maltańczyki podczas zabawy przy sofie",
+      "width": 1728,
+      "height": 1112,
+      "crop": [
+        447.0,
+        0,
+        834.0,
+        1112.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": []
+    },
+    {
+      "id": 79,
+      "breed": "maltanczyki",
+      "src": "assets/photos/496843194_2173071439822887_6375335805667796964_n.jpg",
+      "alt": "Portret szczenięcia maltańczyka na dłoni",
+      "width": 2048,
+      "height": 1536,
+      "crop": [
+        755.2,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 84.286,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 80,
+      "breed": "maltanczyki",
+      "src": "assets/photos/497401915_2173071239822907_3077750472789194896_n.jpg",
+      "alt": "Maltańczyki i ich pluszowa zabawka",
+      "width": 2048,
+      "height": 1536,
+      "crop": [
+        448.0,
+        0,
+        1152.0,
+        1536.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "contain",
+      "aliases": [],
+      "galleryOmission": {
+        "representedBy": 76,
+        "reason": "Powtarzające się ujęcie tych samych maltańczyków na kocu z maskotką."
+      }
+    },
+    {
+      "id": 89,
+      "breed": "maltanczyki",
+      "src": "assets/photos/530684154_1377625777310936_2913036216927200711_n.jpg",
+      "alt": "Maltańczyk na trawie w ogrodzie",
+      "width": 1282,
+      "height": 1204,
+      "crop": [
+        189.5,
+        0,
+        903.0,
+        1204.0
+      ],
+      "x": 50.0,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 263,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/benio.jpg",
+      "alt": "Maltańczyk przytulony do opiekuna",
+      "width": 1242,
+      "height": 1656,
+      "crop": [
+        0.0,
+        0.0,
+        1242.0,
+        1656.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/op-11.jpg"
+      ]
+    },
+    {
+      "id": 265,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/dyzio.jpg",
+      "alt": "Maltańczyk na trawie z zieloną zabawką",
+      "width": 1536,
+      "height": 2048,
+      "crop": [
+        76.79930879930885,
+        0.0,
+        1382.4013824013823,
+        1843.201843201843
+      ],
+      "x": 50,
+      "y": 0,
+      "scale": 1.11111,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/op-19.jpg"
+      ]
+    },
+    {
+      "id": 267,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/GABI.jpg",
+      "alt": "Maltańczyk z kokardką na szarej kanapie",
+      "width": 922,
+      "height": 960,
+      "crop": [
+        101.0,
+        0.0,
+        720.0,
+        960.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/op-2.jpg"
+      ]
+    },
+    {
+      "id": 269,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/op-1.jpg",
+      "alt": "Szczeniak maltańczyka leżący na podłodze",
+      "width": 460,
+      "height": 280,
+      "crop": [
+        85.0,
+        0.0,
+        210.0,
+        280.0
+      ],
+      "x": 34,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/opinia-6.jpg"
+      ]
+    },
+    {
+      "id": 271,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/op-13.webp",
+      "alt": "Maltańczyk odpoczywający na miękkim szarym kocu",
+      "width": 650,
+      "height": 674,
+      "crop": [
+        72.25,
+        0.0,
+        505.5,
+        674.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/opinia-8.webp"
+      ]
+    },
+    {
+      "id": 273,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/op-16.jpg",
+      "alt": "Maltańczyk wtulony w zielony koc",
+      "width": 433,
+      "height": 295,
+      "crop": [
+        179.9875,
+        0.0,
+        221.25,
+        295.0
+      ],
+      "x": 85,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/opinia-7.jpg"
+      ]
+    },
+    {
+      "id": 275,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/pola.webp",
+      "alt": "Maltańczyk opierający łapki na kanapie",
+      "width": 480,
+      "height": 642,
+      "crop": [
+        0.0,
+        1.0,
+        480.0,
+        640.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/op-18.webp"
+      ]
+    },
+    {
+      "id": 277,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/skrapi.jpg",
+      "alt": "Maltańczyk z niebieską chustką na podłodze",
+      "width": 280,
+      "height": 374,
+      "crop": [
+        0.0,
+        0.3333333333333428,
+        280.0,
+        373.3333333333333
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/op-6.jpg"
+      ]
+    },
+    {
+      "id": 279,
+      "breed": "maltanczyki",
+      "src": "assets/opinie/op-9.jpg",
+      "alt": "Maltańczyk z kucykiem siedzący na kolanach",
+      "width": 384,
+      "height": 379,
+      "crop": [
+        49.875,
+        0.0,
+        284.25,
+        379.0
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "fit": "cover",
+      "aliases": [
+        "assets/opinie/opinia-4.jpg"
+      ]
+    },
+    {
+      "id": 281,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-elf-czarny.jpg",
+      "alt": "Elf, czarny krótkowłosy Chihuahua na dłoni opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        216,
+        280,
+        840,
+        1120
+      ],
+      "x": 60.0,
+      "y": 58.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 282,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-gabi-czekoladowa.jpg",
+      "alt": "Gabi, czekoladowa krótkowłosa suczka Chihuahua z przechyloną główką",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        60,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 12.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 283,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-gacek-czekoladowy-podpalany.jpg",
+      "alt": "Gacek, czekoladowy podpalany Chihuahua na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        190,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 39.583,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 284,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fibi-niebieska.jpg",
+      "alt": "Fibi, niebieska krótkowłosa suczka Chihuahua w słońcu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        100,
+        960,
+        1280
+      ],
+      "x": 87.5,
+      "y": 31.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 285,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-portret.jpg",
+      "alt": "Fifi, niebieska krótkowłosa suczka Chihuahua na dłoni opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        180,
+        960,
+        1280
+      ],
+      "x": 66.667,
+      "y": 56.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 286,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fionka-bezowa.jpg",
+      "alt": "Fionka, beżowa krótkowłosa suczka Chihuahua",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        80,
+        70,
+        960,
+        1280
+      ],
+      "x": 33.333,
+      "y": 21.875,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 287,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-na-rekach.jpg",
+      "alt": "Gabi, czekoladowa suczka Chihuahua z białymi znaczeniami na łapkach",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 288,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-na-rekach.jpg",
+      "alt": "Gacek, czekoladowy podpalany piesek Chihuahua na rękach opiekuna",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        30,
+        1140,
+        1520
+      ],
+      "x": 0.0,
+      "y": 37.5,
+      "scale": 1.05263,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 289,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-portret.jpg",
+      "alt": "Fibi, niebieska suczka Chihuahua na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        180,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 37.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 290,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fionka-na-kocu.jpg",
+      "alt": "Fionka, beżowa suczka Chihuahua stojąca na białym kocu",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        80,
+        960,
+        1280
+      ],
+      "x": 100.0,
+      "y": 25.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 291,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/elf-03.jpg",
+      "alt": "Elf, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        300,
+        900,
+        1200
+      ],
+      "x": 70.0,
+      "y": 75.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 292,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/elf-05.jpg",
+      "alt": "Elf, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        360,
+        900,
+        1200
+      ],
+      "x": 56.667,
+      "y": 90.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 293,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-02.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        220,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 45.833,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 294,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-04.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        300,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 75.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 295,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-06.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        150,
+        120,
+        960,
+        1280
+      ],
+      "x": 62.5,
+      "y": 37.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 296,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fibi-07.jpg",
+      "alt": "Fibi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        280,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 70.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 297,
+      "breed": "chihuahua",
+      "src": "assets/photos/puppy-fifi-niebieska.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        170,
+        960,
+        1280
+      ],
+      "x": 70.833,
+      "y": 53.125,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 298,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-03.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        140,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 35.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 299,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fifi-04.jpg",
+      "alt": "Fifi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        280,
+        960,
+        1280
+      ],
+      "x": 83.333,
+      "y": 87.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 300,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fiona-03.jpg",
+      "alt": "Fionka, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        160,
+        960,
+        1280
+      ],
+      "x": 66.667,
+      "y": 50.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 301,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/fiona-04.jpg",
+      "alt": "Fionka, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        180,
+        960,
+        1280
+      ],
+      "x": 83.333,
+      "y": 56.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 302,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-01.jpg",
+      "alt": "Gabi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        60,
+        840,
+        1120
+      ],
+      "x": 50.0,
+      "y": 12.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 303,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gabi-04.jpg",
+      "alt": "Gabi, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 304,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-02.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        200,
+        900,
+        1200
+      ],
+      "x": 60.0,
+      "y": 50.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 305,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-04.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        220,
+        900,
+        1200
+      ],
+      "x": 66.667,
+      "y": 55.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 306,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-05.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 307,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10/gacek-06.jpg",
+      "alt": "Gacek, Chihuahua z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        0,
+        1200,
+        1600
+      ],
+      "x": 50,
+      "y": 50,
+      "scale": 1.0,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 308,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-01.jpg",
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        220,
+        260,
+        840,
+        1120
+      ],
+      "x": 61.111,
+      "y": 54.167,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 309,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-02.jpg",
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        230,
+        240,
+        840,
+        1120
+      ],
+      "x": 63.889,
+      "y": 50.0,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 310,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-03.jpg",
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        190,
+        240,
+        840,
+        1120
+      ],
+      "x": 52.778,
+      "y": 50.0,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 311,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-04.jpg",
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        220,
+        900,
+        1200
+      ],
+      "x": 70.0,
+      "y": 55.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 312,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hana-05.jpg",
+      "alt": "Hana, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        100,
+        900,
+        1200
+      ],
+      "x": 53.333,
+      "y": 25.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 313,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-01.jpg",
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        350,
+        900,
+        1200
+      ],
+      "x": 53.333,
+      "y": 87.5,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 314,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-02.jpg",
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        100,
+        420,
+        840,
+        1120
+      ],
+      "x": 27.778,
+      "y": 87.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 315,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-03.jpg",
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        320,
+        840,
+        1120
+      ],
+      "x": 55.556,
+      "y": 66.667,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 316,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-04.jpg",
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        220,
+        300,
+        840,
+        1120
+      ],
+      "x": 61.111,
+      "y": 62.5,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 317,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/hela-05.jpg",
+      "alt": "Hela, niebieska suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        200,
+        260,
+        840,
+        1120
+      ],
+      "x": 55.556,
+      "y": 54.167,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 318,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-01.jpg",
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        250,
+        290,
+        840,
+        1120
+      ],
+      "x": 69.444,
+      "y": 60.417,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 319,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-02.jpg",
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        150,
+        220,
+        900,
+        1200
+      ],
+      "x": 50.0,
+      "y": 55.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 320,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-03.jpg",
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        310,
+        400,
+        840,
+        1120
+      ],
+      "x": 86.111,
+      "y": 83.333,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 321,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/heidi-04.jpg",
+      "alt": "Heidi, czarna suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        220,
+        180,
+        900,
+        1200
+      ],
+      "x": 73.333,
+      "y": 45.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 322,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-01.jpg",
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        270,
+        350,
+        840,
+        1120
+      ],
+      "x": 75.0,
+      "y": 72.917,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 323,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-02.jpg",
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        270,
+        340,
+        840,
+        1120
+      ],
+      "x": 75.0,
+      "y": 70.833,
+      "scale": 1.42857,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 324,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-03.jpg",
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        150,
+        200,
+        960,
+        1280
+      ],
+      "x": 62.5,
+      "y": 62.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 325,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/havana-04.jpg",
+      "alt": "Havana, biało-beżowa suczka Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        160,
+        960,
+        1280
+      ],
+      "x": 70.833,
+      "y": 50.0,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 326,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-01.jpg",
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        180,
+        200,
+        900,
+        1200
+      ],
+      "x": 60.0,
+      "y": 50.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 327,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-02.jpg",
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        60,
+        120,
+        960,
+        1280
+      ],
+      "x": 25.0,
+      "y": 37.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 328,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-03.jpg",
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        90,
+        160,
+        900,
+        1200
+      ],
+      "x": 30.0,
+      "y": 40.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 329,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-04.jpg",
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        160,
+        120,
+        900,
+        1200
+      ],
+      "x": 53.333,
+      "y": 30.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 330,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/coddy-05.jpg",
+      "alt": "Coddy, czekoladowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        250,
+        150,
+        900,
+        1200
+      ],
+      "x": 83.333,
+      "y": 37.5,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 331,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-01.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        90,
+        120,
+        960,
+        1280
+      ],
+      "x": 37.5,
+      "y": 37.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 332,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-02.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        100,
+        100,
+        960,
+        1280
+      ],
+      "x": 41.667,
+      "y": 31.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 333,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-03.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        80,
+        900,
+        1200
+      ],
+      "x": 80.0,
+      "y": 20.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 334,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-04.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        280,
+        100,
+        900,
+        1200
+      ],
+      "x": 93.333,
+      "y": 25.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 335,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-05.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        210,
+        120,
+        900,
+        1200
+      ],
+      "x": 70.0,
+      "y": 30.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 336,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-06.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        120,
+        60,
+        900,
+        1200
+      ],
+      "x": 40.0,
+      "y": 15.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 337,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-07.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        240,
+        60,
+        900,
+        1200
+      ],
+      "x": 80.0,
+      "y": 15.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 338,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/czarus-08.jpg",
+      "alt": "Czaruś, liliowy piesek Chihuahua długowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        240,
+        900,
+        1200
+      ],
+      "x": 0.0,
+      "y": 60.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 339,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-01.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        130,
+        100,
+        900,
+        1200
+      ],
+      "x": 43.333,
+      "y": 25.0,
+      "scale": 1.33333,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 340,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-02.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        0,
+        40,
+        960,
+        1280
+      ],
+      "x": 0.0,
+      "y": 12.5,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 341,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-03.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        20,
+        60,
+        960,
+        1280
+      ],
+      "x": 8.333,
+      "y": 18.75,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 342,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-04.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        20,
+        70,
+        960,
+        1280
+      ],
+      "x": 8.333,
+      "y": 21.875,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 343,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-05.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        170,
+        180,
+        960,
+        1280
+      ],
+      "x": 70.833,
+      "y": 56.25,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    },
+    {
+      "id": 344,
+      "breed": "chihuahua",
+      "src": "assets/photos/chihuahua-2026-10-07/haczi-06.jpg",
+      "alt": "Haczi, beżowy piesek Chihuahua krótkowłosego z hodowli Bajeczne Urwisy",
+      "width": 1200,
+      "height": 1600,
+      "crop": [
+        100,
+        150,
+        960,
+        1280
+      ],
+      "x": 41.667,
+      "y": 46.875,
+      "scale": 1.25,
+      "fit": "cover",
+      "aliases": []
+    }
+  ],
+  "excluded": [
+    {
+      "src": "assets/photos/354776148_653068083362503_1002884658195686127_n.png",
+      "reason": "Logo, nie fotografia psa"
+    }
+  ],
+  "galleryOrder": {
+    "chihuahua": [
+      343,
+      332,
+      327,
+      325,
+      321,
+      315,
+      311,
+      308,
+      309,
+      310,
+      312,
+      313,
+      314,
+      316,
+      317,
+      318,
+      319,
+      320,
+      322,
+      323,
+      324,
+      326,
+      328,
+      329,
+      330,
+      331,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      344,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      177,
+      176,
+      178,
+      179,
+      180,
+      181,
+      182,
+      166,
+      162,
+      163,
+      164,
+      165,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      183,
+      184,
+      185,
+      130,
+      122,
+      123,
+      124,
+      125,
+      126,
+      129,
+      131,
+      132,
+      134,
+      135,
+      133,
+      138,
+      136,
+      139,
+      141,
+      142,
+      148,
+      145,
+      146,
+      147,
+      149,
+      150,
+      151,
+      152,
+      156,
+      153,
+      154,
+      157,
+      158,
+      161,
+      2,
+      3,
+      196,
+      4,
+      5,
+      14,
+      17,
+      19,
+      26,
+      27,
+      28,
+      29,
+      30,
+      33,
+      31,
+      34,
+      32,
+      36,
+      40,
+      42,
+      46,
+      38,
+      39,
+      44,
+      47,
+      48,
+      49,
+      50,
+      51,
+      54,
+      55,
+      60,
+      62,
+      63,
+      67,
+      52,
+      53,
+      59,
+      64,
+      56,
+      57,
+      68,
+      69,
+      61,
+      65,
+      66,
+      70,
+      71,
+      72,
+      73,
+      81,
+      83,
+      82,
+      84,
+      85,
+      259,
+      260,
+      86,
+      87,
+      88,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      109,
+      101,
+      102,
+      105,
+      108,
+      104,
+      107,
+      103,
+      110,
+      111,
+      114,
+      112,
+      113,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      58,
+      188,
+      189,
+      190,
+      191
+    ],
+    "maltanczyki": [
+      24,
+      35,
+      20,
+      22,
+      23,
+      10,
+      11,
+      12,
+      25,
+      37,
+      41,
+      16,
+      18,
+      15,
+      89,
+      45,
+      43,
+      74,
+      75,
+      79,
+      76,
+      78,
+      8,
+      263,
+      265,
+      267,
+      269,
+      271,
+      273,
+      275,
+      277,
+      279
+    ]
+  }
+}

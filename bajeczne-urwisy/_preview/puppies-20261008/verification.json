@@ -1,0 +1,23 @@
+{
+  "incomingFiles": 69,
+  "distinctIncomingPhotos": 68,
+  "newPhotos": 37,
+  "restoredPhotos": 1,
+  "alreadyPresent": 30,
+  "duplicateFilesSkipped": 1,
+  "newAvailableCards": [
+    "Haczi",
+    "Czaruś",
+    "Coddy",
+    "Havana",
+    "Heidi",
+    "Hela",
+    "Hana"
+  ],
+  "availableCards": 13,
+  "homedCards": 12,
+  "chihuahuaGallery": 214,
+  "allIncomingPhotosRepresentedOnce": true,
+  "originalPhotoFilesPreserved": true,
+  "existingCardsAndOtherVisibleCopyPreserved": true
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "label": "ELF 01",
+    "name": "Elf",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\elf\\WhatsApp Image 2026-10-04 at 21.39.24.jpeg",
+    "src": "assets/photos/puppy-elf-czarny.jpg",
+    "id": 281
+  },
+  {
+    "label": "GABI 02",
+    "name": "Gabi",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.29.12.jpeg",
+    "src": "assets/photos/puppy-gabi-czekoladowa.jpg",
+    "id": 282
+  },
+  {
+    "label": "GACEK 01",
+    "name": "Gacek",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.25.37.jpeg",
+    "src": "assets/photos/puppy-gacek-czekoladowy-podpalany.jpg",
+    "id": 283
+  },
+  {
+    "label": "FIBI 05",
+    "name": "Fibi",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\WhatsApp Image 2026-10-04 at 21.21.59.jpeg",
+    "src": "assets/photos/puppy-fibi-niebieska.jpg",
+    "id": 284
+  },
+  {
+    "label": "FIFI 02",
+    "name": "Fifi",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fifi\\WhatsApp Image 2026-10-04 at 21.16.14.jpeg",
+    "src": "assets/photos/chihuahua-2026-10/fifi-portret.jpg",
+    "id": 285
+  },
+  {
+    "label": "FIONA 01",
+    "name": "Fionka",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.10.31.jpeg",
+    "src": "assets/photos/puppy-fionka-bezowa.jpg",
+    "id": 286
+  },
+  {
+    "label": "GABI 03",
+    "name": "Gabi",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gabi\\WhatsApp Image 2026-10-04 at 21.29.24.jpeg",
+    "src": "assets/photos/chihuahua-2026-10/gabi-na-rekach.jpg",
+    "id": 287
+  },
+  {
+    "label": "GACEK 03",
+    "name": "Gacek",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\gacek\\WhatsApp Image 2026-10-04 at 21.26.11.jpeg",
+    "src": "assets/photos/chihuahua-2026-10/gacek-na-rekach.jpg",
+    "id": 288
+  },
+  {
+    "label": "FIBI 01",
+    "name": "Fibi",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fibi\\34a8339c-d31d-4b7e-9af5-3199fb97caa1.jpg",
+    "src": "assets/photos/chihuahua-2026-10/fibi-portret.jpg",
+    "id": 289
+  },
+  {
+    "label": "FIONA 02",
+    "name": "Fionka",
+    "source": "C:\\Users\\Admin\\Desktop\\psy\\fiona\\WhatsApp Image 2026-10-04 at 21.10.52.jpeg",
+    "src": "assets/photos/chihuahua-2026-10/fionka-na-kocu.jpg",
+    "id": 290
+  }
+]

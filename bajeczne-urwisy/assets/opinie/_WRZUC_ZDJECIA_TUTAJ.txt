@@ -1,0 +1,44 @@
+WRZUĆ TUTAJ ZDJĘCIA DO OPINII
+========================================================
+
+Każda opinia na stronie ma swoje zdjęcie pieska. Zapisz pliki DOKŁADNIE
+pod nazwami z listy poniżej, a zdjęcia pojawią się automatycznie
+(wystarczy odświeżyć stronę). Najlepiej format .jpg.
+
+Dopóki pliku nie ma, w karcie widać delikatny znak (łapka + napis
+„Wkrótce zdjęcie") — to normalne, zniknie po wrzuceniu zdjęcia.
+
+LISTA ZDJĘĆ (kolejność = kolejność na stronie):
+
+  opinia-1.jpg  -> Pani Sara / Milo
+                   (czekoladowy Chihuahua w trawie, czarne szelki, język)
+
+  opinia-2.jpg  -> Pani Małgorzata / Zoja
+                   (brązowo-podpalany Chihuahua na kanapie, szelki w panterkę)
+
+  opinia-3.jpg  -> Pani Agnieszka / Edzio
+                   (czarny Chihuahua w samochodzie, patrzy przez okno)
+
+  opinia-4.jpg  -> Pani Katarzyna / Lala
+                   (biały Maltańczyk z fioletową kokardką, na kolanach)
+
+  opinia-5.jpg  -> Pan Rafał / Gabi
+                   (kremowy Chihuahua siedzący w wózku)
+
+  opinia-6.jpg  -> Pani Kamila / Tedi
+                   (biało-łaciaty Chihuahua w trawie, patrzy w górę)
+
+  opinia-7.jpg  -> Pani Basia
+                   (biały szczeniak Maltańczyka zza zielonego swetra)
+
+  opinia-8.jpg  -> Pani Magdalena
+                   (biały śpiący szczeniak Maltańczyka z bliska, na futerku)
+
+  opinia-9.jpg  -> Pani Agnieszka
+                   (beżowo-podpalany Chihuahua z długim językiem, na łóżku)
+
+WSKAZÓWKA: zdjęcia mogą być kwadratowe lub pionowe — strona sama
+dopasuje kadr (wyśrodkowany). Najlepiej wyglądają zdjęcia, na których
+piesek jest mniej więcej na środku.
+
+Ten plik możesz spokojnie usunąć.

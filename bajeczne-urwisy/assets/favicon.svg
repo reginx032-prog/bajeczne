@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bajeczne Urwisy">
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#9A6B47"/>
+  <g fill="none" stroke="#FBF7F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 24 q-5 -13 3 -15 q5 -1 5 8 q5 -3 12 -3 q-1 -9 4 -8 q8 2 3 15 q5 7 3 16 q-2 9 -11 12 q-11 3 -22 0"/>
+    <path d="M22 52 q-7 -3 -9 -12 q-1 -8 4 -14"/>
+  </g>
+  <circle cx="27" cy="33" r="2" fill="#FBF7F1"/>
+  <circle cx="39" cy="33" r="2" fill="#FBF7F1"/>
+  <path d="M30 40 q3 3 6 0" fill="none" stroke="#FBF7F1" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

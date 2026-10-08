@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Chihuahua colors guide</title>
+  <desc id="desc">Chihuahua portrait with sable, chocolate and blue color swatches.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <circle cx="275" cy="276" r="122" fill="#fff" stroke="#2b2a25" stroke-width="10"/>
+  <path d="M188 252c-65-82-127-22-76 66 22-30 48-51 76-66z" fill="#8b5f42" stroke="#2b2a25" stroke-width="9"/>
+  <path d="M362 252c65-82 127-22 76 66-22-30-48-51-76-66z" fill="#8b5f42" stroke="#2b2a25" stroke-width="9"/>
+  <circle cx="238" cy="282" r="8" fill="#2b2a25"/>
+  <circle cx="312" cy="282" r="8" fill="#2b2a25"/>
+  <path d="M274 304l-12 16h24z" fill="#2b2a25"/>
+  <path d="M252 332c14 12 30 12 44 0" fill="none" stroke="#2b2a25" stroke-width="8" stroke-linecap="round"/>
+  <rect x="500" y="146" width="140" height="74" rx="24" fill="#c59a5f"/>
+  <rect x="500" y="238" width="140" height="74" rx="24" fill="#5b3526"/>
+  <rect x="500" y="330" width="140" height="74" rx="24" fill="#68717a"/>
+  <path d="M670 184h42M670 276h42M670 368h42" stroke="#2b2a25" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="650" cy="112" r="34" fill="#efe6d9"/>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgI" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgI)"/>
+
+  <path d="M400,62 C558,54 660,146 654,260 C648,372 548,442 400,444 C258,446 148,366 154,252 C160,142 258,70 400,62 Z" fill="#EBE0CC" opacity=".5"/>
+
+  <!-- iskra kontaktu -->
+  <g stroke="#C7A57A" stroke-width="6" stroke-linecap="round">
+    <path d="M398,214 L398,190"/>
+    <path d="M362,226 L344,208"/>
+    <path d="M434,226 L452,208"/>
+    <path d="M350,258 L326,252"/>
+    <path d="M446,258 L470,252"/>
+  </g>
+  <path d="M398,158 C398,150 384,146 384,154 C384,160 392,164 398,170 C404,164 412,160 412,154 C412,146 398,150 398,158 Z" fill="#A6714A"/>
+  <g fill="#C7A57A">
+    <path d="M310,140 C312,150 314,152 324,154 C314,156 312,158 310,168 C308,158 306,156 296,154 C306,152 308,150 310,140 Z"/>
+    <path d="M492,128 C493.5,135 495,136.5 502,138 C495,139.5 493.5,141 492,148 C490.5,141 489,139.5 482,138 C489,136.5 490.5,135 492,128 Z" opacity=".85"/>
+    <path d="M660,220 C661.5,227 663,228.5 670,230 C663,231.5 661.5,233 660,240 C658.5,233 657,231.5 650,230 C657,228.5 658.5,227 660,220 Z" opacity=".7"/>
+    <path d="M140,230 C141.5,237 143,238.5 150,240 C143,241.5 141.5,243 140,250 C138.5,243 137,241.5 130,240 C137,238.5 138.5,237 140,230 Z" opacity=".7"/>
+  </g>
+
+  <!-- dywanik -->
+  <ellipse cx="400" cy="462" rx="250" ry="16" fill="#EBE0CC"/>
+
+  <!-- ramię człowieka -->
+  <path d="M212,478 Q262,392 300,322" fill="none" stroke="#C9A87C" stroke-width="80" stroke-linecap="round"/>
+  <!-- dłoń -->
+  <g fill="#F1DCC0">
+    <circle cx="322" cy="286" r="41"/>
+    <rect x="284" y="230" width="17" height="46" rx="8.5" transform="rotate(-24 292 253)"/>
+    <rect x="308" y="222" width="17" height="50" rx="8.5" transform="rotate(-8 316 247)"/>
+    <rect x="331" y="222" width="17" height="50" rx="8.5" transform="rotate(8 339 247)"/>
+    <rect x="352" y="232" width="17" height="44" rx="8.5" transform="rotate(22 360 254)"/>
+    <ellipse cx="356" cy="316" rx="21" ry="13" transform="rotate(38 356 316)"/>
+  </g>
+
+  <!-- łapa psa -->
+  <path d="M588,478 Q516,388 470,296" fill="none" stroke="#E4C7A0" stroke-width="76" stroke-linecap="round"/>
+  <circle cx="462" cy="278" r="44" fill="#E4C7A0"/>
+  <g fill="#A6714A">
+    <ellipse cx="452" cy="288" rx="16" ry="12"/>
+    <circle cx="434" cy="270" r="7.5"/>
+    <circle cx="446" cy="262" r="7.5"/>
+    <circle cx="461" cy="261" r="7.5"/>
+    <circle cx="474" cy="268" r="7.5"/>
+  </g>
+
+  <!-- piłka -->
+  <circle cx="400" cy="424" r="24" fill="#DFC29E"/>
+  <path d="M378,416 Q400,402 422,416" fill="none" stroke="#A6714A" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="400" cy="432" r="4.5" fill="#A6714A"/>
+</svg>

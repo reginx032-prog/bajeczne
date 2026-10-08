@@ -1,0 +1,754 @@
+[
+  {
+    "id": "M01",
+    "src": "assets/photos/g1.jpg",
+    "size": [
+      1156,
+      1156
+    ]
+  },
+  {
+    "id": "M02",
+    "src": "assets/photos/g2.jpg",
+    "size": [
+      1500,
+      2000
+    ]
+  },
+  {
+    "id": "M03",
+    "src": "assets/photos/484072506_1245861933820655_17492189225218602_n.jpg",
+    "size": [
+      1156,
+      1156
+    ]
+  },
+  {
+    "id": "M04",
+    "src": "assets/photos/g3.jpg",
+    "size": [
+      2048,
+      1843
+    ]
+  },
+  {
+    "id": "M05",
+    "src": "assets/photos/496475541_2173071469822884_8643662035300664981_n.jpg",
+    "size": [
+      2048,
+      1843
+    ]
+  },
+  {
+    "id": "M06",
+    "src": "assets/photos/g4.jpg",
+    "size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "id": "M07",
+    "src": "assets/photos/475806227_1216475530092629_2020720086280144622_n.jpg",
+    "size": [
+      1125,
+      1500
+    ]
+  },
+  {
+    "id": "M08",
+    "src": "assets/photos/g5.jpg",
+    "size": [
+      1125,
+      1500
+    ]
+  },
+  {
+    "id": "M09",
+    "src": "assets/photos/482978515_1245861713820677_1475201332155458575_n (1).jpg",
+    "size": [
+      1536,
+      1536
+    ]
+  },
+  {
+    "id": "M10",
+    "src": "assets/photos/484365662_1249451543461694_3086579204630291966_n.jpg",
+    "size": [
+      1536,
+      2048
+    ]
+  },
+  {
+    "id": "M11",
+    "src": "assets/photos/g6.jpg",
+    "size": [
+      1500,
+      2000
+    ]
+  },
+  {
+    "id": "C01",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-01.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C02",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-02.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C03",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-03.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C04",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-04.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C05",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-05.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C06",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-06.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C07",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-07.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C08",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-08.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C09",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-09.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C10",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-10.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C11",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-11.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C12",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-12.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C13",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-13.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C14",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-14.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C15",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-15.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C16",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-16.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C17",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-17.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C18",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-18.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C19",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-19.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C20",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-20.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C21",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-21.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C22",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-22.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C23",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-23.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C24",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-24.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C25",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-25.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C26",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-26.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C27",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-27.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C28",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-28.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C29",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-29.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C30",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-30.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C31",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-31.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C32",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-32.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C33",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-33.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C34",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-34.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C35",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-35.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C36",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-36.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C37",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-37.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C38",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-38.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C39",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-39.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C40",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-40.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C41",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-41.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C42",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-42.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C43",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-43.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C44",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-44.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C45",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-45.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C46",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-46.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C47",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-47.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C48",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-48.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C49",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-49.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C50",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-50.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C51",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-51.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C52",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-52.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C53",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-53.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C54",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-54.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C55",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-55.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C56",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-56.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C57",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-57.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C58",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-58.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C59",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-59.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C60",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-60.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C61",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-61.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C62",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-62.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C63",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-63.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C64",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-64.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C65",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-65.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C66",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-66.jpg",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "id": "C67",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-67.jpg",
+    "size": [
+      901,
+      1600
+    ]
+  },
+  {
+    "id": "C68",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-68.jpg",
+    "size": [
+      900,
+      1600
+    ]
+  },
+  {
+    "id": "C69",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-69.jpg",
+    "size": [
+      900,
+      1600
+    ]
+  },
+  {
+    "id": "C70",
+    "src": "assets/photos/chihuahua-2026/chihuahua-2026-70.jpg",
+    "size": [
+      900,
+      1600
+    ]
+  },
+  {
+    "id": "C71",
+    "src": "assets/photos/gallery-chihuahua-01.png",
+    "size": [
+      689,
+      680
+    ]
+  },
+  {
+    "id": "C72",
+    "src": "assets/photos/gallery-chihuahua-02.png",
+    "size": [
+      686,
+      656
+    ]
+  },
+  {
+    "id": "C73",
+    "src": "assets/photos/gallery-chihuahua-03.png",
+    "size": [
+      686,
+      510
+    ]
+  },
+  {
+    "id": "C74",
+    "src": "assets/photos/gallery-chihuahua-04.png",
+    "size": [
+      682,
+      686
+    ]
+  },
+  {
+    "id": "C75",
+    "src": "assets/photos/gallery-chihuahua-05.png",
+    "size": [
+      683,
+      610
+    ]
+  },
+  {
+    "id": "C76",
+    "src": "assets/photos/gallery-chihuahua-06.png",
+    "size": [
+      750,
+      605
+    ]
+  },
+  {
+    "id": "C77",
+    "src": "assets/photos/gallery-chihuahua-07.png",
+    "size": [
+      709,
+      640
+    ]
+  },
+  {
+    "id": "C78",
+    "src": "assets/photos/gallery-chihuahua-08.png",
+    "size": [
+      477,
+      456
+    ]
+  },
+  {
+    "id": "C79",
+    "src": "assets/photos/gallery-chihuahua-09.png",
+    "size": [
+      441,
+      440
+    ]
+  },
+  {
+    "id": "C80",
+    "src": "assets/photos/gallery-chihuahua-10.png",
+    "size": [
+      704,
+      585
+    ]
+  },
+  {
+    "id": "C81",
+    "src": "assets/photos/gallery-chihuahua-11.png",
+    "size": [
+      693,
+      649
+    ]
+  },
+  {
+    "id": "C82",
+    "src": "assets/photos/gallery-chihuahua-12.png",
+    "size": [
+      687,
+      587
+    ]
+  },
+  {
+    "id": "C83",
+    "src": "assets/photos/gallery-chihuahua-13.png",
+    "size": [
+      690,
+      611
+    ]
+  }
+]

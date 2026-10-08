@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgF)"/>
+
+  <path d="M400,74 C552,66 654,152 650,262 C646,370 548,438 400,440 C262,442 156,364 160,254 C164,148 262,82 400,74 Z" fill="#EBE0CC" opacity=".5"/>
+  <ellipse cx="400" cy="440" rx="230" ry="18" fill="#2A2823" opacity=".07"/>
+
+  <g fill="#C7A57A">
+    <path d="M148,120 C150,130 152,132 162,134 C152,136 150,138 148,148 C146,138 144,136 134,134 C144,132 146,130 148,120 Z"/>
+    <path d="M490,120 C491.5,127 493,128.5 500,130 C493,131.5 491.5,133 490,140 C488.5,133 487,131.5 480,130 C487,128.5 488.5,127 490,120 Z" opacity=".85"/>
+  </g>
+  <path d="M170,300 Q140,240 172,180" fill="none" stroke="#C7A57A" stroke-width="5" stroke-linecap="round" stroke-dasharray="0.1 17" opacity=".7"/>
+
+  <!-- zegar -->
+  <circle cx="640" cy="150" r="46" fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5"/>
+  <circle cx="640" cy="116" r="3.2" fill="#C7A57A"/>
+  <circle cx="640" cy="184" r="3.2" fill="#C7A57A"/>
+  <circle cx="606" cy="150" r="3.2" fill="#C7A57A"/>
+  <circle cx="674" cy="150" r="3.2" fill="#C7A57A"/>
+  <path d="M640,150 L640,122 M640,150 L661,164" fill="none" stroke="#2A2823" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="640" cy="150" r="5" fill="#A6714A"/>
+
+  <!-- chrupki -->
+  <g fill="#8F6B4C">
+    <circle cx="352" cy="272" r="13"/>
+    <circle cx="376" cy="264" r="13"/>
+    <circle cx="400" cy="260" r="13"/>
+    <circle cx="424" cy="264" r="13"/>
+    <circle cx="448" cy="272" r="13"/>
+  </g>
+  <g fill="#A6714A">
+    <circle cx="376" cy="246" r="12"/>
+    <circle cx="400" cy="238" r="12"/>
+    <circle cx="424" cy="246" r="12"/>
+  </g>
+
+  <!-- miska -->
+  <path d="M285,300 L515,300 Q512,398 400,402 Q288,398 285,300 Z" fill="#C9A87C"/>
+  <rect x="272" y="284" width="256" height="30" rx="15" fill="#B08D63"/>
+  <g fill="#F7F1E6">
+    <ellipse cx="400" cy="358" rx="16" ry="12"/>
+    <circle cx="382" cy="340" r="6.5"/>
+    <circle cx="393" cy="334" r="6.5"/>
+    <circle cx="407" cy="334" r="6.5"/>
+    <circle cx="418" cy="340" r="6.5"/>
+  </g>
+
+  <!-- jabłko i marchewka -->
+  <circle cx="225" cy="392" r="34" fill="#DFC29E"/>
+  <path d="M225,360 L225,344" stroke="#8F6B4C" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="243" cy="348" rx="15" ry="7" fill="#BFC8BD" transform="rotate(-28 243 348)"/>
+  <g transform="translate(152,376) rotate(30)">
+    <path d="M-13,-34 L13,-34 Q16,-34 15,-30 L4,52 Q2,60 0,60 Q-2,60 -4,52 L-15,-30 Q-16,-34 -13,-34 Z" fill="#C98A5B"/>
+    <path d="M-10,-38 Q-16,-58 -24,-64 M0,-38 Q0,-60 0,-68 M10,-38 Q16,-58 24,-64" fill="none" stroke="#BFC8BD" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- miarka -->
+  <path d="M545,352 L625,352 L616,414 Q615,422 605,422 L565,422 Q555,422 554,414 Z" fill="#F7F1E6" stroke="#E4D6BE" stroke-width="4"/>
+  <rect x="622" y="358" width="50" height="12" rx="6" fill="#E4D6BE"/>
+  <path d="M562,370 L578,370 M560,388 L572,388" stroke="#C7A57A" stroke-width="4" stroke-linecap="round"/>
+</svg>

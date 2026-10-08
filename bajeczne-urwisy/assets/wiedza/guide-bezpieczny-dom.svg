@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Safe home guide</title>
+  <desc id="desc">Shield protecting a home and a tiny puppy.</desc>
+  <rect width="800" height="520" rx="42" fill="#fbf7f0"/>
+  <path d="M400 86l210 76v142c0 108-76 164-210 210-134-46-210-102-210-210V162z" fill="#fff" stroke="#2b2a25" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M285 306l115-92 115 92v96H285z" fill="#f3ece2" stroke="#2b2a25" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M256 306l144-115 144 115" fill="none" stroke="#2b2a25" stroke-width="11" stroke-linecap="round"/>
+  <path d="M370 402v-58h60v58" fill="#d6b890" stroke="#2b2a25" stroke-width="8"/>
+  <path d="M340 145c52 30 111 30 170 0" fill="none" stroke="#d6b890" stroke-width="12" stroke-linecap="round"/>
+  <path d="M352 252c16-38 68-38 84 0 33 3 52 28 46 58-7 34-38 52-88 52s-81-18-88-52c-6-30 13-55 46-58z" fill="#fff" stroke="#2b2a25" stroke-width="7"/>
+  <circle cx="374" cy="286" r="6" fill="#2b2a25"/>
+  <circle cx="416" cy="286" r="6" fill="#2b2a25"/>
+</svg>

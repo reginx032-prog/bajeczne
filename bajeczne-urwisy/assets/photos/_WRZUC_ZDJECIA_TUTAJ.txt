@@ -1,0 +1,33 @@
+WRZUĆ TUTAJ ZDJĘCIA PSÓW (np. pobrane z Facebooka)
+====================================================
+
+Zapisz pliki dokładnie pod tymi nazwami, a pojawią się na stronie automatycznie
+(po odświeżeniu). Najlepiej format .jpg, orientacja w miarę kwadratowa/pionowa.
+
+GŁÓWNE ZDJĘCIA
+  hero.jpg          -> duże zdjęcie w sekcji powitalnej (najładniejszy szczeniak)
+  o-hodowli.jpg     -> zdjęcie do sekcji „O hodowli"
+  chihuahua.jpg     -> karta rasy Chihuahua
+  maltanczyk.jpg    -> karta rasy Maltańczyk
+
+SZCZENIĘTA (sekcja „Szczenięta")
+  szczeniak-1.jpg
+  szczeniak-2.jpg
+  szczeniak-3.jpg
+
+GALERIA (8 zdjęć)
+  galeria-1.jpg
+  galeria-2.jpg
+  galeria-3.jpg
+  galeria-4.jpg
+  galeria-5.jpg
+  galeria-6.jpg
+  galeria-7.jpg
+  galeria-8.jpg
+
+JAK POBRAĆ ZDJĘCIE Z FACEBOOKA:
+  1. Otwórz zdjęcie na https://www.facebook.com/BajeczneUrwisy
+  2. Kliknij je prawym przyciskiem myszy -> „Zapisz obraz jako…"
+  3. Zapisz do tego folderu pod jedną z nazw powyżej.
+
+Ten plik (_WRZUC_ZDJECIA_TUTAJ.txt) możesz spokojnie usunąć.

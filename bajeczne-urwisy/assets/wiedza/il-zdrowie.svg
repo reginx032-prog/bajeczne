@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img">
+  <defs>
+    <linearGradient id="bgH" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDFBF6"/>
+      <stop offset="1" stop-color="#F4EEE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgH)"/>
+
+  <path d="M400,64 C558,56 660,148 654,262 C648,374 548,444 400,446 C258,448 148,368 154,254 C160,144 258,72 400,64 Z" fill="#EBE0CC" opacity=".5"/>
+  <ellipse cx="400" cy="452" rx="220" ry="18" fill="#2A2823" opacity=".07"/>
+
+  <g fill="#C7A57A">
+    <path d="M136,260 C138,270 140,272 150,274 C140,276 138,278 136,288 C134,278 132,276 122,274 C132,272 134,270 136,260 Z"/>
+    <path d="M672,300 C673.5,307 675,308.5 682,310 C675,311.5 673.5,313 672,320 C670.5,313 669,311.5 662,310 C669,308.5 670.5,307 672,300 Z" opacity=".85"/>
+  </g>
+
+  <!-- stetoskop (za sercem) -->
+  <path d="M234,150 Q170,222 214,300 Q258,372 356,404 Q416,422 452,412" fill="none" stroke="#2A2823" stroke-width="9" stroke-linecap="round"/>
+  <path d="M215,115 L230,152 M262,92 L240,148" fill="none" stroke="#2A2823" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="213" cy="110" r="8" fill="#A6714A"/>
+  <circle cx="264" cy="88" r="8" fill="#A6714A"/>
+  <circle cx="472" cy="408" r="25" fill="#A6714A"/>
+  <circle cx="472" cy="408" r="11" fill="#F7F1E6"/>
+
+  <!-- serce -->
+  <path d="M400,342 C318,290 266,242 266,180 C266,130 312,106 352,122 C378,132 394,152 400,170 C406,152 422,132 448,122 C488,106 534,130 534,180 C534,242 482,290 400,342 Z" fill="#DFC29E"/>
+  <path d="M318,150 Q300,166 298,190" fill="none" stroke="#F3E4CC" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- linia pulsu -->
+  <path d="M304,230 L352,230 L368,196 L390,266 L406,214 L418,230 L496,230" fill="none" stroke="#2A2823" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- tarcza -->
+  <path d="M622,102 L668,120 L668,168 Q668,206 622,224 Q576,206 576,168 L576,120 Z" fill="#F7F1E6" stroke="#E4D6BE" stroke-width="5"/>
+  <path d="M600,162 L616,178 L645,140" fill="none" stroke="#A6714A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- krzyżyk -->
+  <circle cx="204" cy="388" r="35" fill="#FFFFFF" stroke="#E4D6BE" stroke-width="5"/>
+  <rect x="187" y="382" width="34" height="12" rx="6" fill="#C98A5B"/>
+  <rect x="198" y="371" width="12" height="34" rx="6" fill="#C98A5B"/>
+</svg>

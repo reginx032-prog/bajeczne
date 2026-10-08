@@ -1,0 +1,130 @@
+/* Real gallery photographs, individually framed for the knowledge base.
+   Focal point and magnification live on each .kb-photo-frame in the HTML. */
+
+.kb-gallery-photos .kb-photo-frame {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-width: 0;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--cream-2);
+}
+
+.kb-gallery-photos .kb-photo-frame > img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  max-width: none;
+  aspect-ratio: auto;
+  object-fit: cover;
+  object-position: var(--photo-x, 50%) var(--photo-y, 50%);
+  transform: scale(var(--photo-scale, 1));
+  transform-origin: var(--photo-x, 50%) var(--photo-y, 50%);
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  filter: none;
+  transition: none;
+}
+
+.kb-gallery-photos .kb-photo-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3px;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--cream);
+}
+
+.kb-gallery-photos .kb-photo-pair > .kb-photo-frame {
+  height: 100%;
+  aspect-ratio: auto;
+}
+
+.kb-gallery-photos .kb-photo-label {
+  position: absolute;
+  z-index: 1;
+  bottom: 10px;
+  left: 10px;
+  max-width: calc(100% - 20px);
+  padding: 4px 9px;
+  border-radius: 5px;
+  background: var(--cream);
+  color: var(--ink);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+/* Uniform image height and aligned text across every topic row. */
+.kb-gallery-photos .kb-topic-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.kb-gallery-photos .kb-topic-card {
+  grid-column: auto;
+  grid-row: auto;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
+  min-width: 0;
+  min-height: 0;
+}
+
+.kb-gallery-photos .kb-topic-visual {
+  width: 100%;
+  min-height: 0;
+  aspect-ratio: 4 / 3;
+  border-right: 0;
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.kb-gallery-photos .kb-topic-card:hover .kb-photo-frame > img,
+.kb-gallery-photos .kb-card:hover .kb-photo-frame > img {
+  transform: scale(var(--photo-scale, 1));
+}
+
+.kb-gallery-photos .kb-hub-visual > .kb-photo-frame,
+.kb-gallery-photos .kb-hub-visual > .kb-photo-pair,
+.kb-gallery-photos .article-visual > .kb-photo-frame,
+.kb-gallery-photos .article-visual > .kb-photo-pair {
+  border-radius: calc(var(--radius-xl) - 10px);
+}
+
+.kb-gallery-photos .kb-hub-visual {
+  width: 100%;
+}
+
+.kb-gallery-photos .article-visual {
+  width: 100%;
+  margin: 0;
+}
+
+.kb-gallery-photos .kb-card-visual {
+  flex: 0 0 auto;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+}
+
+.kb-gallery-photos .article-figure > .kb-photo-frame {
+  aspect-ratio: 16 / 10;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-md);
+}
+
+@media (max-width: 1020px) {
+  .kb-gallery-photos .kb-topic-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .kb-gallery-photos .kb-topic-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
