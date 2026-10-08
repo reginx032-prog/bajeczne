@@ -1008,7 +1008,9 @@ ul { margin: 0; padding: 0; list-style: none; }
   /* bez overscroll-behavior: Safari na iOS blokuje wtedy pionowe przewijanie
      strony, gdy palec zaczyna ruch na karuzeli */
   scroll-snap-type: x mandatory;
-  scroll-padding-inline: 2px;
+  /* równe paddingowi: pierwsza karta zatrzymuje się dokładnie na scrollLeft 0;
+     przy 2 px zostawało 2,4 px luzu i Safari na iOS łapało pionowy gest */
+  scroll-padding-inline: .25rem;
   padding: .25rem .25rem .45rem;
   scrollbar-width: none;
   -ms-overflow-style: none;
@@ -1016,6 +1018,12 @@ ul { margin: 0; padding: 0; list-style: none; }
 .puppy-grid::-webkit-scrollbar { display: none; }
 /* karty ukryte z boku karuzeli tylko się pojawiają, bez przesunięcia w pionie */
 .puppy-grid .reveal { transform: none; }
+/* iOS: przytrzymanie zdjęcia nie „podnosi” go do przeciągania */
+.puppy-grid img {
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+  user-select: none;
+}
 .puppy {
   order: 10;
   overflow: hidden;
