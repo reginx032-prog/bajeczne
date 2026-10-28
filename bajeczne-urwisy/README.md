@@ -38,7 +38,7 @@ Po dodaniu zdjęć uruchom `python tools/optimize_delivery.py`, `python tools/bu
 
 W bazie wiedzy kadr ustalają `--photo-x`, `--photo-y` i `--photo-scale` na elemencie `kb-photo-frame`. Fotografie należy sprawdzić na liście tematów, w artykule i w odsyłaczach do powiązanych poradników.
 
-Dane i statusy szczeniąt znajdują się w sekcji `id="szczenieta"` w `index.html`. Aktualizuje się je ręcznie. Karty dostępnych maluszków mają klasę `puppy--available` i poprzedzają karty piesków, które znalazły dom. Po aktualizacji z 19 października 2026 jest 9 dostępnych maluszków i 16 kart piesków, które znalazły dom. Kwadratowe portrety nowych piesków są osobnymi kadrami; galeria przechowuje pełne oryginały. Kontakt, numer telefonu i profile społecznościowe występują na wielu podstronach, więc ich zmianę trzeba zastosować we wszystkich plikach HTML.
+Dane i statusy szczeniąt znajdują się w sekcji `id="szczenieta"` w `index.html`. Aktualizuje się je ręcznie. Karty dostępnych maluszków mają klasę `puppy--available` i poprzedzają karty piesków, które znalazły dom. Po aktualizacji z 28 października 2026 jest 6 dostępnych maluszków i 19 kart piesków, które znalazły dom. Kwadratowe portrety nowych piesków są osobnymi kadrami; galeria przechowuje pełne oryginały. Kontakt, numer telefonu i profile społecznościowe występują na wielu podstronach, więc ich zmianę trzeba zastosować we wszystkich plikach HTML.
 
 Strona nie ma formularza wysyłającego wiadomości ani automatycznego pobierania dostępności z Facebooka. Kontakt odbywa się telefonicznie oraz przez profile społecznościowe.
 
